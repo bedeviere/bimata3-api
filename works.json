@@ -1,0 +1,79 @@
+{
+  "results": [
+    {
+      "slug": "ard-design",
+      "id": 1,
+      "title": "ARD Design",
+      "overview": "ARD Design is an architecture consultant company, based and founded in Jakarta, Indonesia, 1996. Their new site is a collection of portfolio from their early years to modern times.",
+      "role": "Front-end Development, Mobile First Design, CMS Development",
+      "type": "Freelance",
+      "agency_link": "",
+      "agency_name": "",
+      "tools": [
+        {
+          "title": "HTML5"
+        },
+        {
+          "title": "CSS3"
+        },
+        {
+          "title":"LESS"
+        },
+        {
+          "title":"jQuery"
+        },
+        {
+          "title":"CodeIgniter"
+        }
+      ],
+      "link": "http://ard-design.co.id",
+      "thumbnail_path": "/ard-thumb.jpg"
+    },
+    {
+      "slug": "bimata-storywork",
+      "id": 2,
+      "title": "Bimata's Storywork",
+      "overview": "Bimata's Storywork is a collection of tales and poetries, written and published by Bimata himself. He mainly uses Bahasa Indonesia in writing the stories. The new site aims to make readers focused on the stories themselves without being worried about distraction.",
+      "role": "Front-end Development, Mobile First Design, CMS Development",
+      "type": "Personal",
+      "agency_link": "",
+      "agency_name": "",
+      "tools": [
+        {
+          "title": "HTML5"
+        },
+        {
+          "title": "CSS3"
+        },
+        {
+          "title":"LESS"
+        },
+        {
+          "title":"jQuery"
+        },
+        {
+          "title":"WordPress"
+        }
+      ],
+      "link": "http://storywork.bimataprathama.com",
+      "thumbnail_path": "/stwrk-thumb.jpg"
+    },
+    {
+      "slug": "frienemies",
+      "id": 3,
+      "title": "Frienemies",
+      "overview": "Frienemies is a 2-4 player party game with mini-games to test your friendship to the limit! Play with your friends and have them hate you as you win (or mock you for losing) the game! CAUTION: this game may ruin your phone... or your friendship.",
+      "role": "DARUMA SPRINT Development",
+      "type": "School Assignment",
+      "agency_link": "",
+      "agency_name": "",
+      "tools": [
+        {
+          "title": "Unity"
+        }
+      ],
+      "link": "https://play.google.com/store/apps/details?id=com.BDCGames.FrienemiesNew",
+      "thumbnail_path": "/frienemies-thumb.jpg"
+    }
+  ]
+}
