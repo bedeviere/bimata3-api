@@ -1,6 +1,7 @@
 var express = require('express');
 var app = express();
 var fs = require("fs");
+var port = process.env.PORT || 7750;
 
 app.use(function(request, response, next) {
   var allowedOrigins = ['http://127.0.0.1:7749', 'http://localhost:7749', 'http://bedeviere.com', 'http://bimataprathama.com'];
@@ -34,7 +35,7 @@ app.get('/work/:slug', function (req, res) {
    });
 })
 
-var server = app.listen(7750, function () {
+var server = app.listen(port, function () {
   var host = server.address().address
   var port = server.address().port
   console.log("Example app listening at http://%s:%s", host, port)
