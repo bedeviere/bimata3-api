@@ -32,6 +32,9 @@ app.get('/work/:slug', function (req, res) {
           console.log( work );
           res.end( JSON.stringify(work));
         }
+        if (works.results[i].slug != req.params.slug && i == works.results.length - 1) {
+          res.end();
+        }
       }
    });
 })
