@@ -43,7 +43,7 @@
       "slug": "bimata-storywork",
       "id": 2,
       "title": "Bimata's Storywork",
-      "overview": "I used to publish my fictions through blogspot and forums. Using them for years, I started to dislike the distractions that come from reading through them. Then it hit me: \"Why don’t I develop my own website for it?\" Craving for a clean look and distraction-free environment to better hosts my fictions, I found <a href='https://startbootstrap.com/template-overviews/clean-blog' target='_blank'>this</a> clean looking template and decided to start from there.",
+      "overview": "I used to publish my fictions through blogspot and forums. Using them for years, I started to dislike the distractions that come from reading through them. Then it hit me: \"Why don’t I develop my own website for it?\" Craving for a distraction-free environment to better hosts my fictions, I found <a href='https://startbootstrap.com/template-overviews/clean-blog' target='_blank'>this</a> clean looking template and decided to start from there.",
       "role": [
         {
           "name": "Front-end Development"
