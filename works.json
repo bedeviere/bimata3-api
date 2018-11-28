@@ -4,7 +4,7 @@
       "slug": "ard-design",
       "id": 1,
       "title": "ARD Design",
-      "overview": "At first, ARD Design already had a website that embodies their creative taste, with interactivity and everything. The problem is,  everything was created using Flash, an old animation software tool that sacrifice loading speed for the easiness of creating beautiful content, and they hate how slow it was. To answer their need of a website that reflects their identity, creative tastes, and with faster loading, I propose to approach things from another angle. Their unique color palette from their logo.",
+      "overview": "At first, ARD Design already had a website that embodies their creative taste, with interactivity and everything. The problem is, everything was created using Flash, an old animation software tool that sacrifice loading speed for the easiness of creating beautiful content, and they hate how slow it was. To answer their need of a website that reflects their identity, creative tastes, and with faster loading, I propose to approach things from another angle. Their unique color palette from their logo.",
       "role": [
         {
           "name": "Front-end Development"
@@ -37,13 +37,23 @@
         }
       ],
       "link": "http://ard-design.co.id",
-      "thumbnail_path": "/ard-thumb.jpg"
+      "thumbnail_path": "/ard-thumb.jpg",
+      "article": [
+        {
+          "type": "paragraph",
+          "content": "At first, ARD Design already had a website that embodies their creative taste, with interactivity and everything. The problem is, everything was created using Flash, an old animation software tool that sacrifice loading speed for the easiness of creating beautiful content, and they hate how slow it was."
+        },
+        {
+          "type": "paragraph",
+          "content": "To answer their need of a website that reflects their identity, creative tastes, and with faster loading, I propose to approach things from another angle. Their unique color palette from their logo."
+        }
+      ]
     },
     {
       "slug": "bimata-storywork",
       "id": 2,
       "title": "Bimata's Storywork",
-      "overview": "I used to publish my fictions through blogspot and forums. Using them for years, I started to dislike the distractions that come from reading through them. Then it hit me: \"Why don’t I develop my own website for it?\" Craving for a distraction-free environment to better hosts my fictions, I found <a href='https://startbootstrap.com/template-overviews/clean-blog' target='_blank'>this</a> clean looking template and decided to start from there.",
+      "overview": "I used to publish my fictions through blogspot and forums. Using them for years, I started to dislike the distractions that come from reading through them. Then it hit me: \"Why not develop my own website for it?\" Craving for a distraction-free environment to better hosts my fictions, I found <a href='https://startbootstrap.com/template-overviews/clean-blog' target='_blank'>this</a> clean looking template and decided to start from there.",
       "role": [
         {
           "name": "Front-end Development"
@@ -73,7 +83,21 @@
         }
       ],
       "link": "http://storywork.bimataprathama.com",
-      "thumbnail_path": "/stwrk-thumb.jpg"
+      "thumbnail_path": "/stwrk-thumb.jpg",
+      "article": [
+        {
+          "type": "paragraph",
+          "content": "I used to publish my fictions through blogspot and forums. Using them for years, I started to dislike the distractions that come from reading through them. Then it hit me:"
+        },
+        {
+          "type": "quote",
+          "content": "\"Why not develop my own website for it?\""
+        },
+        {
+          "type": "paragraph",
+          "content": "Craving for a distraction-free environment to better hosts my fictions, I found <a href='https://startbootstrap.com/template-overviews/clean-blog' target='_blank'>this</a> clean looking template and decided to start from there."
+        }
+      ]
     },
     {
       "slug": "frienemies",
@@ -94,7 +118,13 @@
         }
       ],
       "link": "https://play.google.com/store/apps/details?id=com.BDCGames.FrienemiesNew",
-      "thumbnail_path": "/frienemies-thumb.jpg"
+      "thumbnail_path": "/frienemies-thumb.jpg",
+      "article": [
+        {
+          "type": "paragraph",
+          "content": "Frienemies is a 2-4 player party game with mini-games to test your friendship to the limit! Play with your friends and have them hate you as you win (or mock you for losing) the game! CAUTION: this game may ruin your phone... or your friendship."
+        }
+      ]
     }
   ]
 }
