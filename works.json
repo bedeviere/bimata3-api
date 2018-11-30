@@ -17,8 +17,8 @@
         }
       ],
       "type": "Freelance",
-      "agency_link": "",
-      "agency_name": "",
+      "agency_link": "-",
+      "agency_name": "-",
       "tools": [
         {
           "name": "HTML5"
@@ -63,8 +63,8 @@
         }
       ],
       "type": "Personal",
-      "agency_link": "",
-      "agency_name": "",
+      "agency_link": "-",
+      "agency_name": "-",
       "tools": [
         {
           "name": "HTML5"
@@ -110,8 +110,8 @@
         }
       ],
       "type": "Thesis",
-      "agency_link": "",
-      "agency_name": "",
+      "agency_link": "-",
+      "agency_name": "-",
       "tools": [
         {
           "name": "Unity"
