@@ -16,21 +16,31 @@ app.use(function(request, response, next) {
 
 app.get('/work', function (req, res) {
   fs.readFile( __dirname + "/" + "works.json", 'utf8', function (err, data) {
-    console.log( data );
-    res.end( data );
+    var works = JSON.parse( data );
+    console.log( works );
+    res.end( JSON.stringify(works) );
   });
 })
 
 app.get('/work/:slug', function (req, res) {
-   // First read existing users.
    fs.readFile( __dirname + "/" + "works.json", 'utf8', function (err, data) {
       var works = JSON.parse( data );
       var work = [];
+      var workNext = [];
       for (var i = 0; i < works.results.length; i++) {
         if (works.results[i].slug == req.params.slug) {
           work = works.results[i];
-          console.log( work );
-          res.end( JSON.stringify(work));
+          if (i == works.results.length - 1) {
+            workNext = works.results[0];
+            work['next_slug'] = workNext.slug;
+            console.log( work );
+            res.end( JSON.stringify(work) );
+          } else {
+            workNext = works.results[i+1];
+            work['next_slug'] = workNext.slug;
+            console.log( work );
+            res.end( JSON.stringify(work) );
+          }
         }
         if (works.results[i].slug != req.params.slug && i == works.results.length - 1) {
           res.end();
