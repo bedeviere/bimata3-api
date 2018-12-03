@@ -33,11 +33,15 @@ app.get('/work/:slug', function (req, res) {
           if (i == works.results.length - 1) {
             workNext = works.results[0];
             work['next_slug'] = workNext.slug;
+            work['next_title'] = workNext.title;
+            work['next_thumbnail_path'] = workNext.thumbnail_path;
             console.log( work );
             res.end( JSON.stringify(work) );
           } else {
             workNext = works.results[i+1];
             work['next_slug'] = workNext.slug;
+            work['next_title'] = workNext.title;
+            work['next_thumbnail_path'] = workNext.thumbnail_path;
             console.log( work );
             res.end( JSON.stringify(work) );
           }
