@@ -4,7 +4,7 @@
       "slug": "ard-design",
       "id": 1,
       "title": "ARD Design",
-      "overview": "At first, ARD Design already had a website that embodies their creative taste, with interactivity and everything. The problem is, everything was created using Flash, an old animation software tool that sacrifice loading speed for the easiness of creating beautiful content, and they hate how slow it was. To answer their need of a website that reflects their identity, creative tastes, and with faster loading, I propose to approach things from another angle. Their unique color palette from their logo.",
+      "overview": "At first, ARD Design already had a website that embodies their creative taste, with interactivity, animation, and smooth transition. The problem was, to achieve all those elements, the previous website used Flash. The problem with Flash in this case that it requires loading until every content are loaded. Since ARD have a lot of projects inside their website, waiting became very long. And to be relevant at this time and age, they want it to be fast.",
       "role": [
         {
           "name": "Front-end Development"
@@ -17,8 +17,6 @@
         }
       ],
       "type": "Freelance",
-      "agency_link": "-",
-      "agency_name": "-",
       "tools": [
         {
           "name": "HTML5"
@@ -41,11 +39,25 @@
       "article": [
         {
           "type": "paragraph",
-          "content": "At first, ARD Design already had a website that embodies their creative taste, with interactivity and everything. The problem is, everything was created using Flash, an old animation software tool that sacrifice loading speed for the easiness of creating beautiful content, and they hate how slow it was."
+          "content": "At first, ARD Design already had a website that embodies their creative taste, with interactivity, animation, and smooth transition. The problem was, to achieve all those elements, the previous website used Flash."
         },
         {
           "type": "paragraph",
-          "content": "To answer their need of a website that reflects their identity, creative tastes, and with faster loading, I propose to approach things from another angle. Their unique color palette from their logo."
+          "content": "The problem with Flash in this case that it requires loading until every content are loaded. Since ARD have a lot of projects inside their website, waiting became very long. And to be relevant at this time and age, they want it to be fast."
+        },
+        {
+          "type": "paragraph",
+          "content": "In short, they want to show their creative side and be fast."
+        },
+        {
+          "type": "paragraph",
+          "content": "To answer their need of a website that reflects their identity and with faster loading, I proposed to approach things from something simple. Their unique color palette from their logo."
+        },
+        {
+          "type": "image-small",
+          "content": "/ard-image-1.jpg",
+          "alt": "ARD Color Scheme",
+          "label": "The brown color was a bit different to draw more contrast from the logo"
         }
       ]
     },
@@ -63,8 +75,6 @@
         }
       ],
       "type": "Personal",
-      "agency_link": "-",
-      "agency_name": "-",
       "tools": [
         {
           "name": "HTML5"
@@ -110,8 +120,6 @@
         }
       ],
       "type": "Thesis",
-      "agency_link": "-",
-      "agency_name": "-",
       "tools": [
         {
           "name": "Unity"
