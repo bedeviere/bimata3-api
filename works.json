@@ -38,8 +38,22 @@
       "thumbnail_path": "/ard-thumb.jpg",
       "article": [
         {
+          "type": "h3",
+          "content": "At First Glance"
+        },
+        {
           "type": "paragraph",
-          "content": "At first, ARD Design already had a website that embodies their creative taste, with interactivity, animation, and smooth transition. The problem was, to achieve all those elements, the previous website used Flash."
+          "content": "ARD Design already had a website that embodies their creative taste, with interactivity, animation, and smooth transition. The problem was, to achieve all those elements, the previous website used Flash."
+        },
+        {
+          "type": "image-small",
+          "content": "/ard-image-oldwebsite.jpg",
+          "alt": "Old flash website",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Why Flash?"
         },
         {
           "type": "paragraph",
@@ -50,14 +64,96 @@
           "content": "In short, they want to show their creative side and be fast."
         },
         {
+          "type": "h3",
+          "content": "Design Process"
+        },
+        {
           "type": "paragraph",
           "content": "To answer their need of a website that reflects their identity and with faster loading, I proposed to approach things from something simple. Their unique color palette from their logo."
         },
         {
           "type": "image-small",
-          "content": "/ard-image-1.jpg",
+          "content": "/ard-image-colorpalette.jpg",
           "alt": "ARD Color Scheme",
           "label": "The brown color was a bit different to draw more contrast from the logo"
+        },
+        {
+          "type": "paragraph",
+          "content": "As for creative tastes, the people from ARD proposed using some of their already-made sketches."
+        },
+        {
+          "type": "image-small",
+          "content": "/ard-image-sketches.jpg",
+          "alt": "Sketches",
+          "label": "-"
+        },
+        {
+          "type": "paragraph",
+          "content": "Then, I started combining these elements, designing a prototype the homepage using direct code."
+        },
+        {
+          "type": "image-large",
+          "content": "/ard-image-homeproto.jpg",
+          "alt": "Homepage",
+          "label": "-"
+        },
+        {
+          "type": "paragraph",
+          "content": "The goal for showing the prototype is to see if the color palette goes well. I use the brown and orange combination for a nice contrast. As for the beige color, I got some difficulties on deciding where to put them. I decided that it would be best to use them as selection color."
+        },
+        {
+          "type": "image-small",
+          "content": "/ard-image-selection.jpg",
+          "alt": "Selection demo",
+          "label": "-"
+        },
+        {
+          "type": "paragraph",
+          "content": "Thankfully, they were satisfied with the combination. After I got the approval to move on, I continued designing the homepage and also started designing other pages."
+        },
+        {
+          "type": "h3",
+          "content": "Result"
+        },
+        {
+          "type": "paragraph",
+          "content": "Here’s the end results of the project:"
+        },
+        {
+          "type": "h4",
+          "content": "Home"
+        },
+        {
+          "type": "paragraph",
+          "content": "Space: The final frontier. These are the voyages of the Starship, Enterprise. Its five-year mission: To explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before."
+        },
+        {
+          "type": "image-large",
+          "content": "/ard-image-homepage.jpg",
+          "alt": "Homepage",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Projects"
+        },
+        {
+          "type": "paragraph",
+          "content": "Space: The final frontier. These are the voyages of the Starship, Enterprise. Its five-year mission: To explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before."
+        },
+        {
+          "type": "image-large",
+          "content": "/ard-image-projects.jpg",
+          "alt": "Projects page",
+          "label": "-"
+        },
+        {
+          "type": "h3",
+          "content": "Conclusion"
+        },
+        {
+          "type": "paragraph",
+          "content": "This is the first website project where I involved heavily on design. Most of my work here were done directly into code. For the next project, I would like to learn to design from wireframes and if possible, try to look into the research aspect of UX design."
         }
       ]
     },
