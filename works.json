@@ -89,7 +89,7 @@
         },
         {
           "type": "paragraph",
-          "content": "Then, I started combining these elements, designing a prototype the homepage using direct code."
+          "content": "Then, I started combining these elements, designing a prototype of the homepage using direct code."
         },
         {
           "type": "image-large",
@@ -148,12 +148,30 @@
           "label": "-"
         },
         {
-          "type": "h3",
-          "content": "Conclusion"
+          "type": "h4",
+          "content": "Content Management System"
         },
         {
           "type": "paragraph",
-          "content": "This is the first website project where I involved heavily on design. Most of my work here were done directly into code. For the next project, I would like to learn to design from wireframes and if possible, try to look into the research aspect of UX design."
+          "content": "A company website portfolio would be more usable with a backend side. I use <a href='https://adminlte.io/' target='_blank'>AdminLTE control panel template</a> for a quick and easy design process."
+        },
+        {
+          "type": "image-large",
+          "content": "/ard-image-cms.jpg",
+          "alt": "CMS dashboard, settings, project list, edit project",
+          "label": "-"
+        },
+        {
+          "type": "h3",
+          "content": "Onwards"
+        },
+        {
+          "type": "paragraph",
+          "content": "This is the first website project where I involved heavily on design. My design work here were done directly into code. For the next project, I would like to learn to design from wireframes and if possible, try to look into the research aspect of UX design."
+        },
+        {
+          "type": "paragraph",
+          "content": "You might also notice that many of the content on this project are still using <strong>lorem ipsum</strong> filler text. If you’re interested on the copywriting gig, please <a href='/contact'>contact me</a>."
         }
       ]
     },
@@ -219,6 +237,9 @@
       "tools": [
         {
           "name": "Unity"
+        },
+        {
+          "name": "C#"
         }
       ],
       "link": "https://play.google.com/store/apps/details?id=com.BDCGames.FrienemiesNew",
