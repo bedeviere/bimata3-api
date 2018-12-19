@@ -125,7 +125,7 @@
         },
         {
           "type": "paragraph",
-          "content": "Space: The final frontier. These are the voyages of the Starship, Enterprise. Its five-year mission: To explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before."
+          "content": "The first thing that most people will see. It has a collection of featured portfolios handpicked using a custom CMS. It is also where people could see the clients ARD Design had worked with."
         },
         {
           "type": "image-large",
@@ -139,12 +139,66 @@
         },
         {
           "type": "paragraph",
-          "content": "Space: The final frontier. These are the voyages of the Starship, Enterprise. Its five-year mission: To explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before."
+          "content": "The main piece of the website. It had every ARD Design’s portfolios with three filter options."
         },
         {
           "type": "image-large",
           "content": "/ard-image-projects.jpg",
           "alt": "Projects page",
+          "label": "-"
+        },
+        {
+          "type": "image-large",
+          "content": "/ard-image-project.jpg",
+          "alt": "Project detail page",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "About"
+        },
+        {
+          "type": "paragraph",
+          "content": "Where people can see the background and culture of ARD Design, as well as the people behind it."
+        },
+        {
+          "type": "image-large",
+          "content": "/ard-image-about.jpg",
+          "alt": "About",
+          "label": "-"
+        },
+        {
+          "type": "image-large",
+          "content": "/ard-image-people.jpg",
+          "alt": "People",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Blog"
+        },
+        {
+          "type": "paragraph",
+          "content": "Where ARD design can share their thoughts."
+        },
+        {
+          "type": "image-large",
+          "content": "/ard-image-blog.jpg",
+          "alt": "Blog",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Contact"
+        },
+        {
+          "type": "paragraph",
+          "content": "If you want to get in touch with the people at ARD Design, use this page."
+        },
+        {
+          "type": "image-large",
+          "content": "/ard-image-contact.jpg",
+          "alt": "Contact",
           "label": "-"
         },
         {
