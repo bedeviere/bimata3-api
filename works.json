@@ -233,7 +233,7 @@
       "slug": "bimata-storywork",
       "id": 2,
       "title": "Bimata's Storywork",
-      "overview": "I used to publish my fictions through blogspot and forums. Using them for years, I started to dislike the distractions that come from reading through them. Then it hit me: \"Why not develop my own website for it?\" Craving for a distraction-free environment to better hosts my fictions, I found <a href='https://startbootstrap.com/template-overviews/clean-blog' target='_blank'>this</a> clean looking template and decided to start from there.",
+      "overview": "The Storywork is a project from my high school times where I publish my fictions. It can be short story, flash fiction, song lyric, anything that I wrote or collaborated. As a high school student with limited technical knowledge, I could only afford to use blogspot, a free blogging platform. After I graduated from college, things become different. I have more technical knowledge than before. Then I started to have this need to always try to create something, to always learning.",
       "role": [
         {
           "name": "Front-end Development"
@@ -264,16 +264,64 @@
       "thumbnail_path": "/stwrk-thumb.jpg",
       "article": [
         {
+          "type": "h3",
+          "content": "A Little Background"
+        },
+        {
           "type": "paragraph",
-          "content": "I used to publish my fictions through blogspot and forums. Using them for years, I started to dislike the distractions that come from reading through them. Then it hit me:"
+          "content": "The Storywork is a project from my high school times where I publish my fictions. It can be short story, flash fiction, song lyric, anything that I wrote or collaborated. As a high school student with limited technical knowledge, I could only afford to use <a href='http://bedeviere.blogspot.com' target='_blank'>blogspot</a>, a free blogging platform."
+        },
+        {
+          "type": "image-small",
+          "content": "/stwrk-image-blogspot.jpg",
+          "alt": "Blogspot",
+          "label": "Storywork, then"
+        },
+        {
+          "type": "paragraph",
+          "content": "After I graduated from college, things become different. I have more technical knowledge than before. Then I started to have this need to always try to create something, to always learning."
+        },
+        {
+          "type": "paragraph",
+          "content": "Then it hit me:"
         },
         {
           "type": "quote",
-          "content": "\"Why not develop my own website for it?\""
+          "content": "\"Why don’t I started develop a website for the Storywork?\""
         },
         {
           "type": "paragraph",
-          "content": "Craving for a distraction-free environment to better hosts my fictions, I found <a href='https://startbootstrap.com/template-overviews/clean-blog' target='_blank'>this</a> clean looking template and decided to start from there."
+          "content": "It makes sense. I can use this as my portfolio and I also wanted learn a lot about developing from <a href='https://wordpress.org/' target='_blank'>WordPress</a>, one the best blogging platform that’s also a CMS. So, for me it’s a big win."
+        },
+        {
+          "type": "paragraph",
+          "content": "I want the new website to have a distraction-free environment, to have a better reading experience. I look for inspirations and found <a href='https://startbootstrap.com/template-overviews/clean-blog' target='_blank'>this</a> clean looking template. I decided to use this template as the basis of my custom WordPress template and customize it more for anything I need."
+        },
+        {
+          "type": "paragraph",
+          "content": "Basically, it was a redesign."
+        },
+        {
+          "type": "h3",
+          "content": "Storywork, Now"
+        },
+        {
+          "type": "paragraph",
+          "content": "Here’s the end result of the project:"
+        },
+        {
+          "type": "h4",
+          "content": "Home"
+        },
+        {
+          "type": "paragraph",
+          "content": "Space: The final frontier. These are the voyages of the Starship, Enterprise. Its five-year mission: To explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before."
+        },
+        {
+          "type": "image-large",
+          "content": "/stwrk-image-homepage.jpg",
+          "alt": "Homepage",
+          "label": "-"
         }
       ]
     },
@@ -300,8 +348,18 @@
       "thumbnail_path": "/frienemies-thumb.jpg",
       "article": [
         {
+          "type": "h3",
+          "content": "A Little Background"
+        },
+        {
           "type": "paragraph",
-          "content": "Frienemies is a 2-4 player party game with mini-games to test your friendship to the limit! Play with your friends and have them hate you as you win (or mock you for losing) the game! CAUTION: this game may ruin your phone... or your friendship."
+          "content": "Ever heard of Bishi Bashi? A good old party game that can made you destroy your precious controller? The three of us, me, Dimas, Christianto, used to have a blast playing this game."
+        },
+        {
+          "type": "image-small",
+          "content": "/frienemies-image-bishibashi.jpg",
+          "alt": "Bishi bashi",
+          "label": "-"
         }
       ]
     }
