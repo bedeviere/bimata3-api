@@ -117,7 +117,7 @@
         },
         {
           "type": "paragraph",
-          "content": "Here’s the end results of the project:"
+          "content": "Here's the end results of the project:"
         },
         {
           "type": "h4",
@@ -139,7 +139,7 @@
         },
         {
           "type": "paragraph",
-          "content": "The main piece of the website. It had every ARD Design’s portfolios with three filter options."
+          "content": "The main piece of the website. It had every ARD Design's portfolios with three filter options."
         },
         {
           "type": "image-large",
@@ -225,7 +225,7 @@
         },
         {
           "type": "paragraph",
-          "content": "You might also notice that many of the content on this project are still using <strong>lorem ipsum</strong> filler text. If you’re interested on the copywriting gig, please <a href='/contact'>contact me</a>."
+          "content": "You might also notice that many of the content on this project are still using <strong>lorem ipsum</strong> filler text. If you're interested on the copywriting gig, please <a href='/contact'>contact me</a>."
         }
       ]
     },
@@ -287,11 +287,11 @@
         },
         {
           "type": "quote",
-          "content": "\"Why don’t I started develop a website for the Storywork?\""
+          "content": "\"Why don't I started develop a website for the Storywork?\""
         },
         {
           "type": "paragraph",
-          "content": "It makes sense. I can use this as my portfolio and I also wanted learn a lot about developing from <a href='https://wordpress.org/' target='_blank'>WordPress</a>, one the best blogging platform that’s also a CMS. So, for me it’s a big win."
+          "content": "It makes sense. I can use this as my portfolio and I also wanted learn a lot about developing from <a href='https://wordpress.org/' target='_blank'>WordPress</a>, one the best blogging platform that's also a CMS. So, for me it's a big win."
         },
         {
           "type": "paragraph",
@@ -307,7 +307,7 @@
         },
         {
           "type": "paragraph",
-          "content": "Here’s the end result of the project:"
+          "content": "Here's the end result of the project:"
         },
         {
           "type": "h4",
@@ -371,7 +371,7 @@
         },
         {
           "type": "paragraph",
-          "content": "I happy to learn a lot about WordPress during this project. I’m currently thinking about adding some kind of visual illustration for each story, but I’m just going to keep the thoughts for now."
+          "content": "I happy to learn a lot about WordPress during this project. I'm currently thinking about adding some kind of visual illustration for each story, but I'm just going to keep the thoughts for now."
         }
       ]
     },
@@ -379,7 +379,7 @@
       "slug": "frienemies",
       "id": 3,
       "title": "Frienemies",
-      "overview": "Frienemies is a 2-4 player party game with mini-games to test your friendship to the limit! Play with your friends and have them hate you as you win (or mock you for losing) the game! CAUTION: this game may ruin your phone... or your friendship.",
+      "overview": "Ever heard of Bishi Bashi? A good old party game that can made you destroy your precious controller? The three of us, me, Dimas, Chris, were having a blast playing this game. Each of us used to made this game a some kind of fun competition on saturday night with our respective friends. Inspired, we decided to make our final thesis project a tribute for this game. Frienemies, to put plainly, means friends and enemies. To us, it means a friend who can be a rival. We felt it's the perfect title for the gameplay of this game where every player strives to be the very best.",
       "role": [
         {
           "name": "DARUMA SPRINT Development"
@@ -403,7 +403,7 @@
         },
         {
           "type": "paragraph",
-          "content": "Ever heard of Bishi Bashi? A good old party game that can made you destroy your precious controller? The three of us, me, Dimas, Chris, were having a blast playing this game. Each of us used to made this game a some kind of fun competition on saturday night with our respective friends."
+          "content": "Ever heard of Bishi Bashi? A good old party game that can made you destroy your precious controller? The three of us, me, <a href='https://www.linkedin.com/in/dimas-aryo-77748649/' target='_blank'>Dimas</a>, <a href='https://www.linkedin.com/in/christianto-wijaya-492bb3166/' target='_blank'>Chris</a>, were having a blast playing this game. Each of us used to made this game a some kind of fun competition on saturday night with our respective friends."
         },
         {
           "type": "image-small",
@@ -421,7 +421,7 @@
         },
         {
           "type": "paragraph",
-          "content": "Frienemies, to put plainly, means friends and enemies. To us, it means a friend who can be a rival. We felt it’s the perfect title for the gameplay of this game where every player strives to be the very best."
+          "content": "Frienemies, to put plainly, means <strong>friends and enemies</strong>. To us, it means <strong>friends who can be rivals</strong>. We felt it's the perfect title for the gameplay of this game where every player strives to be the very best."
         },
         {
           "type": "h4",
@@ -429,7 +429,27 @@
         },
         {
           "type": "paragraph",
-          "content": "In this phase we use qualitative research by spreading online surveys."
+          "content": "We started from user research phase. In this phase we use qualitative research by spreading online surveys to <strong>79 participants</strong> who had played a party game. The purpose is to understand their preferences about some elements of the gameplay."
+        },
+        {
+          "type": "image-small",
+          "content": "/frienemies-image-surveycontrol.jpg",
+          "alt": "Survey control",
+          "label": "-"
+        },
+        {
+          "type": "paragraph",
+          "content": "The purpose of this question is to decide the type of controls for our mini games. Most of the participants prefers using <strong>virtual buttons</strong."
+        },
+        {
+          "type": "image-small",
+          "content": "/frienemies-image-surveyduration.jpg",
+          "alt": "Survey duration",
+          "label": "-"
+        },
+        {
+          "type": "paragraph",
+          "content": "The purpose of this question is to decide the overall duration of our mini games. About 48% of the participants prefer <strong>60 seconds</strong>."
         },
         {
           "type": "h4",
@@ -437,7 +457,7 @@
         },
         {
           "type": "paragraph",
-          "content": "We observe three games with similar genre with Frienemies: Bishi Bashi, Mucho Party, King of Party."
+          "content": "We observe three games with similar genre with Frienemies: <strong>Bishi Bashi</strong>, <strong>Mucho Party</strong>, and <strong>King of Party</strong>."
         },
         {
           "type": "paragraph",
@@ -479,6 +499,9 @@
           "list": [
             {
               "content": "A mobile party game"
+            },
+            {
+              "content": "Can be played up to 4 players"
             },
             {
               "content": "Cartoonish design"
@@ -529,7 +552,7 @@
         },
         {
           "type": "paragraph",
-          "content": "Here’s the end result of the project:"
+          "content": "Here's the end result of the project:"
         },
         {
           "type": "h4",
@@ -551,7 +574,7 @@
         },
         {
           "type": "paragraph",
-          "content": "If players hit play button, this page is shown. Players who want to join must tap their respective avatar. There will be visual cue for ready players."
+          "content": "If players hit play button, this page is shown. Players who want to join must tap their respective avatar. There will be visual cue for ready players. The positions of the players here will be consistent with player control placements throughout the whole game."
         },
         {
           "type": "image-large",
@@ -607,7 +630,7 @@
         },
         {
           "type": "paragraph",
-          "content": "Developed by me. Players must reach the white finish line to win. When moving, players must see the direction Daruma is facing. When Daruma faces the players, they must not move. Otherwise it’s fine to move. If a player move when Daruma is facing them, they will explode and must start over. The time Daruma takes to spin it’s head is random."
+          "content": "Developed by me. Players must reach the white finish line to win. When moving forward, players must see the direction Daruma is facing. When Daruma faces the players, they must not move. Otherwise it's fine to move. If a player move when Daruma is facing them, they will explode and must start over. The time Daruma takes to face the players is random."
         },
         {
           "type": "image-large",
@@ -649,7 +672,7 @@
         },
         {
           "type": "paragraph",
-          "content": "Where we put our names. We want to get recognized."
+          "content": "Where we put our names. We wanted to get recognized."
         },
         {
           "type": "image-small",
@@ -663,7 +686,11 @@
         },
         {
           "type": "paragraph",
-          "content": "Space: The final frontier. These are the voyages of the Starship, Enterprise. Its five-year mission: To explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before."
+          "content": "Our original plan for Frienemies was to be played as a multiplayer online game. The reason it turns out to be a local multiplayer game was because we don't have much time and resources to develop the online multiplayer feature. We have plans for it, but the feature won't be available in the foreseeable future."
+        },
+        {
+          "type": "paragraph",
+          "content": "That being said, we were happy with how the game turns out. We got to learn how design and develop a mobile game from the ground up, and to finally publish it online."
         }
       ]
     }
