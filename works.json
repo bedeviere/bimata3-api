@@ -444,12 +444,30 @@
           "content": "<strong>Bishi Bashi</strong> has 48 mini game available and can be played up to 8 players. There are also AI players for single play. Each mini game has a theme, use speed and precision to achieve scores higher than other players. This game is released for PlayStation 1."
         },
         {
+          "type": "image-small",
+          "content": "/frienemies-image-bishibashi2.jpg",
+          "alt": "Bishi bashi",
+          "label": "-"
+        },
+        {
           "type": "paragraph",
           "content": "<strong>Mucho Party</strong> has 3 free mini games and a total of 30 mini games if bought. Players must selfie and use their face as the avatar. There are 6 mode available to choose and 50 achievements. Players must use speed and precision to achieve highest score. This game is released for Android and iOS."
         },
         {
+          "type": "image-small",
+          "content": "/frienemies-image-muchoparty.jpg",
+          "alt": "Mucho party",
+          "label": "-"
+        },
+        {
           "type": "paragraph",
           "content": "<strong>King of Party</strong> is an online party game that use Facebook for player connection. It has 4 default mini games and player can buy more using gem, a currency within the game. Players can also buy item for their custom avatar. It can be played up to 4 players. This game is released for Android and iOS."
+        },
+        {
+          "type": "image-small",
+          "content": "/frienemies-image-kingofparty.jpg",
+          "alt": "King of party",
+          "label": "-"
         },
         {
           "type": "h4",
@@ -457,7 +475,7 @@
         },
         {
           "type": "ul",
-          "content": "From these research and observations, we decided to made Frenemies:",
+          "content": "From these research and observations, we decided to made Frienemies:",
           "list": [
             {
               "content": "A mobile party game"
