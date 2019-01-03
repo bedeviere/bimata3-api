@@ -207,7 +207,7 @@
         },
         {
           "type": "paragraph",
-          "content": "A company website portfolio would be more usable with a backend side. I use <a href='https://adminlte.io/' target='_blank'>AdminLTE control panel template</a> for a quick and easy design process."
+          "content": "A company website portfolio would be more usable with a backend side. I use <a href='https://adminlte.io/' target='_blank'>AdminLTE</a> control panel template for a quick and easy design process. My friend <a href='https://www.linkedin.com/in/denis-sunardi-5061b2145/' target='_blank'>Denis</a> takes care of anything backend-side like database models."
         },
         {
           "type": "image-large",
@@ -233,7 +233,7 @@
       "slug": "bimata-storywork",
       "id": 2,
       "title": "Bimata's Storywork",
-      "overview": "The Storywork is a project from my high school times where I publish my fictions. It can be short story, flash fiction, song lyric, anything that I wrote or collaborated. As a high school student with limited technical knowledge, I could only afford to use blogspot, a free blogging platform. After I graduated from college, things become different. I have more technical knowledge than before. Then I started to have this need to always try to create something, to always learning.",
+      "overview": "The Storywork is a project from my high school times where I publish my fictions. It can be short story, flash fiction, song lyric, anything that I wrote or collaborated.",
       "role": [
         {
           "name": "Front-end Development"
@@ -379,7 +379,7 @@
       "slug": "frienemies",
       "id": 3,
       "title": "Frienemies",
-      "overview": "Ever heard of Bishi Bashi? A good old party game that can made you destroy your precious controller? The three of us, me, Dimas, Chris, were having a blast playing this game. Each of us used to made this game a some kind of fun competition on saturday night with our respective friends. Inspired, we decided to make our final thesis project a tribute for this game. Frienemies, to put plainly, means friends and enemies. To us, it means a friend who can be a rival. We felt it's the perfect title for the gameplay of this game where every player strives to be the very best.",
+      "overview": "Ever heard of Bishi Bashi? The three of us, me, Dimas, and Chris decided to make our final thesis project a tribute for this game. Frienemies, to put plainly, means friends and enemies. To us, it means a friend who can be a rival. We felt it's the perfect title for the gameplay of this game where every player strives to be the very best.",
       "role": [
         {
           "name": "DARUMA SPRINT Development"
@@ -403,7 +403,7 @@
         },
         {
           "type": "paragraph",
-          "content": "Ever heard of Bishi Bashi? A good old party game that can made you destroy your precious controller? The three of us, me, <a href='https://www.linkedin.com/in/dimas-aryo-77748649/' target='_blank'>Dimas</a>, <a href='https://www.linkedin.com/in/christianto-wijaya-492bb3166/' target='_blank'>Chris</a>, were having a blast playing this game. Each of us used to made this game a some kind of fun competition on saturday night with our respective friends."
+          "content": "Ever heard of Bishi Bashi? A good old party game that can made you destroy your precious controller? The three of us, me, <a href='https://www.linkedin.com/in/dimas-aryo-77748649/' target='_blank'>Dimas</a>, and <a href='https://www.linkedin.com/in/christianto-wijaya-492bb3166/' target='_blank'>Chris</a> were having a blast playing this game. Each of us used to made this game a some kind of fun competition on saturday night with our respective friends."
         },
         {
           "type": "image-small",
