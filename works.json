@@ -4,7 +4,7 @@
       "slug": "ard-design",
       "id": 1,
       "title": "ARD Design",
-      "overview": "At first, ARD Design already had a website that embodies their creative taste, with interactivity, animation, and smooth transition. The problem was, to achieve all those elements, the previous website used Flash. The problem with Flash in this case that it requires loading until every content are loaded. Since ARD have a lot of projects inside their website, waiting became very long. And to be relevant at this time and age, they want it to be fast.",
+      "overview": "ARD Design is an architecture consultant company, based and founded in Jakarta, Indonesia, 1996. They had many collections of portfolio from their early years to present times.",
       "role": [
         {
           "name": "Front-end Development"
@@ -39,11 +39,19 @@
       "article": [
         {
           "type": "h3",
+          "content": "A Little Background"
+        },
+        {
+          "type": "paragraph",
+          "content": "ARD Design is an architecture consultant company, based and founded in Jakarta, Indonesia, 1996. They had many collections of portfolio from their early years to present times."
+        },
+        {
+          "type": "h4",
           "content": "At First Glance"
         },
         {
           "type": "paragraph",
-          "content": "ARD Design already had a website that embodies their creative taste, with interactivity, animation, and smooth transition. The problem was, to achieve all those elements, the previous website used Flash."
+          "content": "ARD already had a website that embodies their creative taste, with interactivity, animation, and smooth transition. The problem was, to achieve all those elements, the previous website used Flash."
         },
         {
           "type": "image-small",
@@ -148,6 +156,14 @@
           "label": "-"
         },
         {
+          "type": "h4",
+          "content": "Project Detail"
+        },
+        {
+          "type": "paragraph",
+          "content": "This page shows the details. You can see the curated artworks of a project and the story behind it."
+        },
+        {
           "type": "image-large",
           "content": "/ard-image-project.jpg",
           "alt": "Project detail page",
@@ -207,7 +223,7 @@
         },
         {
           "type": "paragraph",
-          "content": "A company website portfolio would be more usable with a backend side. I use <a href='https://adminlte.io/' target='_blank'>AdminLTE</a> control panel template for a quick and easy design process. My friend <a href='https://www.linkedin.com/in/denis-sunardi-5061b2145/' target='_blank'>Denis</a> takes care of anything backend-side like database models."
+          "content": "A company website portfolio would be more usable with a backend side. I use <a href='https://adminlte.io/' target='_blank'>AdminLTE</a> control panel template for a quick and easy design process. <a href='https://www.linkedin.com/in/denis-sunardi-5061b2145/' target='_blank'>Denis</a>, a friend of mine, takes care of anything backend-side like database models."
         },
         {
           "type": "image-large",
