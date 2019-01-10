@@ -709,6 +709,622 @@
           "content": "That being said, we were happy with how the game turns out. We got to learn how design and develop a mobile game from the ground up, and to finally publish it online."
         }
       ]
+    },
+    {
+      "slug": "metakom",
+      "id": 4,
+      "title": "Metakom",
+      "overview": "Metakom is a one-stop MEP design consultant in Indonesia that has expertise in mechanical engineering, electrical engineering, and building transport engineering. Starting from 1990, they have various projects across cities in Indonesia.",
+      "role": [
+        {
+          "name": "Front-end Development"
+        }
+      ],
+      "type": "Agency",
+      "tools": [
+        {
+          "name": "HTML5"
+        },
+        {
+          "name": "CSS3"
+        },
+        {
+          "name": "SCSS"
+        },
+        {
+          "name": "jQuery"
+        }
+      ],
+      "link": "http://metakom.id",
+      "thumbnail_path": "/metakom-thumb.jpg",
+      "article": [
+        {
+          "type": "h3",
+          "content": "A Little Background"
+        },
+        {
+          "type": "paragraph",
+          "content": "Metakom is a one-stop MEP design consultant in Indonesia that has expertise in mechanical engineering, electrical engineering, and building transport engineering. Starting from 1990, they have various projects across cities in Indonesia."
+        },
+        {
+          "type": "h3",
+          "content": "Front End"
+        },
+        {
+          "type": "paragraph",
+          "content": "My role was to wrote the front-end code for this project and to collaborated closely with <a href='https://www.linkedin.com/in/viola-yosiana-2361717b/' target='_blank'>Viola</a>, the web designer. She consulted me for technical limitations and design possibilities that she could consider and use in her design. Here’s the result:"
+        },
+        {
+          "type": "h4",
+          "content": "Home"
+        },
+        {
+          "type": "paragraph",
+          "content": "The first page that most people will first see. It shows in a glance what Metakom is all about."
+        },
+        {
+          "type": "image-large",
+          "content": "/metakom-image-homepage.jpg",
+          "alt": "Homepage",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Projects"
+        },
+        {
+          "type": "paragraph",
+          "content": "The page shows the most ambitious projects Metakom had over the years."
+        },
+        {
+          "type": "image-large",
+          "content": "/metakom-image-projects.jpg",
+          "alt": "Projects",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Project Detail"
+        },
+        {
+          "type": "paragraph",
+          "content": "The details of project. You can see the curated artworks here as well as some info about the project like the architect behind it."
+        },
+        {
+          "type": "image-large",
+          "content": "/metakom-image-project.jpg",
+          "alt": "Project detail",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "About"
+        },
+        {
+          "type": "paragraph",
+          "content": "Where Metakom shows their philosophy, their vision and mission, their many expertise, and the people behind their teams."
+        },
+        {
+          "type": "image-large",
+          "content": "/metakom-image-about.jpg",
+          "alt": "About",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Clients"
+        },
+        {
+          "type": "paragraph",
+          "content": "This page shows the clients they had worked closely with."
+        },
+        {
+          "type": "image-large",
+          "content": "/metakom-image-clients.jpg",
+          "alt": "Clients",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Contact"
+        },
+        {
+          "type": "paragraph",
+          "content": "If you want to get in touch with Metakom, use this page."
+        },
+        {
+          "type": "image-large",
+          "content": "/metakom-image-contact.jpg",
+          "alt": "Contact",
+          "label": "-"
+        }
+      ]
+    },
+    {
+      "slug": "regal-lite",
+      "id": 5,
+      "title": "Regal Lite Ver.",
+      "overview": "Since 1952, Regal has been the number one brand of Marie Biscuits in Indonesia. In 2014 & 2015, Regal Marie Biscuits achieved the “Top Brand” in the Marie Biscuit category in Indonesia.",
+      "role": [
+        {
+          "name": "Front-end Development"
+        }
+      ],
+      "type": "Agency",
+      "tools": [
+        {
+          "name": "HTML5"
+        },
+        {
+          "name": "CSS3"
+        },
+        {
+          "name": "jQuery"
+        }
+      ],
+      "link": "http://marieregal.com/lite",
+      "thumbnail_path": "/rlite-thumb.jpg",
+      "article": [
+        {
+          "type": "h3",
+          "content": "A Little Background"
+        },
+        {
+          "type": "paragraph",
+          "content": "Since 1952, Regal has been the number one brand of Marie Biscuits in Indonesia. In 2014 & 2015, Regal Marie Biscuits achieved the “Top Brand” in the Marie Biscuit category in Indonesia. Beyond the domestic market, Marie Regal is also distributed internationally and it is also successful in winning several awards and trophies at several food expos and trade shows in the Netherlands, Japan, Germany, Bulgaria, Poland, Italy, Yugoslavia, Thailand, France and the United States."
+        },
+        {
+          "type": "h4",
+          "content": "At First Glance"
+        },
+        {
+          "type": "paragraph",
+          "content": "Their <a href='http://marieregal.com/main' target='_blank'>main</a> website took the form of a kingdom with various objects like royal castle, airport, and buildings that users can interact. With such complex form, this main version is best viewed from desktop and not so much on mobile. Hence the need of a lite version."
+        },
+        {
+          "type": "image-large",
+          "content": "/rlite-image-kingdom.jpg",
+          "alt": "Regal kingdom",
+          "label": "-"
+        },
+        {
+          "type": "h3",
+          "content": "Front End"
+        },
+        {
+          "type": "paragraph",
+          "content": "My role was to wrote the front-end code for this project. Here’s the result:"
+        },
+        {
+          "type": "h4",
+          "content": "Home"
+        },
+        {
+          "type": "paragraph",
+          "content": "The front page that shows the current products of Regal."
+        },
+        {
+          "type": "image-large",
+          "content": "/rlite-image-homepage.jpg",
+          "alt": "Homepage",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Products"
+        },
+        {
+          "type": "paragraph",
+          "content": "Here, the biscuit products are explained with more detail."
+        },
+        {
+          "type": "image-large",
+          "content": "/rlite-image-products.jpg",
+          "alt": "Products",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Sources"
+        },
+        {
+          "type": "paragraph",
+          "content": "This page shows the main ingredients of Regal biscuits."
+        },
+        {
+          "type": "image-large",
+          "content": "/rlite-image-sources.jpg",
+          "alt": "Sources",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Process"
+        },
+        {
+          "type": "paragraph",
+          "content": "This page shows the process of Regal biscuits."
+        },
+        {
+          "type": "image-large",
+          "content": "/rlite-image-process.jpg",
+          "alt": "Process",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "News"
+        },
+        {
+          "type": "paragraph",
+          "content": "Regal can share their news here."
+        },
+        {
+          "type": "image-large",
+          "content": "/rlite-image-news.jpg",
+          "alt": "News",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Find Us"
+        },
+        {
+          "type": "paragraph",
+          "content": "This page shows Regal’s address from around the world."
+        },
+        {
+          "type": "image-large",
+          "content": "/rlite-image-findus.jpg",
+          "alt": "Find us",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Contact"
+        },
+        {
+          "type": "paragraph",
+          "content": "If you want to get in touch with Regal, use this page."
+        },
+        {
+          "type": "image-large",
+          "content": "/rlite-image-contact.jpg",
+          "alt": "Contact",
+          "label": "-"
+        }
+      ]
+    },
+    {
+      "slug": "adelle-jewellery",
+      "id": 6,
+      "title": "Adelle Jewellery",
+      "overview": "Adelle is a jewellery e-store with their brand inspired by Kaizen, an ancient japanese wisdom. Itʼs a philosophy that fuels their passion for constant and never-ending improvement in everything they do for excellence.",
+      "role": [
+        {
+          "name": "Front-end Development"
+        }
+      ],
+      "type": "Agency",
+      "tools": [
+        {
+          "name": "HTML5"
+        },
+        {
+          "name": "CSS3"
+        },
+        {
+          "name": "jQuery"
+        }
+      ],
+      "link": "http://adellejewellery.com",
+      "thumbnail_path": "/adelle-thumb.jpg",
+      "article": [
+        {
+          "type": "h3",
+          "content": "A Little Background"
+        },
+        {
+          "type": "paragraph",
+          "content": "Adelle is a jewellery e-store with their brand inspired by Kaizen, an ancient japanese wisdom. Itʼs a philosophy that fuels their passion for constant and never-ending improvement in everything they do for excellence. Over the years, Adelle Jewellery has tried itʼs best to bring people the perfection of timeless natural diamond beauty within itʼs pieces."
+        },
+        {
+          "type": "h3",
+          "content": "Front End"
+        },
+        {
+          "type": "paragraph",
+          "content": "My role was to wrote the front-end code for this project. Here’s the result:"
+        },
+        {
+          "type": "h4",
+          "content": "Home"
+        },
+        {
+          "type": "paragraph",
+          "content": "The front page of the website. It shows current promotions from Adelle as well as their best selling products and new collections."
+        },
+        {
+          "type": "image-large",
+          "content": "/adelle-image-homepage.jpg",
+          "alt": "Homepage",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Products"
+        },
+        {
+          "type": "paragraph",
+          "content": "This page shows many of their available products, depends on what category that users seek."
+        },
+        {
+          "type": "image-large",
+          "content": "/adelle-image-products.jpg",
+          "alt": "Products",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Product Detail"
+        },
+        {
+          "type": "paragraph",
+          "content": "The details of a product. Users can buy through this page as well as checking the specifications and reviews."
+        },
+        {
+          "type": "image-large",
+          "content": "/adelle-image-product.jpg",
+          "alt": "Product detail",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Login & Register"
+        },
+        {
+          "type": "paragraph",
+          "content": "Users must login first to buy their favourites."
+        },
+        {
+          "type": "image-large",
+          "content": "/adelle-image-loginregister.jpg",
+          "alt": "Login register",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Wishlist"
+        },
+        {
+          "type": "paragraph",
+          "content": "Users can keep their favourites here for later transactions."
+        },
+        {
+          "type": "image-large",
+          "content": "/adelle-image-wishlist.jpg",
+          "alt": "Wishlist",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Page Content"
+        },
+        {
+          "type": "paragraph",
+          "content": "A page for any content, like an about page."
+        },
+        {
+          "type": "image-large",
+          "content": "/adelle-image-page.jpg",
+          "alt": "Page",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Blog"
+        },
+        {
+          "type": "paragraph",
+          "content": "Where Adelle can share their thoughts."
+        },
+        {
+          "type": "image-large",
+          "content": "/adelle-image-blog.jpg",
+          "alt": "Blog",
+          "label": "-"
+        },
+        {
+          "type": "image-large",
+          "content": "/adelle-image-blogdetail.jpg",
+          "alt": "Blog detail",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Guides"
+        },
+        {
+          "type": "paragraph",
+          "content": "Feel lost? This collection of guides will help you find your way."
+        },
+        {
+          "type": "image-large",
+          "content": "/adelle-image-guide.jpg",
+          "alt": "Guides",
+          "label": "-"
+        }
+      ]
+    },
+    {
+      "slug": "solusi-sejuk",
+      "id": 7,
+      "title": "Solusi Sejuk",
+      "overview": "Solusi Sejuk is an air conditioner (AC) renting service. They rented out their AC for a monthly payment and they also take care of maintenance cost. This serves as a solution for people who feel that buying and maintaining an AC are expensive.",
+      "role": [
+        {
+          "name": "Front-end Development"
+        }
+      ],
+      "type": "Agency",
+      "tools": [
+        {
+          "name": "HTML5"
+        },
+        {
+          "name": "CSS3"
+        },
+        {
+          "name": "jQuery"
+        }
+      ],
+      "link": "http://solusisejuk.com",
+      "thumbnail_path": "/solusisejuk-thumb.jpg",
+      "article": [
+        {
+          "type": "h3",
+          "content": "A Little Background"
+        },
+        {
+          "type": "paragraph",
+          "content": "Solusi Sejuk is an air conditioner (AC) renting service. They rented out their AC for a monthly payment and they also take care of maintenance cost. This serves as a solution for people who feel that buying and maintaining an AC are expensive."
+        },
+        {
+          "type": "h3",
+          "content": "Front End"
+        },
+        {
+          "type": "paragraph",
+          "content": "My role was to wrote the front-end code for this project. Here’s the result:"
+        },
+        {
+          "type": "h4",
+          "content": "Home"
+        },
+        {
+          "type": "paragraph",
+          "content": "The front page of Solusi Sejuk. Here, they show the benefits of their services, testimonials, as well as their clients."
+        },
+        {
+          "type": "image-large",
+          "content": "/solusisejuk-image-homepage.jpg",
+          "alt": "Homepage",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Subscribe"
+        },
+        {
+          "type": "paragraph",
+          "content": "In this page, they explain about the details for renting their AC. There’s also a form people can use to get in touch and start subscribing."
+        },
+        {
+          "type": "image-large",
+          "content": "/solusisejuk-image-subscribe.jpg",
+          "alt": "Subscribe",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Products"
+        },
+        {
+          "type": "paragraph",
+          "content": "Solusi Sejuk also provided the means of buying AC through installment."
+        },
+        {
+          "type": "image-large",
+          "content": "/solusisejuk-image-products.jpg",
+          "alt": "Products",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "About"
+        },
+        {
+          "type": "paragraph",
+          "content": "In here, Solusi Sejuk explains their three core values: Easiness, Quality, and Speed."
+        },
+        {
+          "type": "image-large",
+          "content": "/solusisejuk-image-about.jpg",
+          "alt": "About",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Contact"
+        },
+        {
+          "type": "paragraph",
+          "content": "Use this page if you want to get in touch with Solusi Sejuk."
+        },
+        {
+          "type": "image-large",
+          "content": "/solusisejuk-image-contact.jpg",
+          "alt": "Contact",
+          "label": "-"
+        }
+      ]
+    },
+    {
+      "slug": "ramayana",
+      "id": 8,
+      "title": "Ramayana",
+      "overview": "Space: The final frontier. These are the voyages of the Starship, Enterprise. Its five-year mission: To explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.",
+      "role": [
+        {
+          "name": "Front-end Development"
+        }
+      ],
+      "type": "Agency",
+      "tools": [
+        {
+          "name": "HTML5"
+        },
+        {
+          "name": "CSS3"
+        },
+        {
+          "name": "jQuery"
+        }
+      ],
+      "link": "http://ramayana.co.id",
+      "thumbnail_path": "/ramayana-thumb.jpg",
+      "article": [
+        {
+          "type": "h3",
+          "content": "A Little Background"
+        },
+        {
+          "type": "paragraph",
+          "content": "Space: The final frontier. These are the voyages of the Starship, Enterprise. Its five-year mission: To explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before."
+        },
+        {
+          "type": "h3",
+          "content": "Front End"
+        },
+        {
+          "type": "paragraph",
+          "content": "Space: The final frontier. These are the voyages of the Starship, Enterprise. Its five-year mission: To explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before."
+        },
+        {
+          "type": "h4",
+          "content": "Home"
+        },
+        {
+          "type": "paragraph",
+          "content": "Space: The final frontier. These are the voyages of the Starship, Enterprise. Its five-year mission: To explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before."
+        },
+        {
+          "type": "image-large",
+          "content": "/ramayana-image-homepage.jpg",
+          "alt": "Homepage",
+          "label": "-"
+        }
+      ]
     }
   ]
 }
