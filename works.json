@@ -223,7 +223,7 @@
         },
         {
           "type": "paragraph",
-          "content": "A company website portfolio would be more usable with a backend side. I use <a href='https://adminlte.io/' target='_blank'>AdminLTE</a> control panel template for a quick and easy design process. <a href='https://www.linkedin.com/in/denis-sunardi-5061b2145/' target='_blank'>Denis</a>, a friend of mine, takes care of anything backend-side like database models."
+          "content": "A company website portfolio would be more usable with a backend side. I use <a href='https://adminlte.io/' target='_blank'>AdminLTE</a> control panel template for a quick and easy design process. <a href='https://www.linkedin.com/in/denis-sunardi-5061b2145/' target='_blank'>Denis</a>, the back-end developer, takes care of anything backend-side like database models."
         },
         {
           "type": "image-large",
@@ -1112,7 +1112,7 @@
         },
         {
           "type": "paragraph",
-          "content": "A page for any content, like an about page."
+          "content": "Adelle can generate a page for any content, like an about page."
         },
         {
           "type": "image-large",
@@ -1273,7 +1273,7 @@
       "slug": "ramayana",
       "id": 8,
       "title": "Ramayana",
-      "overview": "Space: The final frontier. These are the voyages of the Starship, Enterprise. Its five-year mission: To explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.",
+      "overview": "Ramayana is one of the most prominent department store in Indonesia, seeking to cater the needs of middle-income to lower-income Indonesian market.",
       "role": [
         {
           "name": "Front-end Development"
@@ -1300,7 +1300,7 @@
         },
         {
           "type": "paragraph",
-          "content": "Space: The final frontier. These are the voyages of the Starship, Enterprise. Its five-year mission: To explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before."
+          "content": "Ramayana is one of the most prominent department store in Indonesia, seeking to cater the needs of middle-income to lower-income Indonesian market."
         },
         {
           "type": "h3",
@@ -1308,7 +1308,7 @@
         },
         {
           "type": "paragraph",
-          "content": "Space: The final frontier. These are the voyages of the Starship, Enterprise. Its five-year mission: To explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before."
+          "content": "My role was to wrote the front-end code for this project. Here’s the result:"
         },
         {
           "type": "h4",
@@ -1316,12 +1316,96 @@
         },
         {
           "type": "paragraph",
-          "content": "Space: The final frontier. These are the voyages of the Starship, Enterprise. Its five-year mission: To explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before."
+          "content": "The front page of the website. It shows current promotions from Ramayana as well as their new collections."
         },
         {
           "type": "image-large",
           "content": "/ramayana-image-homepage.jpg",
           "alt": "Homepage",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Products"
+        },
+        {
+          "type": "paragraph",
+          "content": "This page shows many of their available products, depends on what category that users seek."
+        },
+        {
+          "type": "image-large",
+          "content": "/ramayana-image-products.jpg",
+          "alt": "Products",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Product Detail"
+        },
+        {
+          "type": "paragraph",
+          "content": "The details of a product. Users can like products through this page as well as checking the specifications."
+        },
+        {
+          "type": "image-large",
+          "content": "/ramayana-image-product.jpg",
+          "alt": "Product detail",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Login & Register"
+        },
+        {
+          "type": "paragraph",
+          "content": "Users must login before they can use their wishlist."
+        },
+        {
+          "type": "image-large",
+          "content": "/ramayana-image-loginregister.jpg",
+          "alt": "Login register",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Profile"
+        },
+        {
+          "type": "paragraph",
+          "content": "Users can update their credentials and access their wishlist here."
+        },
+        {
+          "type": "image-large",
+          "content": "/ramayana-image-profile.jpg",
+          "alt": "Profile",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Wishlist"
+        },
+        {
+          "type": "paragraph",
+          "content": "Where users can keep their favourites."
+        },
+        {
+          "type": "image-large",
+          "content": "/ramayana-image-wishlist.jpg",
+          "alt": "Wishlist",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Page"
+        },
+        {
+          "type": "paragraph",
+          "content": "Ramayana can generate a page for any content, like a video page."
+        },
+        {
+          "type": "image-large",
+          "content": "/ramayana-image-page.jpg",
+          "alt": "Page",
           "label": "-"
         }
       ]
