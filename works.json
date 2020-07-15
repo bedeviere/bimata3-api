@@ -1,6 +1,368 @@
 {
   "results": [
     {
+      "slug": "self-service-laundry",
+      "id": 9,
+      "title": "Improving Self-Service Laundry",
+      "overview": "I frequent a coin self-service laundry (usually called laundromat in Bay Area) once every 2 weeks. There was this one time when I forgot to bring coins and cash. I have to get back to my house 3 blocks away to get them. Probably there’s more problem for laundromat users, or laundry in general?",
+      "role": [
+        {
+          "name": "User Research"
+        },
+        {
+          "name": "Prototyping"
+        }
+      ],
+      "type": "Concept",
+      "tools": [
+        {
+          "name": "Direct Interview"
+        },
+        {
+          "name": "Google Forms"
+        },
+        {
+          "name": "Paper Sketches"
+        },
+        {
+          "name": "Adobe XD"
+        }
+      ],
+      "link": "https://xd.adobe.com/view/992c28b4-2812-40d5-69ce-5632d53f0b07-ef1d/?fullscreen&hints=off",
+      "thumbnail_path": "/self-service-laundry-thumb.jpg",
+      "article": [
+        {
+          "type": "h3",
+          "content": "Background"
+        },
+        {
+          "type": "paragraph",
+          "content": "I frequent a coin self-service laundry (usually called laundromat in Bay Area) once every 2 weeks. There was this one time when I forgot to bring coins and cash. I have to get back to my house 3 blocks away to get them. Probably there’s more problem for laundromat users, or laundry in general?"
+        },
+        {
+          "type": "h3",
+          "content": "Process"
+        },
+        {
+          "type": "image-small",
+          "content": "/self-service-laundry-process.jpg",
+          "alt": "Design process",
+          "label": "Design process used in this case study"
+        },
+        {
+          "type": "h3",
+          "content": "1. Discover"
+        },
+        {
+          "type": "h4",
+          "content": "User Interview"
+        },
+        {
+          "type": "paragraph",
+          "content": "I began with user interviews to discover general problems about laundry. The interview was conducted inside self-service establishment and to users who had used other forms of self-service laundry. Because of this, the interviews showed more problems about self-service laundry."
+        },
+        {
+          "type": "image-small",
+          "content": "/self-service-laundry-interview-stats.jpg",
+          "alt": "Interview stats",
+          "label": ""
+        },
+        {
+          "type": "paragraph",
+          "content": "Out of 5 participants, 2 people use quarter coins, 2 people use credit card, and 1 student uses Cal 1 card."
+        },
+        {
+          "type": "ul",
+          "content": "These are common problems I found during the interviews.",
+          "list": [
+            {
+              "content": "Forgot to bring coins to coin laundromat"
+            },
+            {
+              "content": "Credit card being stuck inside machine"
+            },
+            {
+              "content": "Forgot that they had laundry going on for the whole day"
+            },
+            {
+              "content": "Not enough washing and drying machine"
+            },
+            {
+              "content": "Unable to use machine because of unattended laundry from previous customer"
+            },
+            {
+              "content": "Laundry leftovers inside machine"
+            }
+          ]
+        },
+        {
+          "type": "h4",
+          "content": "Persona"
+        },
+        {
+          "type": "paragraph",
+          "content": "All participants I interviewed seems to fall into this type of persona."
+        },
+        {
+          "type": "image-small",
+          "content": "/self-service-laundry-persona.jpg",
+          "alt": "Persona",
+          "label": ""
+        },
+        {
+          "type": "h3",
+          "content": "2. Define"
+        },
+        {
+          "type": "paragraph",
+          "content": "After doing the research, I feel confident on defining the problems of self-service laundry."
+        },
+        {
+          "type": "paragraph",
+          "content": "<strong>Pain Point #1: Payment Problems</strong><br>The payment problems ranges from forgetting to bring coins to credit cards getting stuck on machine."
+        },
+        {
+          "type": "paragraph",
+          "content": "<strong>Pain Point #2: Unattended Laundry Results on Time Wasting</strong><br>One of the participants complains about seeing unattended laundry on every machine, causing them to not able to do laundry."
+        },
+        {
+          "type": "paragraph",
+          "content": "<strong>Pain Point #3: Forgetting Laundry</strong><br>One of the participants completely forgot about their laundry for one full day."
+        },
+        {
+          "type": "paragraph",
+          "content": "<strong>Pain Point #4: Laundry being Taken Out Without Permission</strong><br>One of the participants told me of one time when someone put their wet laundry on the floor."
+        },
+        {
+          "type": "h3",
+          "content": "3. Ideate"
+        },
+        {
+          "type": "paragraph",
+          "content": "I brainstormed several solutions to solve the pain points I defined earlier."
+        },
+        {
+          "type": "paragraph",
+          "content": "<strong>Solution #1: Payment App</strong><br>This app could be used to store balance and get coins, in case users forgot their wallet. Users could use the app to scan QR codes in washers and dryers to do payment. They could also scan QR codes on coin machines to get quarter coins."
+        },
+        {
+          "type": "paragraph",
+          "content": "<strong>Solution #2: Laundry Alert System</strong><br>Alert system will alert users of their impending laundry. The system could be an app, email, or text messages. This way, users won’t have to forget about their laundry."
+        },
+        {
+          "type": "paragraph",
+          "content": "<strong>Solution #3: Special Laundry Card</strong><br>The special card solution is just another way of solving payment. The card can be used to store balances that could be used to pay laundry."
+        },
+        {
+          "type": "h4",
+          "content": "Lo-Fi Wireframes"
+        },
+        {
+          "type": "paragraph",
+          "content": "I explored the solutions more by sketching the Lo-Fi Wireframe of each solutions."
+        },
+        {
+          "type": "image-small",
+          "content": "/self-service-laundry-lofi-wireframes.png",
+          "alt": "Lo-Fi Wireframes",
+          "label": ""
+        },
+        {
+          "type": "h4",
+          "content": "Online Survey"
+        },
+        {
+          "type": "paragraph",
+          "content": "I spread an online survey between students of UC Berkeley, <a href='#' target='_blank'>SurveySwap</a> with USA as respondent residency, and <a href='#' target='_blank'>Survey sharing 2019 group</a>."
+        },
+        {
+          "type": "image-small",
+          "content": "/self-service-laundry-online-survey-validation.png",
+          "alt": "Self-Service Laundry Validation",
+          "label": ""
+        },
+        {
+          "type": "image-small",
+          "content": "/self-service-laundry-app-interest.png",
+          "alt": "more interest towards app solution",
+          "label": ""
+        },
+        {
+          "type": "paragraph",
+          "content": "According to the survey, self-service laundry is still relevant to 73,1% of the survey participants. Participants also showed more interest towards payment app solution. With these research in mind, I moved on to prototype stage with the payment app solution."
+        },
+        {
+          "type": "h3",
+          "content": "4. Prototype"
+        },
+        {
+          "type": "h4",
+          "content": "Co-Design Session"
+        },
+        {
+          "type": "image-small",
+          "content": "/self-service-laundry-co-design.jpg",
+          "alt": "Co-Design Session",
+          "label": ""
+        },
+        {
+          "type": "paragraph",
+          "content": "I started the prototype stage with a co-design session with some designer friends. The goal of this session is to brainstorm the basic functions of the app. These are the proposed scenarios from the co-design session."
+        },
+        {
+          "type": "image-small",
+          "content": "/self-service-laundry-scenario-1.png",
+          "alt": "Scenario 1",
+          "label": ""
+        },
+        {
+          "type": "image-small",
+          "content": "/self-service-laundry-scenario-234.png",
+          "alt": "Scenario 2,3,4",
+          "label": ""
+        },
+        {
+          "type": "h4",
+          "content": "Hi-Fi Wireframes"
+        },
+        {
+          "type": "paragraph",
+          "content": "Here are the hi-fi wireframes based on the proposed scenarios and wireframe sketches."
+        },
+        {
+          "type": "paragraph",
+          "content": "<strong>Flow 1: Payment Solutions</strong>"
+        },
+        {
+          "type": "image-large",
+          "content": "/self-service-laundry-flow-1.png",
+          "alt": "Flow 1",
+          "label": ""
+        },
+        {
+          "type": "ul",
+          "content": "",
+          "list": [
+            {
+              "content": "Pain point addressed: Payment problems"
+            },
+            {
+              "content": "Scan QR codes to do payment and get coins."
+            },
+            {
+              "content": "Save credit cards for future payments."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "<strong>Flow 2: Locking System</strong>"
+        },
+        {
+          "type": "image-small",
+          "content": "/self-service-laundry-flow-2.png",
+          "alt": "Flow 2",
+          "label": ""
+        },
+        {
+          "type": "ul",
+          "content": "",
+          "list": [
+            {
+              "content": "Pain point addressed: Laundry being taken out without permission"
+            },
+            {
+              "content": "Locking will open or close whenever user scan the QR code."
+            },
+            {
+              "content": "Prevent anyone from taking out laundry without permission."
+            },
+            {
+              "content": "A penalty system for taking out the laundry for too long, so it’s fair for everyone."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "<strong>Flow 3: Alert System</strong>"
+        },
+        {
+          "type": "image-small",
+          "content": "/self-service-laundry-flow-3.png",
+          "alt": "Flow 3",
+          "label": ""
+        },
+        {
+          "type": "ul",
+          "content": "",
+          "list": [
+            {
+              "content": "Pain point addressed: Forgetting laundry"
+            },
+            {
+              "content": "Users will be alerted 5 minutes before their laundry is done."
+            }
+          ]
+        },
+        {
+          "type": "h4",
+          "content": "Usability Testing"
+        },
+        {
+          "type": "paragraph",
+          "content": "Using the hi-fi wireframes, I started a usability testing to identify friction points."
+        },
+        {
+          "type": "image-small",
+          "content": "/self-service-laundry-usability-breakdown.png",
+          "alt": "Usability Breakdown",
+          "label": ""
+        },
+        {
+          "type": "ul",
+          "content": "From the usability testing I identified these friction points:",
+          "list": [
+            {
+              "content": "Penalty system were hard to notice at first glance"
+            },
+            {
+              "content": "Active laundry list were too hidden"
+            },
+            {
+              "content": "25¢ penalty per 5 minutes were too harsh"
+            },
+            {
+              "content": "History list were mistaken for active laundry list"
+            }
+          ]
+        },
+        {
+          "type": "h3",
+          "content": "Conclusion"
+        },
+        {
+          "type": "paragraph",
+          "content": "There are still some steps that needs to be done for this project to answer the friction points found in usability testing. These includes <strong>different font colors</strong> for penalty system, putting active laundry list in the homepage for <strong>easy access</strong>, <strong>combining active laundry list and history list</strong> with filters to differentiate, and <strong>alleviate the penalty</strong> for a bit so it won’t punish the users with too harsh penalty. As for the penalty part, some participants felt <strong>50¢ per 15 minutes</strong> is better when asked."
+        },
+        {
+          "type": "ul",
+          "content": "When working on this project, I realised more opportunities to test the app limit that I haven’t think of before, such as:",
+          "list": [
+            {
+              "content": "What if I put a loyalty program to reward users for keep using this app?"
+            },
+            {
+              "content": "What if I could buy detergent using the app?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "For this project to completely solve the laundry problem, there has to be more research and development for the laundry machine themselves. How the machines read the laundry requirements from the app? How the machines send signal to users phone to alert about their impending laundry? How do the locking mechanism works? An app for payment and tracking laundry won’t be complete without the laundry machines to connect with it."
+        }
+      ]
+    },
+    {
       "slug": "frienemies",
       "id": 3,
       "title": "Frienemies",
