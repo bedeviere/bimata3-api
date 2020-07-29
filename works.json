@@ -297,10 +297,13 @@
           "content": "",
           "list": [
             {
-              "content": "Pain point addressed: Forgetting laundry"
+              "content": "Pain point addressed: Unattended laundry results on time wasting, forgetting laundry"
             },
             {
               "content": "Users will be alerted 5 minutes before their laundry is done."
+            },
+            {
+              "content": "The alerts would theoretically minimized unattended laundry."
             }
           ]
         },
@@ -330,9 +333,6 @@
             },
             {
               "content": "25¢ penalty per 5 minutes were too harsh"
-            },
-            {
-              "content": "History list were mistaken for active laundry list"
             }
           ]
         },
@@ -342,7 +342,7 @@
         },
         {
           "type": "paragraph",
-          "content": "There are still some steps that needs to be done for this project to answer the friction points found in usability testing. These includes <strong>different font colors</strong> for penalty system, putting active laundry list in the homepage for <strong>easy access</strong>, <strong>combining active laundry list and history list</strong> with filters to differentiate, and <strong>alleviate the penalty</strong> for a bit so it won’t punish the users with too harsh penalty. As for the penalty part, some participants felt <strong>50¢ per 15 minutes</strong> is better when asked."
+          "content": "There are still some steps that needs to be done for this project to answer the friction points found in usability testing. These includes <strong>different font colors</strong> for penalty system, putting active laundry list in the homepage for <strong>easy access</strong>, and <strong>alleviate the penalty</strong> for a bit so it won’t punish the users with too harsh penalty. As for the penalty part, some participants felt <strong>50¢ per 15 minutes</strong> is better when asked."
         },
         {
           "type": "ul",
@@ -363,13 +363,208 @@
       ]
     },
     {
+      "slug": "egghub",
+      "id": 10,
+      "title": "Egghub",
+      "overview": "Egghub is a platform that connects organic egg buyers with local urban farmers that produce organic eggs. Buyers could search farmers based on their egg requirements. The idea is to let the app do the transaction while the farmers (or couriers) just drop the eggs in the buyer’s front door.",
+      "role": [
+        {
+          "name": "Prototyping"
+        }
+      ],
+      "type": "Concept",
+      "tools": [
+        {
+          "name": "Direct Interview"
+        },
+        {
+          "name": "Paper Sketches"
+        },
+        {
+          "name": "Adobe XD"
+        }
+      ],
+      "link": "https://invis.io/BSWE0W2G7RK",
+      "thumbnail_path": "/egghub-thumb.jpg",
+      "article": [
+        {
+          "type": "paragraph",
+          "content": "In the midst of the coronavirus pandemic that started in 2019, the demands for locally farmed eggs are even higher than before. This means egg farmers will be in touch with their customers more frequently. While masks definitely helps, there has to be another way to make transaction safer and be more effective in preventing the virus spread."
+        },
+        {
+          "type": "h3",
+          "content": "Enter, Egghub"
+        },
+        {
+          "type": "paragraph",
+          "content": "Egghub is a platform that connects organic egg buyers with local urban farmers that produce organic eggs. Buyers could search farmers based on their egg requirements. The idea is to let the app do the transaction while the farmers (or couriers) just drop the eggs in the buyer’s front door."
+        },
+        {
+          "type": "h3",
+          "content": "Process"
+        },
+        {
+          "type": "image-small",
+          "content": "/egghub-process.jpg",
+          "alt": "Design process",
+          "label": "Design process used in this case study"
+        },
+        {
+          "type": "h3",
+          "content": "1. Discover"
+        },
+        {
+          "type": "h4",
+          "content": "Interview and Persona"
+        },
+        {
+          "type": "paragraph",
+          "content": "I began by interviewing several people with close ties to egg farming business and people who buy eggs on a weekly basis. The interview involves day to day egg business and general idea of what’s on their mind when buying and selling eggs. I created this persona based on these interviews."
+        },
+        {
+          "type": "image-small",
+          "content": "/egghub-persona.png",
+          "alt": "Persona",
+          "label": ""
+        },
+        {
+          "type": "h3",
+          "content": "2. Design"
+        },
+        {
+          "type": "h4",
+          "content": "Story Map"
+        },
+        {
+          "type": "paragraph",
+          "content": "Using story map, I explored several possible interactions for the app and what users could do on the app."
+        },
+        {
+          "type": "image-small",
+          "content": "/egghub-story-map-raw.jpg",
+          "alt": "Raw Story Map",
+          "label": ""
+        },
+        {
+          "type": "image-small",
+          "content": "/egghub-story-map.jpg",
+          "alt": "Story Map",
+          "label": ""
+        },
+        {
+          "type": "h4",
+          "content": "User Flow"
+        },
+        {
+          "type": "paragraph",
+          "content": "Satisfied with the story map, I continue with user flow model to finalize how the main flow would be on the app."
+        },
+        {
+          "type": "image-small",
+          "content": "/egghub-user-flow.jpg",
+          "alt": "User Flow",
+          "label": ""
+        },
+        {
+          "type": "h3",
+          "content": "3. Prototype"
+        },
+        {
+          "type": "h4",
+          "content": "Paper Sketches"
+        },
+        {
+          "type": "paragraph",
+          "content": "After the user flow has been finalized, I started to explore how the main process screens would look like using paper sketches."
+        },
+        {
+          "type": "image-small",
+          "content": "/egghub-sketches.jpg",
+          "alt": "Paper Sketches",
+          "label": ""
+        },
+        {
+          "type": "h4",
+          "content": "Lo-Fi Wireframes"
+        },
+        {
+          "type": "paragraph",
+          "content": "Using the paper sketches, I started working on the lo-fi wireframes. I gather visual references from sources like dribble, behance, and several grocery shopping apps. With Adobe XD, I create the base components using <a href='https://www.uistore.design/items/shopping-ui-kit-for-adobe-xd/' target='_blank'>Shopping UI Kit</a> made by <a href='https://dribbble.com/ema_ike?ref=uistore.design' target='_blank'>Emmanuel Ikechukwu</a>. This would made the design process quick and easy."
+        },
+        {
+          "type": "image-small",
+          "content": "/egghub-lofi.png",
+          "alt": "Lo-Fi Wireframes",
+          "label": ""
+        },
+        {
+          "type": "h3",
+          "content": "4. Iterate"
+        },
+        {
+          "type": "h4",
+          "content": "Final Design"
+        },
+        {
+          "type": "paragraph",
+          "content": "I started adding brand colours and visual references on the lo-fi wireframes, resulting in final design. I do several steps of next iteration on this design."
+        },
+        {
+          "type": "image-large",
+          "content": "/egghub-hifi.png",
+          "alt": "Final Design",
+          "label": ""
+        },
+        {
+          "type": "h4",
+          "content": "Clickable Prototype"
+        },
+        {
+          "type": "paragraph",
+          "content": "After several steps of iterations on the final design, I made a clickable prototype on InVision for the future usability testing."
+        },
+        {
+          "type": "paragraph",
+          "content": "<a href='https://invis.io/BSWE0W2G7RK' target='_blank'>https://invis.io/BSWE0W2G7RK</a>."
+        },
+        {
+          "type": "h3",
+          "content": "Conclusion"
+        },
+        {
+          "type": "h4",
+          "content": "What I learned"
+        },
+        {
+          "type": "paragraph",
+          "content": "Creating and showing a working prototype to work better with developers."
+        },
+        {
+          "type": "h4",
+          "content": "Next steps?"
+        },
+        {
+          "type": "paragraph",
+          "content": "Usability testing. Designing the app from farmer side."
+        },
+        {
+          "type": "h4",
+          "content": "Thank you for reading, here’s a little background"
+        },
+        {
+          "type": "paragraph",
+          "content": "This case study is part of UC Berkeley Extension, Diagramming and Prototyping challenge."
+        }
+      ]
+    },
+    {
       "slug": "frienemies",
       "id": 3,
       "title": "Frienemies",
       "overview": "Ever heard of Bishi Bashi? The three of us, me, Dimas, and Chris decided to make our final thesis project a tribute for this game. Frienemies, to put plainly, means friends and enemies. To us, it means a friend who can be a rival. We felt it's the perfect title for the gameplay of this game where every player strives to be the very best.",
       "role": [
         {
-          "name": "DARUMA SPRINT Development"
+          "name": "DARUMA SPRINT Development, User Research"
         }
       ],
       "type": "Thesis",
@@ -379,6 +574,9 @@
         },
         {
           "name": "C#"
+        },
+        {
+          "name": "Google Forms"
         }
       ],
       "link": "https://play.google.com/store/apps/details?id=com.BDCGames.FrienemiesNew",
@@ -927,152 +1125,6 @@
       ]
     },
     {
-      "slug": "bimata-storywork",
-      "id": 2,
-      "title": "Bimata's Storywork",
-      "overview": "The Storywork is a project from my high school times where I publish my fictions. It can be short story, flash fiction, song lyric, anything that I wrote or collaborated.",
-      "role": [
-        {
-          "name": "Front-end Development"
-        },
-        {
-          "name":"CMS Development"
-        }
-      ],
-      "type": "Personal",
-      "tools": [
-        {
-          "name": "HTML5"
-        },
-        {
-          "name": "CSS3"
-        },
-        {
-          "name":"LESS"
-        },
-        {
-          "name":"jQuery"
-        },
-        {
-          "name":"WordPress"
-        }
-      ],
-      "link": "http://storywork.bedeviere.com",
-      "thumbnail_path": "/stwrk-thumb.jpg",
-      "article": [
-        {
-          "type": "h3",
-          "content": "A Little Background"
-        },
-        {
-          "type": "paragraph",
-          "content": "The Storywork is a project from my high school times where I publish my fictions. It can be short story, flash fiction, song lyric, anything that I wrote or collaborated. As a high school student with limited technical knowledge, I could only afford to use <a href='http://bedeviere.blogspot.com' target='_blank'>blogspot</a>, a free blogging platform."
-        },
-        {
-          "type": "image-small",
-          "content": "/stwrk-image-blogspot.jpg",
-          "alt": "Blogspot",
-          "label": "Storywork, then"
-        },
-        {
-          "type": "paragraph",
-          "content": "After I graduated from college, things become different. I have more technical knowledge than before. Then I started to have this need to always try to create something, to always learning."
-        },
-        {
-          "type": "paragraph",
-          "content": "Then it hit me:"
-        },
-        {
-          "type": "quote",
-          "content": "\"Why don't I started develop a website for the Storywork?\""
-        },
-        {
-          "type": "paragraph",
-          "content": "It makes sense. I can use this as my portfolio and I also wanted learn more about developing from <a href='https://wordpress.org/' target='_blank'>WordPress</a>, one of the best blogging platform that's also a CMS. So, for me it's a big win."
-        },
-        {
-          "type": "paragraph",
-          "content": "I want the new website to have a distraction-free environment, to have a better reading experience. I look for inspirations and found <a href='https://startbootstrap.com/template-overviews/clean-blog' target='_blank'>this</a> clean looking template. I decided to use this template as the basis of my custom WordPress template and customize it more for anything I need."
-        },
-        {
-          "type": "paragraph",
-          "content": "Basically, it was a redesign."
-        },
-        {
-          "type": "h3",
-          "content": "Storywork, Now"
-        },
-        {
-          "type": "paragraph",
-          "content": "Here's the end result of the project:"
-        },
-        {
-          "type": "h4",
-          "content": "Home"
-        },
-        {
-          "type": "paragraph",
-          "content": "The home page shows the most recent stories I publish. Refresh this page for keep you posted."
-        },
-        {
-          "type": "image-large",
-          "content": "/stwrk-image-homepage.jpg",
-          "alt": "Homepage",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Post"
-        },
-        {
-          "type": "paragraph",
-          "content": "Every story falls in post type content. It has a comment section for interaction. Readers can also share my stories using social media of their choice."
-        },
-        {
-          "type": "image-large",
-          "content": "/stwrk-image-post.jpg",
-          "alt": "Post",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Post Category"
-        },
-        {
-          "type": "paragraph",
-          "content": "Aside from short story and flash fiction, the post category can also serves as series chapter page should I publish story series in the future."
-        },
-        {
-          "type": "image-large",
-          "content": "/stwrk-image-category.jpg",
-          "alt": "Post category",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Page"
-        },
-        {
-          "type": "paragraph",
-          "content": "For non-story type of content. Like for example, an about page."
-        },
-        {
-          "type": "image-large",
-          "content": "/stwrk-image-page.jpg",
-          "alt": "Page",
-          "label": "-"
-        },
-        {
-          "type": "h3",
-          "content": "Onwards"
-        },
-        {
-          "type": "paragraph",
-          "content": "I was happy to learn a lot about WordPress in this project. Adding some kind of visual illustration for each story will be my next exploration."
-        }
-      ]
-    },
-    {
       "slug": "metakom",
       "id": 4,
       "title": "Metakom",
@@ -1198,576 +1250,6 @@
           "type": "image-large",
           "content": "/metakom-image-contact.jpg",
           "alt": "Contact",
-          "label": "-"
-        }
-      ]
-    },
-    {
-      "slug": "regal-lite",
-      "id": 5,
-      "title": "Regal Lite Ver.",
-      "overview": "Since 1952, Regal has been the number one brand of Marie Biscuits in Indonesia. In 2014 & 2015, Regal Marie Biscuits achieved the “Top Brand” in the Marie Biscuit category in Indonesia.",
-      "role": [
-        {
-          "name": "Front-end Development"
-        }
-      ],
-      "type": "Agency",
-      "tools": [
-        {
-          "name": "HTML5"
-        },
-        {
-          "name": "CSS3"
-        },
-        {
-          "name": "jQuery"
-        }
-      ],
-      "link": "http://marieregal.com/lite",
-      "thumbnail_path": "/rlite-thumb.jpg",
-      "article": [
-        {
-          "type": "h3",
-          "content": "A Little Background"
-        },
-        {
-          "type": "paragraph",
-          "content": "Since 1952, Regal has been the number one brand of Marie Biscuits in Indonesia. In 2014 & 2015, Regal Marie Biscuits achieved the “Top Brand” in the Marie Biscuit category in Indonesia. Beyond the domestic market, Marie Regal is also distributed internationally and it is also successful in winning several awards and trophies at several food expos and trade shows in the Netherlands, Japan, Germany, Bulgaria, Poland, Italy, Yugoslavia, Thailand, France and the United States."
-        },
-        {
-          "type": "h4",
-          "content": "At First Glance"
-        },
-        {
-          "type": "paragraph",
-          "content": "Their <a href='http://marieregal.com/main' target='_blank'>main</a> website took the form of a kingdom with various objects like royal castle, airport, and buildings that users can interact. With such complex form, this main version is best viewed from desktop and not so much on mobile. Hence the need of a lite version."
-        },
-        {
-          "type": "image-large",
-          "content": "/rlite-image-kingdom.jpg",
-          "alt": "Regal kingdom",
-          "label": "-"
-        },
-        {
-          "type": "h3",
-          "content": "Front End"
-        },
-        {
-          "type": "paragraph",
-          "content": "My role was to wrote the front-end code for this project. Here’s the result:"
-        },
-        {
-          "type": "h4",
-          "content": "Home"
-        },
-        {
-          "type": "paragraph",
-          "content": "The front page that shows the current products of Regal."
-        },
-        {
-          "type": "image-large",
-          "content": "/rlite-image-homepage.jpg",
-          "alt": "Homepage",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Products"
-        },
-        {
-          "type": "paragraph",
-          "content": "Here, the biscuit products are explained with more detail."
-        },
-        {
-          "type": "image-large",
-          "content": "/rlite-image-products.jpg",
-          "alt": "Products",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Sources"
-        },
-        {
-          "type": "paragraph",
-          "content": "This page shows the main ingredients of Regal biscuits."
-        },
-        {
-          "type": "image-large",
-          "content": "/rlite-image-sources.jpg",
-          "alt": "Sources",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Process"
-        },
-        {
-          "type": "paragraph",
-          "content": "This page shows the process of Regal biscuits."
-        },
-        {
-          "type": "image-large",
-          "content": "/rlite-image-process.jpg",
-          "alt": "Process",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "News"
-        },
-        {
-          "type": "paragraph",
-          "content": "Regal can share their news here."
-        },
-        {
-          "type": "image-large",
-          "content": "/rlite-image-news.jpg",
-          "alt": "News",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Find Us"
-        },
-        {
-          "type": "paragraph",
-          "content": "This page shows Regal’s address from around the world."
-        },
-        {
-          "type": "image-large",
-          "content": "/rlite-image-findus.jpg",
-          "alt": "Find us",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Contact"
-        },
-        {
-          "type": "paragraph",
-          "content": "If you want to get in touch with Regal, use this page."
-        },
-        {
-          "type": "image-large",
-          "content": "/rlite-image-contact.jpg",
-          "alt": "Contact",
-          "label": "-"
-        }
-      ]
-    },
-    {
-      "slug": "adelle-jewellery",
-      "id": 6,
-      "title": "Adelle Jewellery",
-      "overview": "Adelle is a jewellery e-store with their brand inspired by Kaizen, an ancient japanese wisdom. Itʼs a philosophy that fuels their passion for constant and never-ending improvement in everything they do for excellence.",
-      "role": [
-        {
-          "name": "Front-end Development"
-        }
-      ],
-      "type": "Agency",
-      "tools": [
-        {
-          "name": "HTML5"
-        },
-        {
-          "name": "CSS3"
-        },
-        {
-          "name": "jQuery"
-        }
-      ],
-      "link": "http://adellejewellery.com",
-      "thumbnail_path": "/adelle-thumb.jpg",
-      "article": [
-        {
-          "type": "h3",
-          "content": "A Little Background"
-        },
-        {
-          "type": "paragraph",
-          "content": "Adelle is a jewellery e-store with their brand inspired by Kaizen, an ancient japanese wisdom. Itʼs a philosophy that fuels their passion for constant and never-ending improvement in everything they do for excellence. Over the years, Adelle Jewellery has tried itʼs best to bring people the perfection of timeless natural diamond beauty within itʼs pieces."
-        },
-        {
-          "type": "h3",
-          "content": "Front End"
-        },
-        {
-          "type": "paragraph",
-          "content": "My role was to wrote the front-end code for this project. Here’s the result:"
-        },
-        {
-          "type": "h4",
-          "content": "Home"
-        },
-        {
-          "type": "paragraph",
-          "content": "The front page of the website. It shows current promotions from Adelle as well as their best selling products and new collections."
-        },
-        {
-          "type": "image-large",
-          "content": "/adelle-image-homepage.jpg",
-          "alt": "Homepage",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Products"
-        },
-        {
-          "type": "paragraph",
-          "content": "This page shows many of their available products, depends on what category that users seek."
-        },
-        {
-          "type": "image-large",
-          "content": "/adelle-image-products.jpg",
-          "alt": "Products",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Product Detail"
-        },
-        {
-          "type": "paragraph",
-          "content": "The details of a product. Users can buy through this page as well as checking the specifications and reviews."
-        },
-        {
-          "type": "image-large",
-          "content": "/adelle-image-product.jpg",
-          "alt": "Product detail",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Login & Register"
-        },
-        {
-          "type": "paragraph",
-          "content": "Users must login first to buy their favourites."
-        },
-        {
-          "type": "image-large",
-          "content": "/adelle-image-loginregister.jpg",
-          "alt": "Login register",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Wishlist"
-        },
-        {
-          "type": "paragraph",
-          "content": "Users can keep their favourites here for later transactions."
-        },
-        {
-          "type": "image-large",
-          "content": "/adelle-image-wishlist.jpg",
-          "alt": "Wishlist",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Page Content"
-        },
-        {
-          "type": "paragraph",
-          "content": "Adelle can generate a page for any content, like an about page."
-        },
-        {
-          "type": "image-large",
-          "content": "/adelle-image-page.jpg",
-          "alt": "Page",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Blog"
-        },
-        {
-          "type": "paragraph",
-          "content": "Where Adelle can share their thoughts."
-        },
-        {
-          "type": "image-large",
-          "content": "/adelle-image-blog.jpg",
-          "alt": "Blog",
-          "label": "-"
-        },
-        {
-          "type": "image-large",
-          "content": "/adelle-image-blogdetail.jpg",
-          "alt": "Blog detail",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Guides"
-        },
-        {
-          "type": "paragraph",
-          "content": "Feel lost? This collection of guides will help you find your way."
-        },
-        {
-          "type": "image-large",
-          "content": "/adelle-image-guide.jpg",
-          "alt": "Guides",
-          "label": "-"
-        }
-      ]
-    },
-    {
-      "slug": "solusi-sejuk",
-      "id": 7,
-      "title": "Solusi Sejuk",
-      "overview": "Solusi Sejuk is an air conditioner (AC) renting service. They rented out their AC for a monthly payment and they also take care of maintenance cost. This serves as a solution for people who feel that buying and maintaining an AC are expensive.",
-      "role": [
-        {
-          "name": "Front-end Development"
-        }
-      ],
-      "type": "Agency",
-      "tools": [
-        {
-          "name": "HTML5"
-        },
-        {
-          "name": "CSS3"
-        },
-        {
-          "name": "jQuery"
-        }
-      ],
-      "link": "http://solusisejuk.com",
-      "thumbnail_path": "/solusisejuk-thumb.jpg",
-      "article": [
-        {
-          "type": "h3",
-          "content": "A Little Background"
-        },
-        {
-          "type": "paragraph",
-          "content": "Solusi Sejuk is an air conditioner (AC) renting service. They rented out their AC for a monthly payment and they also take care of maintenance cost. This serves as a solution for people who feel that buying and maintaining an AC are expensive."
-        },
-        {
-          "type": "h3",
-          "content": "Front End"
-        },
-        {
-          "type": "paragraph",
-          "content": "My role was to wrote the front-end code for this project. Here’s the result:"
-        },
-        {
-          "type": "h4",
-          "content": "Home"
-        },
-        {
-          "type": "paragraph",
-          "content": "The front page of Solusi Sejuk. Here, they show the benefits of their services, testimonials, as well as their clients."
-        },
-        {
-          "type": "image-large",
-          "content": "/solusisejuk-image-homepage.jpg",
-          "alt": "Homepage",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Subscribe"
-        },
-        {
-          "type": "paragraph",
-          "content": "In this page, they explain about the details for renting their AC. There’s also a form people can use to get in touch and start subscribing."
-        },
-        {
-          "type": "image-large",
-          "content": "/solusisejuk-image-subscribe.jpg",
-          "alt": "Subscribe",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Products"
-        },
-        {
-          "type": "paragraph",
-          "content": "Solusi Sejuk also provided the means of buying AC through installment."
-        },
-        {
-          "type": "image-large",
-          "content": "/solusisejuk-image-products.jpg",
-          "alt": "Products",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "About"
-        },
-        {
-          "type": "paragraph",
-          "content": "In here, Solusi Sejuk explains their three core values: Easiness, Quality, and Speed."
-        },
-        {
-          "type": "image-large",
-          "content": "/solusisejuk-image-about.jpg",
-          "alt": "About",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Contact"
-        },
-        {
-          "type": "paragraph",
-          "content": "Use this page if you want to get in touch with Solusi Sejuk."
-        },
-        {
-          "type": "image-large",
-          "content": "/solusisejuk-image-contact.jpg",
-          "alt": "Contact",
-          "label": "-"
-        }
-      ]
-    },
-    {
-      "slug": "ramayana",
-      "id": 8,
-      "title": "Ramayana",
-      "overview": "Ramayana is one of the most prominent department store in Indonesia, seeking to cater the needs of middle-income to lower-income Indonesian market.",
-      "role": [
-        {
-          "name": "Front-end Development"
-        }
-      ],
-      "type": "Agency",
-      "tools": [
-        {
-          "name": "HTML5"
-        },
-        {
-          "name": "CSS3"
-        },
-        {
-          "name": "jQuery"
-        }
-      ],
-      "link": "http://ramayana.co.id",
-      "thumbnail_path": "/ramayana-thumb.jpg",
-      "article": [
-        {
-          "type": "h3",
-          "content": "A Little Background"
-        },
-        {
-          "type": "paragraph",
-          "content": "Ramayana is one of the most prominent department store in Indonesia, seeking to cater the needs of middle-income to lower-income Indonesian market."
-        },
-        {
-          "type": "h3",
-          "content": "Front End"
-        },
-        {
-          "type": "paragraph",
-          "content": "My role was to wrote the front-end code for this project. Here’s the result:"
-        },
-        {
-          "type": "h4",
-          "content": "Home"
-        },
-        {
-          "type": "paragraph",
-          "content": "The front page of the website. It shows current promotions from Ramayana as well as their new collections."
-        },
-        {
-          "type": "image-large",
-          "content": "/ramayana-image-homepage.jpg",
-          "alt": "Homepage",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Products"
-        },
-        {
-          "type": "paragraph",
-          "content": "This page shows many of their available products, depends on what category that users seek."
-        },
-        {
-          "type": "image-large",
-          "content": "/ramayana-image-products.jpg",
-          "alt": "Products",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Product Detail"
-        },
-        {
-          "type": "paragraph",
-          "content": "The details of a product. Users can like products through this page as well as checking the specifications."
-        },
-        {
-          "type": "image-large",
-          "content": "/ramayana-image-product.jpg",
-          "alt": "Product detail",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Login & Register"
-        },
-        {
-          "type": "paragraph",
-          "content": "Users must login before they can use their wishlist."
-        },
-        {
-          "type": "image-large",
-          "content": "/ramayana-image-loginregister.jpg",
-          "alt": "Login register",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Profile"
-        },
-        {
-          "type": "paragraph",
-          "content": "Users can update their credentials and access their wishlist here."
-        },
-        {
-          "type": "image-large",
-          "content": "/ramayana-image-profile.jpg",
-          "alt": "Profile",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Wishlist"
-        },
-        {
-          "type": "paragraph",
-          "content": "Where users can keep their favourites."
-        },
-        {
-          "type": "image-large",
-          "content": "/ramayana-image-wishlist.jpg",
-          "alt": "Wishlist",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Page"
-        },
-        {
-          "type": "paragraph",
-          "content": "Ramayana can generate a page for any content, like a video page."
-        },
-        {
-          "type": "image-large",
-          "content": "/ramayana-image-page.jpg",
-          "alt": "Page",
           "label": "-"
         }
       ]
