@@ -10,7 +10,7 @@
           "name": "User Research"
         },
         {
-          "name": "Prototyping"
+          "name": "UI Design"
         }
       ],
       "type": "Concept",
@@ -32,12 +32,12 @@
       "thumbnail_path": "/self-service-laundry-thumb.jpg",
       "article": [
         {
-          "type": "h3",
-          "content": "Background"
+          "type": "paragraph",
+          "content": "I frequent a coin self-service laundry (usually called laundromat in Bay Area) once every 2 weeks. There was this one time when I forgot to bring coins and cash. I have to get back to my house 3 blocks away to get them. Probably there’s more problem for laundromat users, or laundry in general?"
         },
         {
           "type": "paragraph",
-          "content": "I frequent a coin self-service laundry (usually called laundromat in Bay Area) once every 2 weeks. There was this one time when I forgot to bring coins and cash. I have to get back to my house 3 blocks away to get them. Probably there’s more problem for laundromat users, or laundry in general?"
+          "content": "I decided to create a solution to my inconvenience."
         },
         {
           "type": "h3",
@@ -62,17 +62,7 @@
           "content": "I began with user interviews to discover general problems about laundry. The interview was conducted inside self-service establishment and to users who had used other forms of self-service laundry. Because of this, the interviews showed more problems about self-service laundry."
         },
         {
-          "type": "image-small",
-          "content": "/self-service-laundry-interview-stats.jpg",
-          "alt": "Interview stats",
-          "label": ""
-        },
-        {
-          "type": "paragraph",
-          "content": "Out of 5 participants, 2 people use quarter coins, 2 people use credit card, and 1 student uses Cal 1 card."
-        },
-        {
-          "type": "ul",
+          "type": "ol",
           "content": "These are common problems I found during the interviews.",
           "list": [
             {
@@ -88,10 +78,7 @@
               "content": "Not enough washing and drying machine"
             },
             {
-              "content": "Unable to use machine because of unattended laundry from previous customer"
-            },
-            {
-              "content": "Laundry leftovers inside machine"
+              "content": "Unattended laundry (or leftovers) inside machine, therefore unable to use machine"
             }
           ]
         },
@@ -337,12 +324,18 @@
           ]
         },
         {
-          "type": "h3",
-          "content": "Conclusion"
+          "type": "paragraph",
+          "content": "To answer these friction points, I have done steps that includes <strong>different font colors</strong> for penalty system, putting active laundry list in the homepage for <strong>easy access</strong>, and <strong>alleviate the penalty</strong> for a bit so it won’t punish the users with too harsh penalty."
         },
         {
-          "type": "paragraph",
-          "content": "There are still some steps that needs to be done for this project to answer the friction points found in usability testing. These includes <strong>different font colors</strong> for penalty system, putting active laundry list in the homepage for <strong>easy access</strong>, and <strong>alleviate the penalty</strong> for a bit so it won’t punish the users with too harsh penalty. As for the penalty part, some participants felt <strong>50¢ per 15 minutes</strong> is better when asked."
+          "type": "image-large",
+          "content": "/self-service-laundry-revision.jpg",
+          "alt": "Revision",
+          "label": "Some participants felt <strong>50¢ per 15 minutes</strong> is better when asked."
+        },
+        {
+          "type": "h3",
+          "content": "Conclusion"
         },
         {
           "type": "ul",
@@ -369,7 +362,7 @@
       "overview": "Egghub is a platform that connects organic egg buyers with local urban farmers that produce organic eggs. Buyers could search farmers based on their egg requirements. The idea is to let the app do the transaction while the farmers (or couriers) just drop the eggs in the buyer’s front door.",
       "role": [
         {
-          "name": "Prototyping"
+          "name": "UI Design"
         }
       ],
       "type": "Concept",
@@ -389,7 +382,7 @@
       "article": [
         {
           "type": "paragraph",
-          "content": "In the midst of the coronavirus pandemic that started in 2019, the demands for locally farmed eggs are even higher than before. This means egg farmers will be in touch with their customers more frequently. While masks definitely helps, there has to be another way to make transaction safer and be more effective in preventing the virus spread."
+          "content": "In the midst of the coronavirus pandemic that started in late 2019, the demands for locally farmed eggs are even higher than before. This means egg farmers will be in touch with their customers more frequently. While masks definitely helps, there has to be another way to make transaction safer and be more effective in preventing the virus spread."
         },
         {
           "type": "h3",
@@ -423,7 +416,7 @@
         },
         {
           "type": "image-small",
-          "content": "/egghub-persona.png",
+          "content": "/egghub-persona.jpg",
           "alt": "Persona",
           "label": ""
         },
@@ -537,7 +530,7 @@
         },
         {
           "type": "paragraph",
-          "content": "Creating and showing a working prototype to work better with developers."
+          "content": "In this project, I learned about how to write a case study and think about my design process. I also learned more about using Adobe XD and InVision design tool."
         },
         {
           "type": "h4",
@@ -545,7 +538,7 @@
         },
         {
           "type": "paragraph",
-          "content": "Usability testing. Designing the app from farmer side."
+          "content": "For now, the project only covers the UI design from user interview to clickable prototype. I would like to do usability testing on the prototype and start another process to design the app from the farmer side."
         },
         {
           "type": "h4",
@@ -553,7 +546,7 @@
         },
         {
           "type": "paragraph",
-          "content": "This case study is part of UC Berkeley Extension, Diagramming and Prototyping challenge."
+          "content": "This case study is part of Diagramming and Prototyping course challenge from UC Berkeley Extension. It’s a challenge that covers the whole 8 week course. Some of the fellow classmates here are also UX field professionals in Bay Area. It was an incredible opportunity that lets me have a conversation about my design to these fellow classmates."
         }
       ]
     },
@@ -564,7 +557,7 @@
       "overview": "Ever heard of Bishi Bashi? The three of us, me, Dimas, and Chris decided to make our final thesis project a tribute for this game. Frienemies, to put plainly, means friends and enemies. To us, it means a friend who can be a rival. We felt it's the perfect title for the gameplay of this game where every player strives to be the very best.",
       "role": [
         {
-          "name": "DARUMA SPRINT Development, User Research"
+          "name": "DARUMA SPRINT Development, User Research, UI Design"
         }
       ],
       "type": "Thesis",
@@ -583,10 +576,6 @@
       "thumbnail_path": "/frienemies-thumb.jpg",
       "article": [
         {
-          "type": "h3",
-          "content": "A Little Background"
-        },
-        {
           "type": "paragraph",
           "content": "Ever heard of Bishi Bashi? A good old party game that can made you destroy your precious controller? The three of us, me, <a href='https://www.linkedin.com/in/dimas-aryo-77748649/' target='_blank'>Dimas</a>, and <a href='https://www.linkedin.com/in/christianto-wijaya-492bb3166/' target='_blank'>Chris</a> were having a blast playing this game. Each of us used to made this game a some kind of fun competition on saturday night with our respective friends."
         },
@@ -598,7 +587,7 @@
         },
         {
           "type": "paragraph",
-          "content": "Inspired, we decided to make our final thesis project a tribute for this game."
+          "content": "Inspired, we decided to make our undergraduate final project a tribute for this game."
         },
         {
           "type": "h3",
@@ -606,7 +595,15 @@
         },
         {
           "type": "paragraph",
-          "content": "Frienemies, to put plainly, means <strong>friends and enemies</strong>. To us, it means <strong>friends who can be rivals</strong>. We felt it's the perfect title for the gameplay of this game where every player strives to be the very best."
+          "content": "Frienemies, to put plainly, means <strong>friends and enemies</strong>. To us, it means <strong>friends who can be rivals</strong>. We felt it's the perfect title for the gameplay of this game where every player strives to be the very best (and occasionally beat some newbs while being at it)."
+        },
+        {
+          "type": "h4",
+          "content": "Roles"
+        },
+        {
+          "type": "paragraph",
+          "content": "Three of us done the user research and the overall UI design together. We develop one minigame each results in 3 minigames in total. I was responsible in developing DARUMA SPRINT minigame."
         },
         {
           "type": "h4",
@@ -703,7 +700,7 @@
           ]
         },
         {
-          "type": "ul",
+          "type": "ol",
           "content": "As for the mini games, these are the concept that was on our mind.",
           "list": [
             {
@@ -723,7 +720,7 @@
         },
         {
           "type": "paragraph",
-          "content": "After the decision has been made, we sketch the wireframes using MS Paint to have a grasp of how Frienemies would look like."
+          "content": "After the decision has been made, we sketch the wireframes to have a grasp of how Frienemies would look like."
         },
         {
           "type": "image-large",
@@ -857,7 +854,7 @@
         },
         {
           "type": "paragraph",
-          "content": "Where we put our names. We wanted to get recognized."
+          "content": "Where we put our names. We wanted to get recognized. We also give credits here for the open source materials we are using for Frienemies."
         },
         {
           "type": "image-small",
@@ -875,7 +872,7 @@
         },
         {
           "type": "paragraph",
-          "content": "That being said, we were happy with how the game turns out. We got to learn how design and develop a mobile game from the ground up, and to finally publish it online."
+          "content": "That being said, we were happy with how the game turns out and it was a fun experience developing the game. We got to learn how design and develop a mobile game from the ground up, and to finally publish it online."
         }
       ]
     },
@@ -889,7 +886,7 @@
           "name": "Front-end Development"
         },
         {
-          "name": "Mobile First Design"
+          "name": "Mobile First Web Design"
         },
         {
           "name":"CMS Development"
@@ -916,10 +913,6 @@
       "link": "http://ard-design.co.id",
       "thumbnail_path": "/ard-thumb.jpg",
       "article": [
-        {
-          "type": "h3",
-          "content": "A Little Background"
-        },
         {
           "type": "paragraph",
           "content": "ARD Design is an architecture consultant company, based and founded in Jakarta, Indonesia, 1996. They had many collections of portfolio from their early years to present times."
@@ -1152,10 +1145,6 @@
       "link": "http://metakom.id",
       "thumbnail_path": "/metakom-thumb.jpg",
       "article": [
-        {
-          "type": "h3",
-          "content": "A Little Background"
-        },
         {
           "type": "paragraph",
           "content": "Metakom is a one-stop MEP design consultant in Indonesia that has expertise in mechanical engineering, electrical engineering, and building transport engineering. Starting from 1990, they have various projects across cities in Indonesia."
