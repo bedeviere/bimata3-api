@@ -12,7 +12,7 @@ app.use(bodyParser.urlencoded({ extended: false }))
 app.use(bodyParser.json())
 
 app.use(function(request, response, next) {
-  var allowedOrigins = ['http://127.0.0.1:7749', 'http://localhost:7749', 'http://127.0.0.1:7751', 'http://localhost:7751', 'http://bedeviere.com', 'http://bimataprathama.com'];
+  var allowedOrigins = ['http://127.0.0.1:7749', 'http://localhost:7749', 'http://127.0.0.1:7751', 'http://localhost:7751', 'http://bedeviere.com', 'https://bedeviere.com', 'http://bimataprathama.com'];
   var origin = request.headers.origin;
   if (allowedOrigins.indexOf(origin) > -1){
     response.setHeader('Access-Control-Allow-Origin', origin);
