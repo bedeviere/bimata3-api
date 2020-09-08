@@ -94,7 +94,7 @@
           "type": "image-small",
           "content": "/self-service-laundry-persona.jpg",
           "alt": "Persona",
-          "label": ""
+          "label": "<span>Persona photo by <a href='https://unsplash.com/@chrisjoelcampbell?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Christopher Campbell</a> on <a href='https://unsplash.com/s/photos/persona?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a></span>"
         },
         {
           "type": "h3",
@@ -418,7 +418,7 @@
           "type": "image-small",
           "content": "/egghub-persona.jpg",
           "alt": "Persona",
-          "label": ""
+          "label": "<span>Persona photo by <a href='https://unsplash.com/@cristianpalmer?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Cristian Palmer</a> on <a href='https://unsplash.com/s/photos/persona?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a></span>"
         },
         {
           "type": "h3",
