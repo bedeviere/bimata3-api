@@ -1,6 +1,201 @@
 {
   "results": [
     {
+      "slug": "egghub",
+      "id": 10,
+      "title": "Egghub",
+      "overview": "Egghub is a platform that connects organic egg buyers with local urban farmers that produce organic eggs. Buyers could search farmers based on their egg requirements. The idea is to let the app do the transaction while the farmers (or couriers) just drop the eggs in the buyer’s front door.",
+      "role": [
+        {
+          "name": "UI Design"
+        }
+      ],
+      "type": "Concept",
+      "tools": [
+        {
+          "name": "Direct Interview"
+        },
+        {
+          "name": "Paper Sketches"
+        },
+        {
+          "name": "Adobe XD"
+        }
+      ],
+      "link": "https://invis.io/BSWE0W2G7RK",
+      "thumbnail_path": "/egghub-thumb.jpg",
+      "article": [
+        {
+          "type": "paragraph",
+          "content": "In the midst of the coronavirus pandemic that started in late 2019, the demands for locally farmed eggs are even higher than before. This means egg farmers will be in touch with their customers more frequently. While masks definitely helps, there has to be another way to make transaction safer and be more effective in preventing the virus spread."
+        },
+        {
+          "type": "h3",
+          "content": "Enter, Egghub"
+        },
+        {
+          "type": "paragraph",
+          "content": "Egghub is a platform that connects organic egg buyers with local urban farmers that produce organic eggs. Buyers could search farmers based on their egg requirements. The idea is to let the app do the transaction while the farmers (or couriers) just drop the eggs in the buyer’s front door."
+        },
+        {
+          "type": "h3",
+          "content": "Process"
+        },
+        {
+          "type": "image-small",
+          "content": "/egghub-process.jpg",
+          "alt": "Design process",
+          "label": "Design process used in this case study"
+        },
+        {
+          "type": "h3",
+          "content": "1. Discover"
+        },
+        {
+          "type": "h4",
+          "content": "Interview and Persona"
+        },
+        {
+          "type": "paragraph",
+          "content": "I began by interviewing several people with close ties to egg farming business and people who buy eggs on a weekly basis. The interview involves day to day egg business and general idea of what’s on their mind when buying and selling eggs. I created this persona based on these interviews."
+        },
+        {
+          "type": "image-small",
+          "content": "/egghub-persona.jpg",
+          "alt": "Persona",
+          "label": "<span>Persona photo by <a href='https://unsplash.com/@cristianpalmer?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Cristian Palmer</a> on <a href='https://unsplash.com/s/photos/persona?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a></span>"
+        },
+        {
+          "type": "h3",
+          "content": "2. Design"
+        },
+        {
+          "type": "h4",
+          "content": "Story Map"
+        },
+        {
+          "type": "paragraph",
+          "content": "Using story map, I explored several possible interactions for the app and what users could do on the app."
+        },
+        {
+          "type": "image-small",
+          "content": "/egghub-story-map-raw.jpg",
+          "alt": "Raw Story Map",
+          "label": ""
+        },
+        {
+          "type": "image-small",
+          "content": "/egghub-story-map.jpg",
+          "alt": "Story Map",
+          "label": ""
+        },
+        {
+          "type": "h4",
+          "content": "User Flow"
+        },
+        {
+          "type": "paragraph",
+          "content": "Satisfied with the story map, I continue with user flow model to finalize how the main flow would be on the app."
+        },
+        {
+          "type": "image-small",
+          "content": "/egghub-user-flow.jpg",
+          "alt": "User Flow",
+          "label": ""
+        },
+        {
+          "type": "h3",
+          "content": "3. Prototype"
+        },
+        {
+          "type": "h4",
+          "content": "Paper Sketches"
+        },
+        {
+          "type": "paragraph",
+          "content": "After the user flow has been finalized, I started to explore how the main process screens would look like using paper sketches."
+        },
+        {
+          "type": "image-small",
+          "content": "/egghub-sketches.jpg",
+          "alt": "Paper Sketches",
+          "label": ""
+        },
+        {
+          "type": "h4",
+          "content": "Lo-Fi Wireframes"
+        },
+        {
+          "type": "paragraph",
+          "content": "Using the paper sketches, I started working on the lo-fi wireframes. I gather visual references from sources like dribble, behance, and several grocery shopping apps. With Adobe XD, I create the base components using <a href='https://www.uistore.design/items/shopping-ui-kit-for-adobe-xd/' target='_blank'>Shopping UI Kit</a> made by <a href='https://dribbble.com/ema_ike?ref=uistore.design' target='_blank'>Emmanuel Ikechukwu</a>. This would made the design process quick and easy."
+        },
+        {
+          "type": "image-small",
+          "content": "/egghub-lofi.png",
+          "alt": "Lo-Fi Wireframes",
+          "label": ""
+        },
+        {
+          "type": "h3",
+          "content": "4. Iterate"
+        },
+        {
+          "type": "h4",
+          "content": "Final Design"
+        },
+        {
+          "type": "paragraph",
+          "content": "I started adding brand colours and visual references on the lo-fi wireframes, resulting in final design. I do several steps of next iteration on this design."
+        },
+        {
+          "type": "image-large",
+          "content": "/egghub-hifi.png",
+          "alt": "Final Design",
+          "label": ""
+        },
+        {
+          "type": "h4",
+          "content": "Clickable Prototype"
+        },
+        {
+          "type": "paragraph",
+          "content": "After several steps of iterations on the final design, I made a clickable prototype on InVision for the future usability testing."
+        },
+        {
+          "type": "paragraph",
+          "content": "<a href='https://invis.io/BSWE0W2G7RK' target='_blank'>https://invis.io/BSWE0W2G7RK</a>."
+        },
+        {
+          "type": "h3",
+          "content": "Conclusion"
+        },
+        {
+          "type": "h4",
+          "content": "What I learned"
+        },
+        {
+          "type": "paragraph",
+          "content": "In this project, I learned about how to write a case study and think about my design process. I also learned more about using Adobe XD and InVision design tool."
+        },
+        {
+          "type": "h4",
+          "content": "Next steps?"
+        },
+        {
+          "type": "paragraph",
+          "content": "For now, the project only covers the UI design from user interview to clickable prototype. I would like to do usability testing on the prototype and start another process to design the app from the farmer side."
+        },
+        {
+          "type": "h4",
+          "content": "Thank you for reading, here’s a little background"
+        },
+        {
+          "type": "paragraph",
+          "content": "This case study is part of Diagramming and Prototyping course challenge from UC Berkeley Extension. It’s a challenge that covers the whole 8 week course. Some of the fellow classmates here are also UX field professionals in Bay Area. It was an incredible opportunity that lets me have a conversation about my design to these fellow classmates."
+        }
+      ]
+    },
+    {
       "slug": "self-service-laundry",
       "id": 9,
       "title": "Improving Self-Service Laundry",
@@ -352,201 +547,6 @@
         {
           "type": "paragraph",
           "content": "For this project to completely solve the laundry problem, there has to be more research and development for the laundry machine themselves. How the machines read the laundry requirements from the app? How the machines send signal to users phone to alert about their impending laundry? How do the locking mechanism works? An app for payment and tracking laundry won’t be complete without the laundry machines to connect with it."
-        }
-      ]
-    },
-    {
-      "slug": "egghub",
-      "id": 10,
-      "title": "Egghub",
-      "overview": "Egghub is a platform that connects organic egg buyers with local urban farmers that produce organic eggs. Buyers could search farmers based on their egg requirements. The idea is to let the app do the transaction while the farmers (or couriers) just drop the eggs in the buyer’s front door.",
-      "role": [
-        {
-          "name": "UI Design"
-        }
-      ],
-      "type": "Concept",
-      "tools": [
-        {
-          "name": "Direct Interview"
-        },
-        {
-          "name": "Paper Sketches"
-        },
-        {
-          "name": "Adobe XD"
-        }
-      ],
-      "link": "https://invis.io/BSWE0W2G7RK",
-      "thumbnail_path": "/egghub-thumb.jpg",
-      "article": [
-        {
-          "type": "paragraph",
-          "content": "In the midst of the coronavirus pandemic that started in late 2019, the demands for locally farmed eggs are even higher than before. This means egg farmers will be in touch with their customers more frequently. While masks definitely helps, there has to be another way to make transaction safer and be more effective in preventing the virus spread."
-        },
-        {
-          "type": "h3",
-          "content": "Enter, Egghub"
-        },
-        {
-          "type": "paragraph",
-          "content": "Egghub is a platform that connects organic egg buyers with local urban farmers that produce organic eggs. Buyers could search farmers based on their egg requirements. The idea is to let the app do the transaction while the farmers (or couriers) just drop the eggs in the buyer’s front door."
-        },
-        {
-          "type": "h3",
-          "content": "Process"
-        },
-        {
-          "type": "image-small",
-          "content": "/egghub-process.jpg",
-          "alt": "Design process",
-          "label": "Design process used in this case study"
-        },
-        {
-          "type": "h3",
-          "content": "1. Discover"
-        },
-        {
-          "type": "h4",
-          "content": "Interview and Persona"
-        },
-        {
-          "type": "paragraph",
-          "content": "I began by interviewing several people with close ties to egg farming business and people who buy eggs on a weekly basis. The interview involves day to day egg business and general idea of what’s on their mind when buying and selling eggs. I created this persona based on these interviews."
-        },
-        {
-          "type": "image-small",
-          "content": "/egghub-persona.jpg",
-          "alt": "Persona",
-          "label": "<span>Persona photo by <a href='https://unsplash.com/@cristianpalmer?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Cristian Palmer</a> on <a href='https://unsplash.com/s/photos/persona?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a></span>"
-        },
-        {
-          "type": "h3",
-          "content": "2. Design"
-        },
-        {
-          "type": "h4",
-          "content": "Story Map"
-        },
-        {
-          "type": "paragraph",
-          "content": "Using story map, I explored several possible interactions for the app and what users could do on the app."
-        },
-        {
-          "type": "image-small",
-          "content": "/egghub-story-map-raw.jpg",
-          "alt": "Raw Story Map",
-          "label": ""
-        },
-        {
-          "type": "image-small",
-          "content": "/egghub-story-map.jpg",
-          "alt": "Story Map",
-          "label": ""
-        },
-        {
-          "type": "h4",
-          "content": "User Flow"
-        },
-        {
-          "type": "paragraph",
-          "content": "Satisfied with the story map, I continue with user flow model to finalize how the main flow would be on the app."
-        },
-        {
-          "type": "image-small",
-          "content": "/egghub-user-flow.jpg",
-          "alt": "User Flow",
-          "label": ""
-        },
-        {
-          "type": "h3",
-          "content": "3. Prototype"
-        },
-        {
-          "type": "h4",
-          "content": "Paper Sketches"
-        },
-        {
-          "type": "paragraph",
-          "content": "After the user flow has been finalized, I started to explore how the main process screens would look like using paper sketches."
-        },
-        {
-          "type": "image-small",
-          "content": "/egghub-sketches.jpg",
-          "alt": "Paper Sketches",
-          "label": ""
-        },
-        {
-          "type": "h4",
-          "content": "Lo-Fi Wireframes"
-        },
-        {
-          "type": "paragraph",
-          "content": "Using the paper sketches, I started working on the lo-fi wireframes. I gather visual references from sources like dribble, behance, and several grocery shopping apps. With Adobe XD, I create the base components using <a href='https://www.uistore.design/items/shopping-ui-kit-for-adobe-xd/' target='_blank'>Shopping UI Kit</a> made by <a href='https://dribbble.com/ema_ike?ref=uistore.design' target='_blank'>Emmanuel Ikechukwu</a>. This would made the design process quick and easy."
-        },
-        {
-          "type": "image-small",
-          "content": "/egghub-lofi.png",
-          "alt": "Lo-Fi Wireframes",
-          "label": ""
-        },
-        {
-          "type": "h3",
-          "content": "4. Iterate"
-        },
-        {
-          "type": "h4",
-          "content": "Final Design"
-        },
-        {
-          "type": "paragraph",
-          "content": "I started adding brand colours and visual references on the lo-fi wireframes, resulting in final design. I do several steps of next iteration on this design."
-        },
-        {
-          "type": "image-large",
-          "content": "/egghub-hifi.png",
-          "alt": "Final Design",
-          "label": ""
-        },
-        {
-          "type": "h4",
-          "content": "Clickable Prototype"
-        },
-        {
-          "type": "paragraph",
-          "content": "After several steps of iterations on the final design, I made a clickable prototype on InVision for the future usability testing."
-        },
-        {
-          "type": "paragraph",
-          "content": "<a href='https://invis.io/BSWE0W2G7RK' target='_blank'>https://invis.io/BSWE0W2G7RK</a>."
-        },
-        {
-          "type": "h3",
-          "content": "Conclusion"
-        },
-        {
-          "type": "h4",
-          "content": "What I learned"
-        },
-        {
-          "type": "paragraph",
-          "content": "In this project, I learned about how to write a case study and think about my design process. I also learned more about using Adobe XD and InVision design tool."
-        },
-        {
-          "type": "h4",
-          "content": "Next steps?"
-        },
-        {
-          "type": "paragraph",
-          "content": "For now, the project only covers the UI design from user interview to clickable prototype. I would like to do usability testing on the prototype and start another process to design the app from the farmer side."
-        },
-        {
-          "type": "h4",
-          "content": "Thank you for reading, here’s a little background"
-        },
-        {
-          "type": "paragraph",
-          "content": "This case study is part of Diagramming and Prototyping course challenge from UC Berkeley Extension. It’s a challenge that covers the whole 8 week course. Some of the fellow classmates here are also UX field professionals in Bay Area. It was an incredible opportunity that lets me have a conversation about my design to these fellow classmates."
         }
       ]
     },
