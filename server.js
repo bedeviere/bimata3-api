@@ -12,12 +12,14 @@ app.use(bodyParser.urlencoded({ extended: false }))
 app.use(bodyParser.json())
 
 app.use(function(request, response, next) {
-  var allowedOrigins = ['http://127.0.0.1:7749', 'http://localhost:7749', 'http://127.0.0.1:7751', 'http://localhost:7751', 'http://bedeviere.com', 'https://bedeviere.com', 'http://bimataprathama.com'];
+  var allowedOrigins = ['http://127.0.0.1:7749', 'http://localhost:7749', 'http://127.0.0.1:7751', 'http://localhost:7751', 'http://127.0.0.1:3000', 'http://localhost:3000', 'http://bedeviere.com', 'https://bedeviere.com', 'http://bimataprathama.com'];
   var origin = request.headers.origin;
   if (allowedOrigins.indexOf(origin) > -1){
     response.setHeader('Access-Control-Allow-Origin', origin);
   }
   response.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept');
+  response.header('Content-Type', 'application/json');
+  response.header('Accept', 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8');
   next();
 });
 
@@ -78,6 +80,31 @@ app.post('/addMessage', function (req, res) {
     dataMessage.results[x+1].id = id;
     // console.log(dataMessage);
     fs.writeFile( __dirname + '/' + 'messages.json', JSON.stringify(dataMessage), 'utf8', function (err, data) {
+      if (err) throw err;
+      console.log('The file has been saved!');
+      res.end();
+    });
+  });
+})
+
+app.get('/users', function (req, res) {
+  fs.readFile( __dirname + '/' + 'users.json', 'utf8', function (err, data) {
+    var users = JSON.parse( data );
+    console.log( users );
+    res.end( JSON.stringify(users) );
+  });
+})
+
+app.post('/addUsers', function (req, res) {
+  var dataUsers = [];
+  fs.readFile( __dirname + '/' + 'users.json', 'utf8', function (err, data) {
+    dataUsers = JSON.parse( data );
+    var x = dataUsers.results.length - 1;
+    var id = dataUsers.results[x].id + 1;
+    dataUsers.results[x+1] = req.body;
+    dataUsers.results[x+1].id = id;
+    // console.log(dataUsers);
+    fs.writeFile( __dirname + '/' + 'users.json', JSON.stringify(dataUsers), 'utf8', function (err, data) {
       if (err) throw err;
       console.log('The file has been saved!');
       res.end();
