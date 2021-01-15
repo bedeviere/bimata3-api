@@ -32,6 +32,7 @@
         }
       ],
       "link": "http://storywork.bedeviere.com",
+      "link_text": "See It Live",
       "thumbnail_path": "/stwrk-thumb.jpg",
       "article": [
         {
@@ -169,6 +170,7 @@
         }
       ],
       "link": "http://marieregal.com/lite",
+      "link_text": "See It Live",
       "thumbnail_path": "/rlite-thumb.jpg",
       "article": [
         {
@@ -324,6 +326,7 @@
         }
       ],
       "link": "http://adellejewellery.com",
+      "link_text": "See It Live",
       "thumbnail_path": "/adelle-thumb.jpg",
       "article": [
         {
@@ -485,6 +488,7 @@
         }
       ],
       "link": "http://solusisejuk.com",
+      "link_text": "See It Live",
       "thumbnail_path": "/solusisejuk-thumb.jpg",
       "article": [
         {
@@ -598,6 +602,7 @@
         }
       ],
       "link": "http://ramayana.co.id",
+      "link_text": "See It Live",
       "thumbnail_path": "/ramayana-thumb.jpg",
       "article": [
         {
