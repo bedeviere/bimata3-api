@@ -27,7 +27,7 @@
       ],
       "link": "https://xd.adobe.com/view/6d318343-db15-41a0-a7f2-7cafde11d4d1-3862/",
       "link_text": "See Prototype",
-      "thumbnail_path": "/inliveclass-thumb.png",
+      "thumbnail_path": "/inliveclass-thumb.jpg",
       "article": [
         {
           "type": "paragraph",
@@ -109,7 +109,7 @@
         },
         {
           "type": "image-large",
-          "content": "/inliveclass-class-live.png",
+          "content": "/inliveclass-class-live.jpg",
           "alt": "Final Design",
           "label": ""
         },
