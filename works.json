@@ -31,7 +31,11 @@
       "article": [
         {
           "type": "paragraph",
-          "content": "Since the pandemic started in 2019, lots of school activities were switched from in-person class to online remote class setting."
+          "content": "Since the pandemic started in 2019, lots of school activities were switched from in-person class to online remote class setting. It's a natural step with its own challenge, a lack of discipline (this, and constant distraction from TV, phones, doing errands). Student find it difficult to be punctual and attend class regularly with little to no supervision from teachers and parental figures."
+        },
+        {
+          "type": "paragraph",
+          "content": "As the oldest brother of two little brothers attending these online remote class, I decided to look into it and try some design exploration."
         },
         {
           "type": "h3",
@@ -75,7 +79,7 @@
         },
         {
           "type": "paragraph",
-          "content": "With these key takeaways in mind, I move on with this idea :."
+          "content": "With these key takeaways in mind, I move on with this idea :"
         },
         {
           "type": "quote",
@@ -115,7 +119,7 @@
         },
         {
           "type": "paragraph",
-          "content": "Lorem ipsum."
+          "content": "The idea of badges is the same as game points and the concept of achievements. Finishing more class means more points. More points means you get more exclusive badges you can show to your peers. The same as completing an achievement in a game."
         },
         {
           "type": "image-small",
@@ -129,7 +133,7 @@
         },
         {
           "type": "paragraph",
-          "content": "Lorem ipsum."
+          "content": "Like badges, leaderboard also took a common game element of rankings. Students attending class can see the badges and points of their peers. With leaderboard, I hope to get students more competitive with each other, thus creating incentive to finish more classes."
         },
         {
           "type": "image-small",
@@ -147,7 +151,7 @@
         },
         {
           "type": "paragraph",
-          "content": "In this project, I learned about how to write a case study using HMW Statement."
+          "content": "In this project, I learned about how to write a case study using HMW Statement. I also learned of many ways of displaying in-live class experience."
         },
         {
           "type": "h4",
@@ -155,7 +159,7 @@
         },
         {
           "type": "paragraph",
-          "content": "For now, the project only explores the design of in-live class experience. I would like to explore more for dashboard and inbox experience."
+          "content": "For now, the project only explores the design of in-live class experience. I would like to explore more the dashboard and what kind of data student needs to be displayed there."
         }
       ]
     },
