@@ -3,8 +3,8 @@
     {
       "slug": "self-service-laundry",
       "id": 9,
-      "title": "Improving Self-Service Laundry",
-      "overview": "I frequent a coin self-service laundry (usually called laundromat in Bay Area) once every 2 weeks. There was this one time when I forgot to bring coins and cash. I have to get back to my house 3 blocks away to get them. Probably there’s more problem for laundromat users, or laundry in general?",
+      "title": "Self-Service Laundry App",
+      "overview": "The self-service laundry app in this case study offers a convenient and efficient way to manage your laundry. Users can easily pay for laundry services through the app, lock and unlock machines to ensure security, and receive real-time notifications when their laundry cycle is complete.",
       "role": [
         {
           "name": "User Research"
@@ -13,19 +13,19 @@
           "name": "UI Design"
         }
       ],
-      "type": "Concept",
+      "type": "Mobile App",
       "tools": [
         {
-          "name": "Direct Interview"
+          "name": "Adobe XD"
         },
         {
-          "name": "Google Forms"
+          "name": "Google Forms & Survey"
+        },
+        {
+          "name": "User Interview"
         },
         {
           "name": "Paper Sketches"
-        },
-        {
-          "name": "Adobe XD"
         }
       ],
       "link": "https://xd.adobe.com/view/09e7eebf-3e6d-4b90-6462-daf1e39b2f80-7fd6/?fullscreen&hints=off",
@@ -73,19 +73,19 @@
           "content": "These are <strong>common problems</strong> I found during the interviews.",
           "list": [
             {
-              "content": "<strong>Forgot</strong> to bring coins to coin laundromat"
+              "content": "Forgot to bring coins to coin laundromat"
             },
             {
-              "content": "Credit card being <strong>stuck</strong> inside machine"
+              "content": "Credit card being stuck inside machine"
             },
             {
-              "content": "<strong>Forgot</strong> that they had laundry going on for the whole day"
+              "content": "Forgot that they had laundry going on for the whole day"
             },
             {
-              "content": "<strong>Not enough</strong> washing and drying machine"
+              "content": "Not enough washing and drying machine"
             },
             {
-              "content": "<strong>Unattended laundry</strong> (or leftovers) inside machine, therefore unable to use machine"
+              "content": "Unattended laundry (or leftovers) inside machine, therefore unable to use machine"
             }
           ]
         },
@@ -113,19 +113,19 @@
         },
         {
           "type": "paragraph",
-          "content": "<strong>Pain Point #1: Payment Problems</strong><br>The payment problems ranges from forgetting to bring coins to credit cards getting stuck on machine."
+          "content": "<strong class='danger'>Pain Point #1: Payment Problems</strong><br>The payment problems ranges from forgetting to bring coins to credit cards getting stuck on machine."
         },
         {
           "type": "paragraph",
-          "content": "<strong>Pain Point #2: Unattended Laundry Results on Time Wasting</strong><br>One of the participants complains about seeing unattended laundry on every machine, causing them to not be able to do laundry."
+          "content": "<strong class='danger'>Pain Point #2: Unattended Laundry Results on Time Wasting</strong><br>One participant mentioned frustration with unattended laundry occupying all the machines, preventing them from doing their own laundry."
         },
         {
           "type": "paragraph",
-          "content": "<strong>Pain Point #3: Forgetting Laundry</strong><br>One of the participants completely forgot about their laundry for one full day."
+          "content": "<strong class='danger'>Pain Point #3: Forgetting Laundry</strong><br>One of the participants completely forgot about their laundry and left it for an entire day."
         },
         {
           "type": "paragraph",
-          "content": "<strong>Pain Point #4: Laundry being Taken Out Without Permission</strong><br>One of the participants told me of one time when someone put their wet laundry on the floor. Yikes."
+          "content": "<strong class='danger'>Pain Point #4: Laundry being Taken Out Without Permission</strong><br>A participant shared an incident where someone had placed their wet laundry on the floor. Yikes."
         },
         {
           "type": "h3",
@@ -149,16 +149,16 @@
         },
         {
           "type": "h4",
-          "content": "Lo-Fi Wireframes"
+          "content": "Paper Sketches"
         },
         {
           "type": "paragraph",
-          "content": "I explored the solutions more by sketching the Lo-Fi Wireframe of each solutions."
+          "content": "I explored the solutions more using paper sketches of each solutions."
         },
         {
           "type": "image-small",
           "content": "/self-service-laundry-lofi-wireframes.png",
-          "alt": "Lo-Fi Wireframes",
+          "alt": "Paper Sketches",
           "label": "I'll be honest, I didn't sketch the third solution since it's only a card, ..right?"
         },
         {
@@ -167,7 +167,7 @@
         },
         {
           "type": "paragraph",
-          "content": "I spread an online survey between students of UC Berkeley, <a href='#' target='_blank'>SurveySwap</a> with USA as respondent residency, and <a href='#' target='_blank'>Survey sharing 2019 group</a>."
+          "content": "I spread an online survey between students of UC Berkeley, <a href='https://surveyswap.io/' target='_blank'>SurveySwap</a> with USA as respondent residency, and <a href='https://www.facebook.com/groups/698363963614551' target='_blank'>Survey sharing 2019 Facebook group</a>."
         },
         {
           "type": "image-small",
@@ -217,11 +217,11 @@
         },
         {
           "type": "h4",
-          "content": "Hi-Fi Wireframes"
+          "content": "UI Design"
         },
         {
           "type": "paragraph",
-          "content": "Here are the hi-fi wireframes based on the proposed scenarios and wireframe sketches. These wireframe designs are made using Adobe XD."
+          "content": "Here are the UI designs based on the proposed scenarios and paper sketches. These UI designs are made using Adobe XD."
         },
         {
           "type": "paragraph",
@@ -356,212 +356,16 @@
       ]
     },
     {
-      "slug": "egghub",
-      "id": 10,
-      "title": "Egghub",
-      "overview": "Egghub is a platform that connects organic egg buyers with local urban farmers that produce organic eggs. Buyers could search farmers based on their egg requirements. The idea is to let the app do the transaction while the farmers (or couriers) just drop the eggs in the buyer’s front door.",
-      "role": [
-        {
-          "name": "UI Design"
-        }
-      ],
-      "type": "Concept",
-      "tools": [
-        {
-          "name": "Direct Interview"
-        },
-        {
-          "name": "Paper Sketches"
-        },
-        {
-          "name": "Adobe XD"
-        }
-      ],
-      "link": "https://invis.io/BSWE0W2G7RK",
-      "link_text": "See Prototype",
-      "thumbnail_path": "/egghub-thumb.jpg",
-      "article": [
-        {
-          "type": "paragraph",
-          "content": "In the midst of the coronavirus pandemic that started in late 2019, the demands for locally farmed eggs are even higher than before. This means egg farmers will be in touch with their customers more frequently. While masks definitely helps, there has to be another way to make transaction safer and be more effective in preventing the virus spread."
-        },
-        {
-          "type": "h3",
-          "content": "Enter, Egghub"
-        },
-        {
-          "type": "paragraph",
-          "content": "Egghub is a platform that connects organic egg buyers with local urban farmers that produce organic eggs. Buyers could search farmers based on their egg requirements. The idea is to let the app do the transaction while the farmers (or couriers) just drop the eggs in the buyer’s front door."
-        },
-        {
-          "type": "h3",
-          "content": "Process"
-        },
-        {
-          "type": "image-small",
-          "content": "/egghub-process.jpg",
-          "alt": "Design process",
-          "label": "Design process used in this case study"
-        },
-        {
-          "type": "h3",
-          "content": "1. Discover"
-        },
-        {
-          "type": "h4",
-          "content": "Interview and Persona"
-        },
-        {
-          "type": "paragraph",
-          "content": "I began by interviewing several people with close ties to egg farming business and people who buy eggs on a weekly basis. The interview involves day to day egg business and general idea of what’s on their mind when buying and selling eggs. I created this persona based on these interviews."
-        },
-        {
-          "type": "image-small",
-          "content": "/egghub-persona.jpg",
-          "alt": "Persona",
-          "label": "<span>Persona photo by <a href='https://unsplash.com/@cristianpalmer?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Cristian Palmer</a> on <a href='https://unsplash.com/s/photos/persona?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a></span>"
-        },
-        {
-          "type": "h3",
-          "content": "2. Design"
-        },
-        {
-          "type": "h4",
-          "content": "Story Map"
-        },
-        {
-          "type": "paragraph",
-          "content": "Using story map, I explored several possible interactions for the app and what users could do on the app."
-        },
-        {
-          "type": "image-small",
-          "content": "/egghub-story-map-raw.jpg",
-          "alt": "Raw Story Map",
-          "label": ""
-        },
-        {
-          "type": "image-small",
-          "content": "/egghub-story-map.jpg",
-          "alt": "Story Map",
-          "label": ""
-        },
-        {
-          "type": "h4",
-          "content": "User Flow"
-        },
-        {
-          "type": "paragraph",
-          "content": "Satisfied with the story map, I continue with user flow model to finalize how the main flow would be on the app."
-        },
-        {
-          "type": "image-small",
-          "content": "/egghub-user-flow.jpg",
-          "alt": "User Flow",
-          "label": ""
-        },
-        {
-          "type": "h3",
-          "content": "3. Prototype"
-        },
-        {
-          "type": "h4",
-          "content": "Paper Sketches"
-        },
-        {
-          "type": "paragraph",
-          "content": "After the user flow has been finalized, I started to explore how the main process screens would look like using paper sketches."
-        },
-        {
-          "type": "image-small",
-          "content": "/egghub-sketches.jpg",
-          "alt": "Paper Sketches",
-          "label": ""
-        },
-        {
-          "type": "h4",
-          "content": "Lo-Fi Wireframes"
-        },
-        {
-          "type": "paragraph",
-          "content": "Using the paper sketches, I started working on the lo-fi wireframes. I gather visual references from sources like dribble, behance, and several grocery shopping apps. With Adobe XD, I create the base components using <a href='https://www.uistore.design/items/shopping-ui-kit-for-adobe-xd/' target='_blank'>Shopping UI Kit</a> made by <a href='https://dribbble.com/ema_ike?ref=uistore.design' target='_blank'>Emmanuel Ikechukwu</a>. This would made the design process quick and easy."
-        },
-        {
-          "type": "image-small",
-          "content": "/egghub-lofi.png",
-          "alt": "Lo-Fi Wireframes",
-          "label": ""
-        },
-        {
-          "type": "h3",
-          "content": "4. Iterate"
-        },
-        {
-          "type": "h4",
-          "content": "Final Design"
-        },
-        {
-          "type": "paragraph",
-          "content": "I started adding brand colours and visual references on the lo-fi wireframes, resulting in final design. I do several steps of next iteration on this design."
-        },
-        {
-          "type": "image-large",
-          "content": "/egghub-hifi.png",
-          "alt": "Final Design",
-          "label": ""
-        },
-        {
-          "type": "h4",
-          "content": "Clickable Prototype"
-        },
-        {
-          "type": "paragraph",
-          "content": "After several steps of iterations on the final design, I made a clickable prototype on InVision for the future usability testing."
-        },
-        {
-          "type": "paragraph",
-          "content": "<a href='https://invis.io/BSWE0W2G7RK' target='_blank'>https://invis.io/BSWE0W2G7RK</a>."
-        },
-        {
-          "type": "h3",
-          "content": "Conclusion"
-        },
-        {
-          "type": "h4",
-          "content": "What I learned"
-        },
-        {
-          "type": "paragraph",
-          "content": "In this project, I learned about how to write a case study and think about my design process. I also learned more about using Adobe XD and InVision design tool."
-        },
-        {
-          "type": "h4",
-          "content": "Next steps?"
-        },
-        {
-          "type": "paragraph",
-          "content": "For now, the project only covers the UI design from user interview to clickable prototype. I would like to do usability testing on the prototype and start another process to design the app from the farmer side."
-        },
-        {
-          "type": "h4",
-          "content": "Thank you for reading, here’s a little background"
-        },
-        {
-          "type": "paragraph",
-          "content": "This case study is part of Diagramming and Prototyping course challenge from UC Berkeley Extension. It’s a challenge that covers the whole 8 week course. Some of the fellow classmates here are also UX field professionals in Bay Area. It was an incredible opportunity that lets me have a conversation about my design to these fellow classmates."
-        }
-      ]
-    },
-    {
       "slug": "frienemies",
       "id": 3,
       "title": "Frienemies",
-      "overview": "Ever heard of Bishi Bashi? The three of us, me, Dimas, and Chris decided to make our final thesis project a tribute for this game. Frienemies, to put plainly, means friends and enemies. To us, it means a friend who can be a rival. We felt it's the perfect title for the gameplay of this game where every player strives to be the very best.",
+      "overview": "Frienemies, to put plainly, means friends and enemies. To us, it means friends who can be rivals. It's the perfect title for the gameplay of this game where every player strives to be the very best. This case study will guide you through the entire process of this mobile game project.",
       "role": [
         {
-          "name": "DARUMA SPRINT Development, User Research, UI Design"
+          "name": "User Research, UI Design, Game Development"
         }
       ],
-      "type": "Thesis",
+      "type": "Mobile Game",
       "tools": [
         {
           "name": "Unity"
@@ -570,7 +374,7 @@
           "name": "C#"
         },
         {
-          "name": "Google Forms"
+          "name": "Google Forms & Survey"
         }
       ],
       "link": "https://play.google.com/store/apps/details?id=com.BDCGames.FrienemiesNew",
@@ -875,248 +679,6 @@
         {
           "type": "paragraph",
           "content": "That being said, we were happy with how the game turns out and it was a fun experience developing the game. We got to learn how design and develop a mobile game from the ground up, and to finally publish it online."
-        }
-      ]
-    },
-    {
-      "slug": "ard-design",
-      "id": 1,
-      "title": "ARD Design",
-      "overview": "ARD Design is an architecture consultant company, based and founded in Jakarta, Indonesia, 1996. They had many collections of portfolio from their early years to present times.",
-      "role": [
-        {
-          "name": "Front-end Development"
-        },
-        {
-          "name": "Mobile First Web Design"
-        },
-        {
-          "name":"CMS Development"
-        }
-      ],
-      "type": "Freelance",
-      "tools": [
-        {
-          "name": "HTML5"
-        },
-        {
-          "name": "CSS3"
-        },
-        {
-          "name":"LESS"
-        },
-        {
-          "name":"jQuery"
-        },
-        {
-          "name":"CodeIgniter"
-        }
-      ],
-      "link": "http://ard-design.co.id",
-      "link_text": "See It Live",
-      "thumbnail_path": "/ard-thumb.jpg",
-      "article": [
-        {
-          "type": "paragraph",
-          "content": "ARD Design is an architecture consultant company, based and founded in Jakarta, Indonesia, 1996. They had many collections of portfolio from their early years to present times."
-        },
-        {
-          "type": "h4",
-          "content": "At First Glance"
-        },
-        {
-          "type": "paragraph",
-          "content": "ARD already had a website that embodies their creative taste, with interactivity, animation, and smooth transition. The problem was, to achieve all those elements, the previous website used Flash."
-        },
-        {
-          "type": "image-small",
-          "content": "/ard-image-oldwebsite.jpg",
-          "alt": "Old flash website",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Why Flash?"
-        },
-        {
-          "type": "paragraph",
-          "content": "The problem with Flash in this case that it requires loading until every content are loaded. Since ARD have a lot of projects inside their website, waiting became very long. And to be relevant at this time and age, they want it to be fast."
-        },
-        {
-          "type": "paragraph",
-          "content": "In short, they want to show their creative side and be fast."
-        },
-        {
-          "type": "h3",
-          "content": "Design Process"
-        },
-        {
-          "type": "paragraph",
-          "content": "To answer their need of a website that reflects their identity and with faster loading, I proposed to approach things from something simple. Their unique color palette from their logo."
-        },
-        {
-          "type": "image-small",
-          "content": "/ard-image-colorpalette.jpg",
-          "alt": "ARD Color Scheme",
-          "label": "The brown color was a bit different to draw more contrast from the logo"
-        },
-        {
-          "type": "paragraph",
-          "content": "As for creative tastes, the people from ARD proposed using some of their already-made sketches."
-        },
-        {
-          "type": "image-small",
-          "content": "/ard-image-sketches.jpg",
-          "alt": "Sketches",
-          "label": "-"
-        },
-        {
-          "type": "paragraph",
-          "content": "Then, I started combining these elements, designing a prototype of the homepage using direct code."
-        },
-        {
-          "type": "image-large",
-          "content": "/ard-image-homeproto.jpg",
-          "alt": "Homepage",
-          "label": "-"
-        },
-        {
-          "type": "paragraph",
-          "content": "The goal for showing the prototype is to see if the color palette goes well. I use the brown and orange combination for a nice contrast. As for the beige color, I got some difficulties on deciding where to put them. I decided that it would be best to use them as selection color."
-        },
-        {
-          "type": "image-small",
-          "content": "/ard-image-selection.jpg",
-          "alt": "Selection demo",
-          "label": "-"
-        },
-        {
-          "type": "paragraph",
-          "content": "Thankfully, they were satisfied with the combination. After I got the approval to move on, I continued designing the homepage and also started designing other pages."
-        },
-        {
-          "type": "h3",
-          "content": "Result"
-        },
-        {
-          "type": "paragraph",
-          "content": "Here's the end results of the project:"
-        },
-        {
-          "type": "h4",
-          "content": "Home"
-        },
-        {
-          "type": "paragraph",
-          "content": "The first thing that most people will see. It has a collection of featured portfolios handpicked using a custom CMS. It is also where people could see the clients ARD Design had worked with."
-        },
-        {
-          "type": "image-large",
-          "content": "/ard-image-homepage.jpg",
-          "alt": "Homepage",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Projects"
-        },
-        {
-          "type": "paragraph",
-          "content": "The main piece of the website. It had every ARD Design's portfolios with three filter options."
-        },
-        {
-          "type": "image-large",
-          "content": "/ard-image-projects.jpg",
-          "alt": "Projects page",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Project Detail"
-        },
-        {
-          "type": "paragraph",
-          "content": "This page shows the details. You can see the curated artworks of a project and the story behind it."
-        },
-        {
-          "type": "image-large",
-          "content": "/ard-image-project.jpg",
-          "alt": "Project detail page",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "About"
-        },
-        {
-          "type": "paragraph",
-          "content": "Where people can see the background and culture of ARD Design, as well as the people behind it."
-        },
-        {
-          "type": "image-large",
-          "content": "/ard-image-about.jpg",
-          "alt": "About",
-          "label": "-"
-        },
-        {
-          "type": "image-large",
-          "content": "/ard-image-people.jpg",
-          "alt": "People",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Blog"
-        },
-        {
-          "type": "paragraph",
-          "content": "Where ARD design can share their thoughts."
-        },
-        {
-          "type": "image-large",
-          "content": "/ard-image-blog.jpg",
-          "alt": "Blog",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Contact"
-        },
-        {
-          "type": "paragraph",
-          "content": "If you want to get in touch with the people at ARD Design, use this page."
-        },
-        {
-          "type": "image-large",
-          "content": "/ard-image-contact.jpg",
-          "alt": "Contact",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Content Management System"
-        },
-        {
-          "type": "paragraph",
-          "content": "A company website portfolio would be more usable with a backend side. I use <a href='https://adminlte.io/' target='_blank'>AdminLTE</a> control panel template for a quick and easy design process. <a href='https://www.linkedin.com/in/denis-sunardi-5061b2145/' target='_blank'>Denis</a>, the back-end developer, takes care of anything backend-side like database models."
-        },
-        {
-          "type": "image-large",
-          "content": "/ard-image-cms.jpg",
-          "alt": "CMS dashboard, settings, project list, edit project",
-          "label": "-"
-        },
-        {
-          "type": "h3",
-          "content": "Onwards"
-        },
-        {
-          "type": "paragraph",
-          "content": "This is the first website project where I involved heavily on design. My design work here were done directly into code. For the next project, I would like to learn to design from wireframes and if possible, try to look into the research aspect of UX design."
-        },
-        {
-          "type": "paragraph",
-          "content": "You might also notice that many of the content on this project are still using <strong>lorem ipsum</strong> filler text. If you're interested on the copywriting gig, please <a href='/contact'>contact me</a>."
         }
       ]
     }
