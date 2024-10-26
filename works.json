@@ -106,7 +106,7 @@
         },
         {
           "type": "paragraph",
-          "content": "Surprisingly, 3 out of 10 participants have more than one account to play with. One particular  participant use many accounts with the intention of selling them (which is a <span='text-danger'>bannable offense</span>, don’t try it). Majority of the participants love using weapon skins and checked the skin store quite often. Four of them said they couldn’t log in to check the daily rotation because they weren't near their PC."
+          "content": "Surprisingly, 3 out of 10 participants have more than one account to play with. One particular  participant use many accounts with the intention of selling them (which is a <span class='text-danger'>bannable offense</span>, don’t try it). Majority of the participants love using weapon skins and checked the skin store quite often. Four of them said they couldn’t log in to check the daily rotation because they weren't near their PC."
         },
         {
           "type": "paragraph",
@@ -118,11 +118,11 @@
         },
         {
           "type": "quote",
-          "content": "I always can’t wait for the next Night.Market. Hope I won’t get any Smite skins tho."
+          "content": "\"I always can’t wait for the next Night.Market. Hope I won’t get any Smite skins tho.\""
         },
         {
           "type": "quote",
-          "content": "I’m just hoping for a good skins with discount."
+          "content": "\"I’m just hoping for a good skins with discount.\""
         },
         {
           "type": "paragraph",
@@ -130,7 +130,7 @@
         },
         {
           "type": "quote",
-          "content": "Aside from buddies and cards, Battle Pass is how I get Radianite Points to upgrade skins without paying the full price."
+          "content": "\"Aside from buddies and cards, Battle Pass is how I get Radianite Points to upgrade skins without paying the full price.\""
         },
         {
           "type": "paragraph",
@@ -138,7 +138,7 @@
         },
         {
           "type": "quote",
-          "content": "I jumped into VALORANT pretty late and I missed many Battle Pass cards, titles, and buddies I wanted. Accessories Store and Kingdom Credits give me another chance of getting those stuff."
+          "content": "\"I jumped into VALORANT pretty late and I missed many Battle Pass cards, titles, and buddies I wanted. Accessories Store and Kingdom Credits give me another chance of getting those stuff.\""
         },
         {
           "type": "h4",
@@ -171,7 +171,7 @@
         },
         {
           "type": "quote",
-          "content": "Chamber! I'm ready for some custom guns. You'll hook me up, yeah?"
+          "content": "\"Chamber! I'm ready for some custom guns. You'll hook me up, yeah?\""
         },
         {
           "type": "paragraph",
@@ -197,7 +197,7 @@
         },
         {
           "type": "quote",
-          "content": "What brand are your knives, Jett? They're not 'Mammoth'. 'Segreto', maybe? I need one for my collection."
+          "content": "\"What brand are your knives, Jett? They're not 'Mammoth'. 'Segreto', maybe? I need one for my collection.\""
         },
         {
           "type": "paragraph",
@@ -223,7 +223,7 @@
         },
         {
           "type": "quote",
-          "content": "These guns we use are okay but I will also bring my own. No offense."
+          "content": "\"These guns we use are okay but I will also bring my own. No offense.\""
         },
         {
           "type": "paragraph",
@@ -1159,6 +1159,118 @@
         {
           "type": "paragraph",
           "content": "That being said, we were happy with how the game turns out and it was a fun experience developing the game. We got to learn how design and develop a mobile game from the ground up, and to finally publish it online."
+        }
+      ]
+    },
+    {
+      "slug": "design-showcase",
+      "id": 13,
+      "title": "Design Showcase",
+      "overview": "This part will showcases some design explorations I've done across the years. I had fun doing these.",
+      "role": [
+        {
+          "name": "Whatever I want"
+        }
+      ],
+      "type": "Anything I want",
+      "tools": [
+        {
+          "name": "Any stuff I use"
+        }
+      ],
+      "link": "",
+      "link_text": "",
+      "thumbnail_path": "/showcase-bimata-katakana.gif",
+      "article": [
+        {
+          "type": "h4",
+          "content": "Part 1"
+        },
+        {
+          "type": "h3",
+          "content": "User Interface"
+        },
+        {
+          "type": "paragraph",
+          "content": "These are user interface explorations I’ve worked on over the years. Some might offer solutions to real world problems, even if they may never see light of the day."
+        },
+        {
+          "type": "image-small",
+          "content": "/showcase-egghub.jpg",
+          "alt": "Egghub",
+          "label": "Egghub"
+        },
+        {
+          "type": "image-large",
+          "content": "/showcase-ficfeed-design-system.jpg",
+          "alt": "FicFeed Design System",
+          "label": "FicFeed Design System"
+        },
+        {
+          "type": "image-small",
+          "content": "/showcase-ficfeed-app.jpg",
+          "alt": "FicFeed App",
+          "label": "FicFeed App"
+        },
+        {
+          "type": "image-large",
+          "content": "/showcase-video-editor.png",
+          "alt": "Video Editor App",
+          "label": "Video Editor App"
+        },
+        {
+          "type": "image-large",
+          "content": "/showcase-wallfine-dashboard.jpg",
+          "alt": "Wallfine Dashboard",
+          "label": "Wallfine Dashboard"
+        },
+        {
+          "type": "image-small",
+          "content": "/showcase-ard.jpg",
+          "alt": "ARD Design Website",
+          "label": "ARD Design Website"
+        },
+        {
+          "type": "image-small",
+          "content": "/showcase-storywork.jpg",
+          "alt": "My Storywork",
+          "label": "My Storywork"
+        },
+        {
+          "type": "image-small",
+          "content": "/showcase-inlive-class.jpg",
+          "alt": "In Live Remote Class",
+          "label": "In Live Remote Class"
+        },
+        {
+          "type": "h4",
+          "content": "Part 2"
+        },
+        {
+          "type": "h3",
+          "content": "Visual Explorations"
+        },
+        {
+          "type": "paragraph",
+          "content": "When I’m not doing research or UI design, I play around with visual designs. These can be logos, stationery, anything. It’s just pure fun when I don’t have to actively solve problems with these."
+        },
+        {
+          "type": "image-small",
+          "content": "/showcase-bimata-katakana.gif",
+          "alt": "Bimata in Katakana",
+          "label": "Animated Bimata in Katakana"
+        },
+        {
+          "type": "image-small",
+          "content": "/showcase-business-card.jpg",
+          "alt": "My Business Card",
+          "label": "My Business Card"
+        },
+        {
+          "type": "image-small",
+          "content": "/showcase-pier24-logo.jpg",
+          "alt": "Pier 24 Photography Logo",
+          "label": "Pier 24 Photography Logo"
         }
       ]
     }
