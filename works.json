@@ -1,6 +1,486 @@
 {
   "results": [
     {
+      "slug": "valorant-app",
+      "id": 12,
+      "title": "VALORANT App",
+      "overview": "The weapon skins in VALORANT Store are being sold as four items shelf and rotating on a daily basis. The skins can only be checked when you logged in the game. Because of this, there were so many times I was unable to check the store whenever I want to due to being away from PC. What if we can easily check the store everywhere we go?",
+      "role": [
+        {
+          "name": "User Research"
+        },
+        {
+          "name": "UI Design"
+        },
+        {
+          "name": "UI Components Design"
+        }
+      ],
+      "type": "Mobile App",
+      "tools": [
+        {
+          "name": "Figma"
+        },
+        {
+          "name": "FigJam"
+        },
+        {
+          "name": "User Interview"
+        },
+        {
+          "name": "UI Sketches"
+        },
+        {
+          "name": "Prototyping"
+        },
+        {
+          "name": "Usability Testing"
+        }
+      ],
+      "link": "https://bit.ly/3NwZfN7",
+      "link_text": "See Prototype",
+      "thumbnail_path": "/valorant-app-thumb.jpg",
+      "article": [
+        {
+          "type": "paragraph",
+          "content": "The weapon skins in VALORANT Store are being sold as four items shelf and rotating on a daily basis. The skins can only be checked when you logged in the game. Because of this, there were so many times I was unable to check the store whenever I want to due to being away from PC. What if we can easily check the store everywhere we go?"
+        },
+        {
+          "type": "h3",
+          "content": "Process"
+        },
+        {
+          "type": "image-small",
+          "content": "/valorant-app-process.png",
+          "alt": "Design process",
+          "label": "Design process used in this case study"
+        },
+        {
+          "type": "h3",
+          "content": "1. Discover"
+        },
+        {
+          "type": "h4",
+          "content": "Problem Assumptions"
+        },
+        {
+          "type": "ol",
+          "content": "I began this case study with problem assumptions. These assumptions was based on my own experience with the problem and with further explorations.",
+          "list": [
+            {
+              "content": "<strong>Checking VALORANT store can only be done in the game.</strong> Let’s say you are on a vacation and want to check today’s VALORANT store rotation. If you use a laptop to play, you will need to find a table and boot up your laptop just to check it. If you use a Gaming PC, unless you are dedicated enough to bring all those peripherals to your vacation then you are out of luck."
+            },
+            {
+              "content": "<strong>Buying VALORANT skins can only be done in the game.</strong> VALORANT skins are rotated on a daily basis. Once you missed buying a skin you are looking for, you will have to wait for a random number of days for the skin to appear in the store."
+            }
+          ]
+        },
+        {
+          "type": "h4",
+          "content": "User Interviews"
+        },
+        {
+          "type": "paragraph",
+          "content": "I reached out to 10 participants to validate the assumptions I made about the problem, and to see if there were any other issues I missed. I interviewed fellow players who had been playing VALORANT frequently. Occasionally, I even conducted interviews while playing VALORANT matches. It might seem a bit unusual to interview during the chaos of a 5v5 game, but the participants seemed excited to talk about the weapon skins I used. I believe this is a good enough justification for doing interviews during matches."
+        },
+        {
+          "type": "ol",
+          "content": "<strong='text-success'>Main Questions</strong>",
+          "list": [
+            {
+              "content": "Do you love using skins? How often do you check the store?"
+            },
+            {
+              "content": "Tell me about your experience of checking the store. Anything frustrating or challenging about checking the store?"
+            },
+            {
+              "content": "Are there any other features besides the store and playing the game that you check often?"
+            }
+          ]
+        },
+        {
+          "type": "image-small",
+          "content": "/valorant-app-statistics.jpg",
+          "alt": "Interview Statistics",
+          "label": ""
+        },
+        {
+          "type": "paragraph",
+          "content": "Surprisingly, 3 out of 10 participants have more than one account to play with. One particular  participant use many accounts with the intention of selling them (which is a <span='text-danger'>bannable offense</span>, don’t try it). Majority of the participants love using weapon skins and checked the skin store quite often. Four of them said they couldn’t log in to check the daily rotation because they weren't near their PC."
+        },
+        {
+          "type": "paragraph",
+          "content": "When asked about other features to check, these are the top three and here’s what participants have to say about them:"
+        },
+        {
+          "type": "paragraph",
+          "content": "<strong>1. Night.Market</strong>"
+        },
+        {
+          "type": "quote",
+          "content": "I always can’t wait for the next Night.Market. Hope I won’t get any Smite skins tho."
+        },
+        {
+          "type": "quote",
+          "content": "I’m just hoping for a good skins with discount."
+        },
+        {
+          "type": "paragraph",
+          "content": "<strong>2. Battle Pass</strong>"
+        },
+        {
+          "type": "quote",
+          "content": "Aside from buddies and cards, Battle Pass is how I get Radianite Points to upgrade skins without paying the full price."
+        },
+        {
+          "type": "paragraph",
+          "content": "<strong>3. Accessories Store</strong>"
+        },
+        {
+          "type": "quote",
+          "content": "I jumped into VALORANT pretty late and I missed many Battle Pass cards, titles, and buddies I wanted. Accessories Store and Kingdom Credits give me another chance of getting those stuff."
+        },
+        {
+          "type": "h4",
+          "content": "Persona"
+        },
+        {
+          "type": "ol",
+          "content": "Based on the user interviews and my own experience, I found 3 types of VALORANT Skin users. I assigned a VALORANT agent to each of these persona, reflected by their character traits and voicelines.",
+          "list": [
+            {
+              "content": "Just started to buy weapon skins - PHOENIX"
+            },
+            {
+              "content": "Already bought some weapon skins but looking to buy more - YORU"
+            },
+            {
+              "content": "Have a great number of weapon skins collection - CHAMBER"
+            }
+          ]
+        },
+        {
+          "type": "h5",
+          "content": "Phoenix"
+        },
+        {
+          "type": "image-small",
+          "content": "/valorant-app-phoenix.webp",
+          "alt": "Phoenix",
+          "label": "VALORANT Phoenix player card by Riot Games"
+        },
+        {
+          "type": "quote",
+          "content": "Chamber! I'm ready for some custom guns. You'll hook me up, yeah?"
+        },
+        {
+          "type": "paragraph",
+          "content": "PHOENIX just starting to get into the skin game, he will login at least once a day hoping for Ion Sheriff to appear."
+        },
+        {
+          "type": "paragraph",
+          "content": "Will beg you to drop your Kuronami Vandal every round."
+        },
+        {
+          "type": "paragraph",
+          "content": "At least got a weapon skin for meta weapons like Vandal, still using the default one for less desirable weapons like Ares."
+        },
+        {
+          "type": "h5",
+          "content": "Yoru"
+        },
+        {
+          "type": "image-small",
+          "content": "/valorant-app-yoru.webp",
+          "alt": "Yoru",
+          "label": "VALORANT Yoru player card by Riot Games"
+        },
+        {
+          "type": "quote",
+          "content": "What brand are your knives, Jett? They're not 'Mammoth'. 'Segreto', maybe? I need one for my collection."
+        },
+        {
+          "type": "paragraph",
+          "content": "YORU have collected a good amount of weapon skins, but still have the itch to collect more."
+        },
+        {
+          "type": "paragraph",
+          "content": "Have skins for most of his weapons."
+        },
+        {
+          "type": "paragraph",
+          "content": "Already have the classics like Prime Vandal. Looking to get any Champion skins."
+        },
+        {
+          "type": "h5",
+          "content": "Chamber"
+        },
+        {
+          "type": "image-small",
+          "content": "/valorant-app-chamber.webp",
+          "alt": "Chamber",
+          "label": "VALORANT Chamber player card by Riot Games"
+        },
+        {
+          "type": "quote",
+          "content": "These guns we use are okay but I will also bring my own. No offense."
+        },
+        {
+          "type": "paragraph",
+          "content": "CHAMBER has bought every exclusive or hyped skin bundles on their first day of appearance."
+        },
+        {
+          "type": "paragraph",
+          "content": "All his weapons has at least 4 choices of weapon skins."
+        },
+        {
+          "type": "paragraph",
+          "content": "Not the one who begs for skin drop. Why beg when you have them all?"
+        },
+        {
+          "type": "h3",
+          "content": "2. Define"
+        },
+        {
+          "type": "paragraph",
+          "content": "After doing the research, I feel confident on defining the pain points from the user interviews."
+        },
+        {
+          "type": "paragraph",
+          "content": "<strong class='text-danger'>Pain Point #1: Need PC to check VALORANT store rotations</strong><br>My initial assumption turned out to be true to some participants. Some of them feels they need a way to easily check without having to login from their PC. This also applies to buying VALORANT points."
+        },
+        {
+          "type": "paragraph",
+          "content": "<strong class='text-danger'>Pain Point #2: Need PC to check various features in VALORANT</strong><br>The pain point of needing to use PC also applies to other features well. Most participants were talking excitedly about the next Night.Market. Some of them also likes checking the Battle Pass and the accessories shop as well."
+        },
+        {
+          "type": "paragraph",
+          "content": "With these pain points in mind, I moved on with the idea of designing a VALORANT mobile app where you can check the store rotations, the Night.Market, the Battle Pass, the Accessories Store, and buy VALORANT points."
+        },
+        {
+          "type": "h3",
+          "content": "3. Ideate"
+        },
+        {
+          "type": "h4",
+          "content": "User Flow"
+        },
+        {
+          "type": "paragraph",
+          "content": "I use user flow to ideate what can the app do and what each menu functions will have."
+        },
+        {
+          "type": "image-large",
+          "content": "/valorant-app-user-flow.jpg",
+          "alt": "User Flow",
+          "label": ""
+        },
+        {
+          "type": "h4",
+          "content": "UI Sketches"
+        },
+        {
+          "type": "paragraph",
+          "content": "With UI sketches, I imagined how the app main pages would look like."
+        },
+        {
+          "type": "image-small",
+          "content": "/valorant-app-ui-sketches.jpg",
+          "alt": "UI Sketches",
+          "label": ""
+        },
+        {
+          "type": "h3",
+          "content": "4. Iterate"
+        },
+        {
+          "type": "h4",
+          "content": "Design System"
+        },
+        {
+          "type": "image-large",
+          "content": "/valorant-app-design-system.jpg",
+          "alt": "Design System",
+          "label": ""
+        },
+        {
+          "type": "paragraph",
+          "content": "In 2023 before starting the research, I already created a design system for VALORANT App with components ready for the main store and buying points. I made a design system for this so I would have easier effort to grow and adapt the project alongside the game current state of development and future updates. I’ve added new components mainly for the Battle Pass, Accessories Store, and Night.Market."
+        },
+        {
+          "type": "h4",
+          "content": "UI Design"
+        },
+        {
+          "type": "paragraph",
+          "content": "With the design system updated, I combined the proposed user flows, UI sketches, and the design system to create the UI design."
+        },
+        {
+          "type": "paragraph",
+          "content": "<strong>UI Design: Main Store</strong>"
+        },
+        {
+          "type": "image-large",
+          "content": "/valorant-app-main-store.png",
+          "alt": "Main Store",
+          "label": ""
+        },
+        {
+          "type": "paragraph",
+          "content": "Pain points addressed: <strong>Need PC to check VALORANT store rotations</strong>. Players can just use this app whenever they need to check daily store rotations. They can also use this app to buy the skin they need, provided they have enough VALORANT points."
+        },
+        {
+          "type": "paragraph",
+          "content": "<strong>UI Design: Battle Pass & Accessories Store</strong>"
+        },
+        {
+          "type": "image-large",
+          "content": "/valorant-app-battle-pass-accessories-store.png",
+          "alt": "Battle Pass & Accessories Store",
+          "label": ""
+        },
+        {
+          "type": "paragraph",
+          "content": "Pain points addressed: <strong>Need PC to check various features in VALORANT</strong>. Players can also use this app to check the Battle Pass progress and see if they have any item they want. They can also check the Accessories Store which are updated weekly."
+        },
+        {
+          "type": "paragraph",
+          "content": "<strong>UI Design: Night.Market</strong>"
+        },
+        {
+          "type": "image-large",
+          "content": "/valorant-app-night-market.png",
+          "alt": "Night.Market",
+          "label": ""
+        },
+        {
+          "type": "paragraph",
+          "content": "Pain points addressed: <strong>Need PC to check various features in VALORANT</strong>. Night.Market can also be checked in the app as long as it is active in the game, usually once every Act (a VALORANT Act will last around two months)."
+        },
+        {
+          "type": "paragraph",
+          "content": "<strong>UI Design: Point Store</strong>"
+        },
+        {
+          "type": "image-large",
+          "content": "/valorant-app-buy-points.png",
+          "alt": "Buy Points",
+          "label": ""
+        },
+        {
+          "type": "paragraph",
+          "content": "Pain points addressed: <strong>Need PC to check VALORANT store rotations</strong> & <strong>Need PC to check various features in VALORANT</strong>. There will be moments when players don’t have enough VALORANT Points. They can buy points in the app so they won’t miss out the weapon skin they want."
+        },
+        {
+          "type": "h4",
+          "content": "Prototyping"
+        },
+        {
+          "type": "paragraph",
+          "content": "After several steps of iterations in the UI Design, I made a prototype using Figma for usability testing."
+        },
+        {
+          "type": "paragraph",
+          "content": "<a href='https://bit.ly/3NwZfN7' target='_blank'>https://bit.ly/3NwZfN7</a>"
+        },
+        {
+          "type": "h4",
+          "content": "Usability Testing"
+        },
+        {
+          "type": "ol",
+          "content": "To validate the designs, I conducted usability tests with 4 participants who were frequent VALORANT players. These are the tasks I asked them to do: ",
+          "list": [
+            {
+              "content": "Buy the current skin bundle"
+            },
+            {
+              "content": "Get more VALORANT Points"
+            },
+            {
+              "content": "Buy a daily skin offer"
+            },
+            {
+              "content": "Upgrade the Battle Pass"
+            },
+            {
+              "content": "Buy something from the Accessories Store"
+            },
+            {
+              "content": "Buy an item in the Night.Market"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "content": "Long story short, they completed the tasks easily, encountering only minor issues along the way:",
+          "list": [
+            {
+              "content": "Access to Night.Market, when available, was too small to be noticed the first time."
+            },
+            {
+              "content": "Few participants was not aware at first that they need to tap the VALORANT Point currency to access Point Store page. The call-to-action access in the main store seems to be helping resolve this issue."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "Despite the minor hiccups, all participants managed to find access for these pages eventually."
+        },
+        {
+          "type": "h3",
+          "content": "Conclusion"
+        },
+        {
+          "type": "h4",
+          "content": "What I Learned"
+        },
+        {
+          "type": "paragraph",
+          "content": "When I worked on this project, I was wondering if it’s possible to actually develop the app for this project. Then I found out that Riot is not releasing official API for player account store rotations. The data for these are considered private confidential information. Right now, there is no way to handle the app through third-party developers unless it’s being done by Riot themselves."
+        },
+        {
+          "type": "paragraph",
+          "content": "I also managed to talk again with previous user interview participants. A few of them who are used to check VALORANT store consistently are now satisfied with their current collection and are not actively checking anymore. These are examples of how the PHOENIX and the YORU could become the CHAMBER (the user personas). So in a way, I understand if Riot might have some ideas about the concept but isn’t prioritizing its development at the moment."
+        },
+        {
+          "type": "paragraph",
+          "content": "Even so, I love research and design process and I love VALORANT as well. To be able to combine both was a rewarding challenge for me. That’s what really matters to me in the end."
+        },
+        {
+          "type": "h4",
+          "content": "Next Steps"
+        },
+        {
+          "type": "ul",
+          "content": "During the discover and the iterate process, a few of the participants talks about checking and buying Agents inside the app. Since these Agents can be bought with Kingdom Credits, it got me thinking about an idea: “What if users can use the app to get Kingdom Credits?”. Here’s possible user activities in the app that can be used for this sort of loyalty program:",
+          "list": [
+            {
+              "content": "Buying weapon skin in the app"
+            },
+            {
+              "content": "Top up VALORANT points"
+            },
+            {
+              "content": "Opening the Night.Market cards"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "This Kingdom Credits loyalty program might hopefully give some incentive for players to spend money using the app. This program might entice the CHAMBER to buy more fine addition his collection too."
+        },
+        {
+          "type": "paragraph",
+          "content": "Additionally, I mentioned before that I planned to adapt any changes and update that Riot apply to VALORANT. So this app design project will keep evolving alongside the game."
+        },
+        {
+          "type": "quote",
+          "content": "DISCLAIMER: I don’t work for Riot Games or have any affiliation with Riot Games at all. The goal of this case study is to enhance my skills and to become a better designer."
+        }
+      ]
+    },
+    {
       "slug": "self-service-laundry",
       "id": 9,
       "title": "Self-Service Laundry App",
@@ -113,19 +593,19 @@
         },
         {
           "type": "paragraph",
-          "content": "<strong class='danger'>Pain Point #1: Payment Problems</strong><br>The payment problems ranges from forgetting to bring coins to credit cards getting stuck on machine."
+          "content": "<strong class='text-danger'>Pain Point #1: Payment Problems</strong><br>The payment problems ranges from forgetting to bring coins to credit cards getting stuck on machine."
         },
         {
           "type": "paragraph",
-          "content": "<strong class='danger'>Pain Point #2: Unattended Laundry Results on Time Wasting</strong><br>One participant mentioned frustration with unattended laundry occupying all the machines, preventing them from doing their own laundry."
+          "content": "<strong class='text-danger'>Pain Point #2: Unattended Laundry Results on Time Wasting</strong><br>One participant mentioned frustration with unattended laundry occupying all the machines, preventing them from doing their own laundry."
         },
         {
           "type": "paragraph",
-          "content": "<strong class='danger'>Pain Point #3: Forgetting Laundry</strong><br>One of the participants completely forgot about their laundry and left it for an entire day."
+          "content": "<strong class='text-danger'>Pain Point #3: Forgetting Laundry</strong><br>One of the participants completely forgot about their laundry and left it for an entire day."
         },
         {
           "type": "paragraph",
-          "content": "<strong class='danger'>Pain Point #4: Laundry being Taken Out Without Permission</strong><br>A participant shared an incident where someone had placed their wet laundry on the floor. Yikes."
+          "content": "<strong class='text-danger'>Pain Point #4: Laundry being Taken Out Without Permission</strong><br>A participant shared an incident where someone had placed their wet laundry on the floor. Yikes."
         },
         {
           "type": "h3",
