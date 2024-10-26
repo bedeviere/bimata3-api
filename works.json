@@ -85,7 +85,7 @@
         },
         {
           "type": "ol",
-          "content": "<strong='text-success'>Main Questions</strong>",
+          "content": "<strong class='text-success'>Main Questions</strong>",
           "list": [
             {
               "content": "Do you love using skins? How often do you check the store?"
