@@ -384,6 +384,10 @@
           "content": "<a href='https://bit.ly/3NwZfN7' target='_blank'>https://bit.ly/3NwZfN7</a>"
         },
         {
+          "type": "paragraph",
+          "content": "<iframe style='border: 1px solid rgba(0, 0, 0, 0.1);'' width='800' height='450' src='https://embed.figma.com/proto/WdavpyNDNe55rZihxJV701/%F0%9F%8E%AEValorant-Store-App?page-id=28%3A2&node-id=402-1348&node-type=canvas&viewport=402%2C76%2C0.04&scaling=scale-down&content-scaling=fixed&starting-point-node-id=402%3A1348&embed-host=share' allowfullscreen></iframe>"
+        },
+        {
           "type": "h4",
           "content": "Usability Testing"
         },
