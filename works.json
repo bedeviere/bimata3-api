@@ -1,6 +1,192 @@
 {
   "results": [
     {
+      "slug": "kuelap-design-system",
+      "id": 13,
+      "title": "Kuelap Design System",
+      "overview": "Kuelap provides tech banking solutions mainly for micro, small, and medium enterprises. As their platforms grew, it became clear that design inconsistencies across different products were negatively impacting the user experience and making it difficult for new designers and developers to quickly integrate and contribute to the team.",
+      "role": [
+        {
+          "name": "UI Design"
+        },
+        {
+          "name": "UI Components Design"
+        }
+      ],
+      "type": "Design System",
+      "tools": [
+        {
+          "name": "Figma"
+        },
+        {
+          "name": "Desk Research"
+        }
+      ],
+      "link": "",
+      "link_text": "",
+      "thumbnail_path": "/kuelap-design-system.jpg",
+      "article": [
+        {
+          "type": "h4",
+          "content": "Background"
+        },
+        {
+          "type": "ol",
+          "content": "When I joined Kuelap, the company was already managing three distinct platforms, each with unique functionality and designed for different devices:",
+          "list": [
+            {
+              "content": "Core Banking System (CBS), on desktop browser, to manage co-op banking system."
+            },
+            {
+              "content": "Member Service Application (MSA), on tablet, for co-op members administration."
+            },
+            {
+              "content": "Octo Mobile, on mobile, for self-service banking by co-op members."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "Each of these three platforms also have their own style and color scheme. I was tasked with contributing to a scalable and consistent design system to streamline the design between existing and future platforms, ensuring brand consistency and improving collaboration between design and development teams."
+        },
+        {
+          "type": "h4",
+          "content": "Problem Statement"
+        },
+        {
+          "type": "ul",
+          "content": "The lack of a unified design system led to inconsistencies across the product interface. Each designer and developer often recreated similar components, which resulted in:",
+          "list": [
+            {
+              "content": "Inconsistent UI elements across various parts of the product."
+            },
+            {
+              "content": "Redundant design efforts and code duplication."
+            }
+          ]
+        },
+        {
+          "type": "image-small",
+          "content": "/kuelap-old-designs.png",
+          "alt": "Old Designs",
+          "label": ""
+        },
+        {
+          "type": "h4",
+          "content": "Audit & Research"
+        },
+        {
+          "type": "ul",
+          "content": "The first step was to conduct an extensive audit of the existing UI components and patterns. This included:",
+          "list": [
+            {
+              "content": "Reviewing all screens to identify common components like buttons, form elements, modals, etc."
+            },
+            {
+              "content": "Understanding variations in typography, spacing, color schemes, and grid structures."
+            },
+            {
+              "content": "Analyzing how these elements behaved across different platforms and devices."
+            }
+          ]
+        },
+        {
+          "type": "h4",
+          "content": "Style Guide"
+        },
+        {
+          "type": "ul",
+          "content": "To ensure cross-team collaboration, we created a detailed style guide that included:",
+          "list": [
+            {
+              "content": "Color Palette: Primary, secondary, and neutral colors, along with accessibility considerations for contrast. With Kuelap orange as the primary brand color."
+            },
+            {
+              "content": "Typography: Font styles, sizes, and spacing guidelines for various use cases."
+            },
+            {
+              "content": "Typography: Font styles, sizes, and spacing guidelines for various use cases."
+            }
+          ]
+        },
+        {
+          "type": "image-large",
+          "content": "/kuelap-style.jpg",
+          "alt": "Kuelap Style Guide",
+          "label": ""
+        },
+        {
+          "type": "h4",
+          "content": "Component Library"
+        },
+        {
+          "type": "paragraph",
+          "content": "Next, we designed a modular and flexible set of UI components. Each component was crafted with scalability and adaptability in mind."
+        },
+        {
+          "type": "image-small",
+          "content": "/kuelap-components.jpg",
+          "alt": "Kuelap Components",
+          "label": ""
+        },
+        {
+          "type": "h4",
+          "content": "Documentation"
+        },
+        {
+          "type": "ul",
+          "content": "To ensure the design system was adopted by all team members, we created comprehensive documentation that covered:",
+          "list": [
+            {
+              "content": "Guidelines on how to use components."
+            },
+            {
+              "content": "List of available variants for each components."
+            },
+            {
+              "content": "Examples for guiding team members."
+            }
+          ]
+        },
+        {
+          "type": "image-large",
+          "content": "/kuelap-documentation.jpg",
+          "alt": "Design System Documentation",
+          "label": ""
+        },
+        {
+          "type": "h4",
+          "content": "Challenges"
+        },
+        {
+          "type": "ol",
+          "content": "",
+          "list": [
+            {
+              "content": "<strong>Conflicting priorities:</strong> It can be difficult to find time to focus on the design system, as other features and design initiatives often take precedence and demand higher priority."
+            },
+            {
+              "content": "<strong>Balancing consistency and flexibility:</strong> Striking the right balance between consistency and flexibility in the design system proved to be a challenge. It wasn’t easy to ensure the system was adaptable enough to support various products and use cases while still maintaining a cohesive and consistent design throughout."
+            },
+            {
+              "content": "<strong>Integrating legacy designs:</strong> We faced the challenge of integrating legacy designs and components that had built up over time, and aligning them with the new design system was a difficult process."
+            },
+            {
+              "content": "<strong>Handling fear of change:</strong> Implementing a new design system can disrupt teams that are accustomed to established workflows. Managing the transition and offering sufficient support and resources to help teams adjust to the new system is key to overcome this challenge."
+            }
+          ]
+        },
+        {
+          "type": "h4",
+          "content": "Onwards"
+        },
+        {
+          "type": "paragraph",
+          "content": "As Kuelap evolves with more platforms, the design system will be continuously improved to ensure it remains relevant and effective."
+        }
+      ]
+    },
+    {
       "slug": "valorant-app",
       "id": 12,
       "title": "VALORANT App",
@@ -497,6 +683,310 @@
       ]
     },
     {
+      "slug": "adelle-jewellery",
+      "id": 6,
+      "title": "Adelle Jewellery",
+      "overview": "Adelle is a jewellery e-store with their brand inspired by Kaizen, an ancient japanese wisdom. Itʼs a philosophy that fuels their passion for constant and never-ending improvement in everything they do for excellence.",
+      "role": [
+        {
+          "name": "Front-end Development"
+        }
+      ],
+      "type": "Website",
+      "tools": [
+        {
+          "name": "HTML5"
+        },
+        {
+          "name": "CSS3"
+        },
+        {
+          "name": "jQuery"
+        }
+      ],
+      "link": "http://adellejewellery.com",
+      "link_text": "See It Live",
+      "thumbnail_path": "/adelle-thumb.jpg",
+      "article": [
+        {
+          "type": "h3",
+          "content": "A Little Background"
+        },
+        {
+          "type": "paragraph",
+          "content": "Adelle is a jewellery e-store with their brand inspired by Kaizen, an ancient japanese wisdom. Itʼs a philosophy that fuels their passion for constant and never-ending improvement in everything they do for excellence. Over the years, Adelle Jewellery has tried itʼs best to bring people the perfection of timeless natural diamond beauty within itʼs pieces."
+        },
+        {
+          "type": "h3",
+          "content": "Front End"
+        },
+        {
+          "type": "paragraph",
+          "content": "My role was to wrote the front-end code for this project. Here’s the result:"
+        },
+        {
+          "type": "h4",
+          "content": "Home"
+        },
+        {
+          "type": "paragraph",
+          "content": "The front page of the website. It shows current promotions from Adelle as well as their best selling products and new collections."
+        },
+        {
+          "type": "image-large",
+          "content": "/adelle-image-homepage.jpg",
+          "alt": "Homepage",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Products"
+        },
+        {
+          "type": "paragraph",
+          "content": "This page shows many of their available products, depends on what category that users seek."
+        },
+        {
+          "type": "image-large",
+          "content": "/adelle-image-products.jpg",
+          "alt": "Products",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Product Detail"
+        },
+        {
+          "type": "paragraph",
+          "content": "The details of a product. Users can buy through this page as well as checking the specifications and reviews."
+        },
+        {
+          "type": "image-large",
+          "content": "/adelle-image-product.jpg",
+          "alt": "Product detail",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Login & Register"
+        },
+        {
+          "type": "paragraph",
+          "content": "Users must login first to buy their favourites."
+        },
+        {
+          "type": "image-large",
+          "content": "/adelle-image-loginregister.jpg",
+          "alt": "Login register",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Wishlist"
+        },
+        {
+          "type": "paragraph",
+          "content": "Users can keep their favourites here for later transactions."
+        },
+        {
+          "type": "image-large",
+          "content": "/adelle-image-wishlist.jpg",
+          "alt": "Wishlist",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Page Content"
+        },
+        {
+          "type": "paragraph",
+          "content": "Adelle can generate a page for any content, like an about page."
+        },
+        {
+          "type": "image-large",
+          "content": "/adelle-image-page.jpg",
+          "alt": "Page",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Blog"
+        },
+        {
+          "type": "paragraph",
+          "content": "Where Adelle can share their thoughts."
+        },
+        {
+          "type": "image-large",
+          "content": "/adelle-image-blog.jpg",
+          "alt": "Blog",
+          "label": "-"
+        },
+        {
+          "type": "image-large",
+          "content": "/adelle-image-blogdetail.jpg",
+          "alt": "Blog detail",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Guides"
+        },
+        {
+          "type": "paragraph",
+          "content": "Feel lost? This collection of guides will help you find your way."
+        },
+        {
+          "type": "image-large",
+          "content": "/adelle-image-guide.jpg",
+          "alt": "Guides",
+          "label": "-"
+        }
+      ]
+    },
+    {
+      "slug": "ramayana",
+      "id": 8,
+      "title": "Ramayana",
+      "overview": "Ramayana is one of the most prominent department store in Indonesia, seeking to cater the needs of middle-income to lower-income Indonesian market.",
+      "role": [
+        {
+          "name": "Front-end Development"
+        }
+      ],
+      "type": "Website",
+      "tools": [
+        {
+          "name": "HTML5"
+        },
+        {
+          "name": "CSS3"
+        },
+        {
+          "name": "jQuery"
+        }
+      ],
+      "link": "http://ramayana.co.id",
+      "link_text": "See It Live",
+      "thumbnail_path": "/ramayana-thumb.jpg",
+      "article": [
+        {
+          "type": "h3",
+          "content": "A Little Background"
+        },
+        {
+          "type": "paragraph",
+          "content": "Ramayana is one of the most prominent department store in Indonesia, seeking to cater the needs of middle-income to lower-income Indonesian market."
+        },
+        {
+          "type": "h3",
+          "content": "Front End"
+        },
+        {
+          "type": "paragraph",
+          "content": "My role was to wrote the front-end code for this project. Here’s the result:"
+        },
+        {
+          "type": "h4",
+          "content": "Home"
+        },
+        {
+          "type": "paragraph",
+          "content": "The front page of the website. It shows current promotions from Ramayana as well as their new collections."
+        },
+        {
+          "type": "image-large",
+          "content": "/ramayana-image-homepage.jpg",
+          "alt": "Homepage",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Products"
+        },
+        {
+          "type": "paragraph",
+          "content": "This page shows many of their available products, depends on what category that users seek."
+        },
+        {
+          "type": "image-large",
+          "content": "/ramayana-image-products.jpg",
+          "alt": "Products",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Product Detail"
+        },
+        {
+          "type": "paragraph",
+          "content": "The details of a product. Users can like products through this page as well as checking the specifications."
+        },
+        {
+          "type": "image-large",
+          "content": "/ramayana-image-product.jpg",
+          "alt": "Product detail",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Login & Register"
+        },
+        {
+          "type": "paragraph",
+          "content": "Users must login before they can use their wishlist."
+        },
+        {
+          "type": "image-large",
+          "content": "/ramayana-image-loginregister.jpg",
+          "alt": "Login register",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Profile"
+        },
+        {
+          "type": "paragraph",
+          "content": "Users can update their credentials and access their wishlist here."
+        },
+        {
+          "type": "image-large",
+          "content": "/ramayana-image-profile.jpg",
+          "alt": "Profile",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Wishlist"
+        },
+        {
+          "type": "paragraph",
+          "content": "Where users can keep their favourites."
+        },
+        {
+          "type": "image-large",
+          "content": "/ramayana-image-wishlist.jpg",
+          "alt": "Wishlist",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Page"
+        },
+        {
+          "type": "paragraph",
+          "content": "Ramayana can generate a page for any content, like a video page."
+        },
+        {
+          "type": "image-large",
+          "content": "/ramayana-image-page.jpg",
+          "alt": "Page",
+          "label": "-"
+        }
+      ]
+    },
+    {
       "slug": "self-service-laundry",
       "id": 9,
       "title": "Self-Service Laundry App",
@@ -848,333 +1338,6 @@
         {
           "type": "paragraph",
           "content": "This case study is part of User Research for UX course challenge from UC Berkeley Extension. It’s a challenge that covers the whole 8 week course. Some of the fellow classmates here are also UX field professionals in Bay Area. It was an incredible opportunity that lets me have a conversation about my design to these fellow classmates."
-        }
-      ]
-    },
-    {
-      "slug": "frienemies",
-      "id": 3,
-      "title": "Frienemies",
-      "overview": "Frienemies, to put plainly, means friends and enemies. To us, it means friends who can be rivals. It's the perfect title for the gameplay of this game where every player strives to be the very best. This case study will guide you through the entire process of this mobile game project.",
-      "role": [
-        {
-          "name": "User Research, UI Design, Game Development"
-        }
-      ],
-      "type": "Mobile Game",
-      "tools": [
-        {
-          "name": "Unity"
-        },
-        {
-          "name": "C#"
-        },
-        {
-          "name": "Google Forms & Survey"
-        }
-      ],
-      "link": "https://play.google.com/store/apps/details?id=com.BDCGames.FrienemiesNew",
-      "link_text": "See It Live",
-      "thumbnail_path": "/frienemies-thumb.jpg",
-      "article": [
-        {
-          "type": "paragraph",
-          "content": "Ever heard of Bishi Bashi? A good old party game that can made you destroy your precious controller? The three of us, me, <a href='https://www.linkedin.com/in/dimas-aryo-77748649/' target='_blank'>Dimas</a>, and <a href='https://www.linkedin.com/in/christianto-wijaya-492bb3166/' target='_blank'>Chris</a> were having a blast playing this game. Each of us used to made this game a some kind of fun competition on saturday night with our respective friends."
-        },
-        {
-          "type": "image-small",
-          "content": "/frienemies-image-bishibashi.jpg",
-          "alt": "Bishi bashi",
-          "label": "Okay, not always saturday night. But you get my point."
-        },
-        {
-          "type": "paragraph",
-          "content": "Inspired, we decided to make our undergraduate final project a tribute for this game."
-        },
-        {
-          "type": "h3",
-          "content": "Enter, Frienemies"
-        },
-        {
-          "type": "paragraph",
-          "content": "Frienemies, to put plainly, means <strong>friends and enemies</strong>. To us, it means <strong>friends who can be rivals</strong>. We felt it's the perfect title for the gameplay of this game where every player strives to be the very best (and occasionally beat some newbs while being at it)."
-        },
-        {
-          "type": "h4",
-          "content": "Roles"
-        },
-        {
-          "type": "paragraph",
-          "content": "Three of us done the user research and the overall UI design together. We develop one minigame each results in 3 minigames in total. I was responsible in developing DARUMA SPRINT minigame."
-        },
-        {
-          "type": "h4",
-          "content": "User Research"
-        },
-        {
-          "type": "paragraph",
-          "content": "We started from user research phase. In this phase we use quantitative research by spreading online surveys to <strong>79 participants</strong> who had played a party game. The purpose is to understand their preferences about some elements of the gameplay."
-        },
-        {
-          "type": "image-small",
-          "content": "/frienemies-image-surveycontrol.jpg",
-          "alt": "Survey control",
-          "label": "-"
-        },
-        {
-          "type": "paragraph",
-          "content": "The purpose of this question is to decide the type of controls for our mini games. Most of the participants prefers using <strong>virtual buttons</strong."
-        },
-        {
-          "type": "image-small",
-          "content": "/frienemies-image-surveyduration.jpg",
-          "alt": "Survey duration",
-          "label": "-"
-        },
-        {
-          "type": "paragraph",
-          "content": "The purpose of this question is to decide the overall duration of our mini games. About 48% of the participants prefer <strong>60 seconds</strong>."
-        },
-        {
-          "type": "h4",
-          "content": "Observe"
-        },
-        {
-          "type": "paragraph",
-          "content": "We observe three games with similar genre with Frienemies: <strong>Bishi Bashi</strong>, <strong>Mucho Party</strong>, and <strong>King of Party</strong>."
-        },
-        {
-          "type": "paragraph",
-          "content": "<strong>Bishi Bashi</strong> has 48 mini game available and can be played up to 8 players. There are also AI players for single play. Each mini game has a theme, use speed and precision to achieve scores higher than other players. This game is released for PlayStation 1."
-        },
-        {
-          "type": "image-small",
-          "content": "/frienemies-image-bishibashi2.jpg",
-          "alt": "Bishi bashi",
-          "label": "-"
-        },
-        {
-          "type": "paragraph",
-          "content": "<strong>Mucho Party</strong> has 3 free mini games and a total of 30 mini games if bought. Players must selfie and use their face as the avatar. There are 6 mode available to choose and 50 achievements. Players must use speed and precision to achieve highest score. This game is released for Android and iOS."
-        },
-        {
-          "type": "image-small",
-          "content": "/frienemies-image-muchoparty.jpg",
-          "alt": "Mucho party",
-          "label": "-"
-        },
-        {
-          "type": "paragraph",
-          "content": "<strong>King of Party</strong> is an online party game that use Facebook for player connection. It has 4 default mini games and player can buy more using gem, a currency within the game. Players can also buy item for their custom avatar. It can be played up to 4 players. This game is released for Android and iOS."
-        },
-        {
-          "type": "image-small",
-          "content": "/frienemies-image-kingofparty.jpg",
-          "alt": "King of party",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Decision"
-        },
-        {
-          "type": "ul",
-          "content": "From these research and observations, we decided to made Frienemies:",
-          "list": [
-            {
-              "content": "A mobile party game"
-            },
-            {
-              "content": "Can be played up to 4 players"
-            },
-            {
-              "content": "Cartoonish design"
-            },
-            {
-              "content": "Using virtual buttons as control"
-            },
-            {
-              "content": "Three mini games, each of us develop one"
-            },
-            {
-              "content": "Each mini game with overall duration of 15 to 60 seconds"
-            }
-          ]
-        },
-        {
-          "type": "ol",
-          "content": "As for the mini games, these are the concept that was on our mind.",
-          "list": [
-            {
-              "content": "Tap rapidly kind of game"
-            },
-            {
-              "content": "Bomb passing"
-            },
-            {
-              "content": "Survival running with a Daruma"
-            }
-          ]
-        },
-        {
-          "type": "h4",
-          "content": "Wireframe"
-        },
-        {
-          "type": "paragraph",
-          "content": "After the decision has been made, we sketch the wireframes to have a grasp of how Frienemies would look like."
-        },
-        {
-          "type": "image-large",
-          "content": "/frienemies-image-wireframes.jpg",
-          "alt": "Wireframes",
-          "label": "-"
-        },
-        {
-          "type": "h3",
-          "content": "Result"
-        },
-        {
-          "type": "paragraph",
-          "content": "Here's the end result of the project:"
-        },
-        {
-          "type": "h4",
-          "content": "Main Menu"
-        },
-        {
-          "type": "paragraph",
-          "content": "The first page of the game. Players can configure some settings first, or just directly play."
-        },
-        {
-          "type": "image-small",
-          "content": "/frienemies-image-landing.jpg",
-          "alt": "Main menu",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Tap to Join"
-        },
-        {
-          "type": "paragraph",
-          "content": "If players hit play button, this page is shown. Players who want to join must tap their respective avatar. There will be visual cue for ready players. The positions of the players here will be consistent with player control placements throughout the whole game."
-        },
-        {
-          "type": "image-large",
-          "content": "/frienemies-image-players.jpg",
-          "alt": "Tap to join",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Choose Game"
-        },
-        {
-          "type": "paragraph",
-          "content": "Players can choose one from three mini games they want to play."
-        },
-        {
-          "type": "image-small",
-          "content": "/frienemies-image-gameselection.jpg",
-          "alt": "Choose game",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Tap Tap Rampage"
-        },
-        {
-          "type": "paragraph",
-          "content": "Developed by Chris. Players are given 15 seconds to tap their respective buttons. Each tap will increase their respective powers. Player with the most powers after 15 seconds have passed is the winner."
-        },
-        {
-          "type": "image-large",
-          "content": "/frienemies-image-taprampage.jpg",
-          "alt": "Tap tap rampage",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Pass The Bomb"
-        },
-        {
-          "type": "paragraph",
-          "content": "Developed by Dimas. Players must pass the bomb to the next player after tapping the bomb between one to three times. Tapping will decrease the countdown. Bomb will be passed between players clockwise. The first player to get the bomb is random. The countdown is also random ranging between 15 to 30. Player who had the bomb when the countdown turns zero gets eliminated. The last player standing is the winner."
-        },
-        {
-          "type": "image-large",
-          "content": "/frienemies-image-bombpass.jpg",
-          "alt": "Pass the bomb",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Daruma Sprint"
-        },
-        {
-          "type": "paragraph",
-          "content": "Developed by me. Players must reach the white finish line to win. When moving forward, players must see the direction Daruma is facing. When Daruma faces the players, they must not move. Otherwise it's fine to move. If a player move when Daruma is facing them, they will explode and must start over. The time Daruma takes to face the players is random."
-        },
-        {
-          "type": "image-large",
-          "content": "/frienemies-image-darumasprint.jpg",
-          "alt": "Daruma sprint",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Winners"
-        },
-        {
-          "type": "paragraph",
-          "content": "Shows information on how many win each player has."
-        },
-        {
-          "type": "image-small",
-          "content": "/frienemies-image-winner.jpg",
-          "alt": "Winners",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Options"
-        },
-        {
-          "type": "paragraph",
-          "content": "Players can set sound and music volume here. There are also a choice to hide tutorial for each mini game."
-        },
-        {
-          "type": "image-small",
-          "content": "/frienemies-image-options.jpg",
-          "alt": "options",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Credits"
-        },
-        {
-          "type": "paragraph",
-          "content": "Where we put our names. We wanted to get recognized. We also give credits here for the open source materials we are using for Frienemies."
-        },
-        {
-          "type": "image-small",
-          "content": "/frienemies-image-credits.jpg",
-          "alt": "Credits",
-          "label": "-"
-        },
-        {
-          "type": "h3",
-          "content": "Onwards"
-        },
-        {
-          "type": "paragraph",
-          "content": "Our original plan for Frienemies was to be played as a multiplayer online game. The reason it turns out to be a local multiplayer game was because we don't have much time and resources to develop the online multiplayer feature. We have plans for it, but the feature won't be available in the foreseeable future."
-        },
-        {
-          "type": "paragraph",
-          "content": "That being said, we were happy with how the game turns out and it was a fun experience developing the game. We got to learn how design and develop a mobile game from the ground up, and to finally publish it online."
         }
       ]
     },
