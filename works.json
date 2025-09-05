@@ -105,7 +105,7 @@
               "content": "Typography: Font styles, sizes, and spacing guidelines for various use cases."
             },
             {
-              "content": "Typography: Font styles, sizes, and spacing guidelines for various use cases."
+              "content": "Icons: A unified iconography set with consistent sizing, line weights, and alignment."
             }
           ]
         },
@@ -175,6 +175,32 @@
               "content": "<strong>Handling fear of change:</strong> Implementing a new design system can disrupt teams that are accustomed to established workflows. Managing the transition and offering sufficient support and resources to help teams adjust to the new system is key to overcome this challenge."
             }
           ]
+        },
+        {
+          "type": "h4",
+          "content": "Implementation"
+        },
+        {
+          "type": "paragraph",
+          "content": "With the design system ready, we implemented the styles and components to our platforms with various phases to ensure smooth transition to the new designs. Eventually, we will implement the styles and components to all of Kuelap's platforms."
+        },
+        {
+          "type": "image-large",
+          "content": "/kuelap-new-cbs.jpg",
+          "alt": "Core Banking System",
+          "label": "Core Banking System, styles and components implemented"
+        },
+        {
+          "type": "image-large",
+          "content": "/kuelap-new-msa.jpg",
+          "alt": "Member Service Application",
+          "label": "Member Service Application, styles implemented"
+        },
+        {
+          "type": "image-large",
+          "content": "/kuelap-new-octo.jpg",
+          "alt": "Octo Mobile",
+          "label": "Octo Mobile, styles and components implemented"
         },
         {
           "type": "h4",
