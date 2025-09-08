@@ -1,6 +1,242 @@
 {
   "results": [
     {
+      "slug": "legalisasi-indonesia",
+      "id": 14,
+      "title": "Legalisasi Indonesia",
+      "overview": "Legalisasi Indonesia is a Jakarta-based legal consultancy specializing in LLC (PT) creation, business licensing, virtual office, and compliance services for startups, SMEs, and international investors entering the Indonesian market. I was the UI designer and web developer, in a team with a project manager and a copywriter, tasked to revamp their existing website.",
+      "role": [
+        {
+          "name": "UI Design"
+        },
+        {
+          "name": "Front-end Development"
+        },
+        {
+          "name": "WordPress Development"
+        }
+      ],
+      "type": "Website",
+      "tools": [
+        {
+          "name": "Figma"
+        },
+        {
+          "name": "FigJam"
+        },
+        {
+          "name": "HTML5"
+        },
+        {
+          "name": "LESS/CSS3"
+        },
+        {
+          "name": "JavaScript"
+        },
+        {
+          "name": "WordPress CMS"
+        },
+        {
+          "name": "information Architecture"
+        },
+        {
+          "name": "UI Prototyping"
+        },
+        {
+          "name": "Usability Testing"
+        }
+      ],
+      "link": "https://legalisasi.com/",
+      "link_text": "See it Live",
+      "thumbnail_path": "/legalisasi-home-about-services.jpg",
+      "article": [
+        {
+          "type": "h4",
+          "content": "Project Overview"
+        },
+        {
+          "type": "paragraph",
+          "content": "Legalisasi Indonesia is a Jakarta-based legal consultancy specializing in LLC (PT) creation, business licensing, virtual office, and compliance services for startups, SMEs, and international investors entering the Indonesian market. I was the UI designer and web developer, in a team with a project manager and a copywriter, tasked to revamp their existing website."
+        },
+        {
+          "type": "paragraph",
+          "content": "Their previous website was outdated, lacked clarity in service offerings, and failed to communicate trustworthiness, which is critical in the legal industry. The goal was to design a modern, professional, and accessible company profile website that builds client confidence and generates leads."
+        },
+        {
+          "type": "h4",
+          "content": "Problem Statement"
+        },
+        {
+          "type": "image-small",
+          "content": "/legalisasi-old.jpg",
+          "alt": "Previous Legalisasi Website",
+          "label": "Previous Legalisasi Website"
+        },
+        {
+          "type": "ul",
+          "content": "The old website had several shortcomings:",
+          "list": [
+            {
+              "content": "Complex navigation that confused potential clients."
+            },
+            {
+              "content": "The layout lacks hierarchy and consistency, which makes navigation and content consumption difficult for users."
+            },
+            {
+              "content": "Generic design that failed to convey authority and trust."
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "content": "Design goals:",
+          "list": [
+            {
+              "content": "Simplify navigation and content structure."
+            },
+            {
+              "content": "Establish a professional and trustworthy visual identity."
+            },
+            {
+              "content": "Highlight the firm’s expertise in LLC creation and compliance."
+            },
+            {
+              "content": "Drive conversions with clear calls-to-action (texting via WhatsApp)"
+            }
+          ]
+        },
+        {
+          "type": "h4",
+          "content": "Research & Discovery"
+        },
+        {
+          "type": "paragraph",
+          "content": "We analyzed competitor websites (regional and international legal consultancies)."
+        },
+        {
+          "type": "image-small",
+          "content": "/legalisasi-references.jpg",
+          "alt": "",
+          "label": ""
+        },
+        {
+          "type": "ul",
+          "content": "Key insights:",
+          "list": [
+            {
+              "content": "Users expect clarity, credibility, and reassurance when choosing a legal service provider."
+            },
+            {
+              "content": "Simple language, trust badges (certifications, testimonials), and structured service breakdowns improve conversion."
+            },
+            {
+              "content": "Clear call to actions to connect are critical."
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "content": "Stakeholder interviews also revealed their target audience:",
+          "list": [
+            {
+              "content": "Entrepreneurs & SMEs needing fast LLC setup."
+            },
+            {
+              "content": "Foreign investors requiring guidance on regulations."
+            },
+            {
+              "content": "Established companies seeking compliance and licensing support."
+            }
+          ]
+        },
+        {
+          "type": "h4",
+          "content": "Information Architecture & Wireframes"
+        },
+        {
+          "type": "image-small",
+          "content": "/legalisasi-website-structure.jpg",
+          "alt": "Website Structure",
+          "label": "Website Structure"
+        },
+        {
+          "type": "paragraph",
+          "content": "The website structure is focused on the services provided, trust-building elements (logos of partners, testimonials, legal credentials), and conversion opportunities on every page. Once the structure is established, I started designing the low-fidelity wireframes of the 3 main pages (Home, About Us, Services) using FigJam for stakeholder approval."
+        },
+        {
+          "type": "image-large",
+          "content": "/legalisasi-wireframe.jpg",
+          "alt": "Legalisasi Wireframes",
+          "label": "Legalisasi Wireframes"
+        },
+        {
+          "type": "h4",
+          "content": "Final Designs"
+        },
+        {
+          "type": "paragraph",
+          "content": "Here are the final designs for all the pages. I use the <a href='https://bulma.io/' target='_blank'>Bulma Design System</a> for a quick and easy design layout process."
+        },
+        {
+          "type": "image-large",
+          "content": "/legalisasi-home-about-services.jpg",
+          "alt": "Home, About, and Services",
+          "label": ""
+        },
+        {
+          "type": "image-large",
+          "content": "/legalisasi-insight.jpg",
+          "alt": "Insight Pages",
+          "label": ""
+        },
+        {
+          "type": "image-large",
+          "content": "/legalisasi-testimonials-faqs.jpg",
+          "alt": "Testimonials and FAQs",
+          "label": ""
+        },
+        {
+          "type": "h4",
+          "content": "Development & Implementation"
+        },
+        {
+          "type": "paragraph",
+          "content": "I built a custom-made WordPress theme from scratch using <a href='https://bulma.io/' target='_blank'>Bulma CSS Framework</a>. The theme was designed to allow the client to update all the website content with ease. Also, since the final design was built with Bulma as its design system, moving on to the development phase ensured a seamless transition."
+        },
+        {
+          "type": "paragraph",
+          "content": "The website is fully responsive for desktop, tablet, and mobile."
+        },
+        {
+          "type": "paragraph",
+          "content": "<a href='https://legalisasi.com/' target='_blank'>Click to see the live website.</a>"
+        },
+        {
+          "type": "h4",
+          "content": "Outcome"
+        },
+        {
+          "type": "paragraph",
+          "content": "The redesigned website positioned Legalisasi Indonesia as a credible, modern, and client-focused legal partner."
+        },
+        {
+          "type": "ul",
+          "content": "Key outcomes:",
+          "list": [
+            {
+              "content": "Clearer navigation and content structure."
+            },
+            {
+              "content": "Improved visual branding reflecting authority and trust."
+            },
+            {
+              "content": "Lead generation process via WhatsApp text."
+            }
+          ]
+        }
+      ]
+    },
+    {
       "slug": "kuelap-design-system",
       "id": 13,
       "title": "Kuelap Design System",
@@ -709,168 +945,6 @@
       ]
     },
     {
-      "slug": "adelle-jewellery",
-      "id": 6,
-      "title": "Adelle Jewellery",
-      "overview": "Adelle is a jewellery e-store with their brand inspired by Kaizen, an ancient japanese wisdom. Itʼs a philosophy that fuels their passion for constant and never-ending improvement in everything they do for excellence.",
-      "role": [
-        {
-          "name": "Front-end Development"
-        }
-      ],
-      "type": "Website",
-      "tools": [
-        {
-          "name": "HTML5"
-        },
-        {
-          "name": "CSS3"
-        },
-        {
-          "name": "jQuery"
-        }
-      ],
-      "link": "http://adellejewellery.com",
-      "link_text": "See It Live",
-      "thumbnail_path": "/adelle-thumb.jpg",
-      "article": [
-        {
-          "type": "h3",
-          "content": "A Little Background"
-        },
-        {
-          "type": "paragraph",
-          "content": "Adelle is a jewellery e-store with their brand inspired by Kaizen, an ancient japanese wisdom. Itʼs a philosophy that fuels their passion for constant and never-ending improvement in everything they do for excellence. Over the years, Adelle Jewellery has tried itʼs best to bring people the perfection of timeless natural diamond beauty within itʼs pieces."
-        },
-        {
-          "type": "h3",
-          "content": "Front End"
-        },
-        {
-          "type": "paragraph",
-          "content": "My role was to wrote the front-end code for this project. Here’s the result:"
-        },
-        {
-          "type": "h4",
-          "content": "Home"
-        },
-        {
-          "type": "paragraph",
-          "content": "The front page of the website. It shows current promotions from Adelle as well as their best selling products and new collections."
-        },
-        {
-          "type": "image-large",
-          "content": "/adelle-image-homepage.jpg",
-          "alt": "Homepage",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Products"
-        },
-        {
-          "type": "paragraph",
-          "content": "This page shows many of their available products, depends on what category that users seek."
-        },
-        {
-          "type": "image-large",
-          "content": "/adelle-image-products.jpg",
-          "alt": "Products",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Product Detail"
-        },
-        {
-          "type": "paragraph",
-          "content": "The details of a product. Users can buy through this page as well as checking the specifications and reviews."
-        },
-        {
-          "type": "image-large",
-          "content": "/adelle-image-product.jpg",
-          "alt": "Product detail",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Login & Register"
-        },
-        {
-          "type": "paragraph",
-          "content": "Users must login first to buy their favourites."
-        },
-        {
-          "type": "image-large",
-          "content": "/adelle-image-loginregister.jpg",
-          "alt": "Login register",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Wishlist"
-        },
-        {
-          "type": "paragraph",
-          "content": "Users can keep their favourites here for later transactions."
-        },
-        {
-          "type": "image-large",
-          "content": "/adelle-image-wishlist.jpg",
-          "alt": "Wishlist",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Page Content"
-        },
-        {
-          "type": "paragraph",
-          "content": "Adelle can generate a page for any content, like an about page."
-        },
-        {
-          "type": "image-large",
-          "content": "/adelle-image-page.jpg",
-          "alt": "Page",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Blog"
-        },
-        {
-          "type": "paragraph",
-          "content": "Where Adelle can share their thoughts."
-        },
-        {
-          "type": "image-large",
-          "content": "/adelle-image-blog.jpg",
-          "alt": "Blog",
-          "label": "-"
-        },
-        {
-          "type": "image-large",
-          "content": "/adelle-image-blogdetail.jpg",
-          "alt": "Blog detail",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Guides"
-        },
-        {
-          "type": "paragraph",
-          "content": "Feel lost? This collection of guides will help you find your way."
-        },
-        {
-          "type": "image-large",
-          "content": "/adelle-image-guide.jpg",
-          "alt": "Guides",
-          "label": "-"
-        }
-      ]
-    },
-    {
       "slug": "ramayana",
       "id": 8,
       "title": "Ramayana",
@@ -1369,7 +1443,7 @@
     },
     {
       "slug": "design-showcase",
-      "id": 13,
+      "id": 14,
       "title": "Design Showcase",
       "overview": "This part will showcases some design explorations I've done across the years. I had fun doing these.",
       "role": [
