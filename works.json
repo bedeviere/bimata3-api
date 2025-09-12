@@ -1448,7 +1448,7 @@
       "overview": "This part will showcases some design explorations I've done across the years. I had fun doing these.",
       "role": [
         {
-          "name": "Whatever I want"
+          "name": "Whatever I do"
         }
       ],
       "type": "Anything I want",
@@ -1474,10 +1474,10 @@
           "content": "These are user interface explorations I’ve worked on over the years. Some might offer solutions to real world problems, even if they may never see light of the day."
         },
         {
-          "type": "image-small",
-          "content": "/showcase-egghub.jpg",
-          "alt": "Egghub",
-          "label": "Egghub"
+          "type": "image-large",
+          "content": "/showcase-blitzwallet-app.jpg",
+          "alt": "BlitzWallet",
+          "label": "BlitzWallet"
         },
         {
           "type": "image-large",
@@ -1486,7 +1486,7 @@
           "label": "FicFeed Design System"
         },
         {
-          "type": "image-small",
+          "type": "image-large",
           "content": "/showcase-ficfeed-app.jpg",
           "alt": "FicFeed App",
           "label": "FicFeed App"
@@ -1504,19 +1504,19 @@
           "label": "Wallfine Dashboard"
         },
         {
-          "type": "image-small",
-          "content": "/showcase-ard.jpg",
-          "alt": "ARD Design Website",
-          "label": "ARD Design Website"
+          "type": "image-large",
+          "content": "/showcase-egghub.jpg",
+          "alt": "Egghub",
+          "label": "Egghub"
         },
         {
-          "type": "image-small",
+          "type": "image-large",
           "content": "/showcase-storywork.jpg",
           "alt": "My Storywork",
           "label": "My Storywork"
         },
         {
-          "type": "image-small",
+          "type": "image-large",
           "content": "/showcase-inlive-class.jpg",
           "alt": "In Live Remote Class",
           "label": "In Live Remote Class"
