@@ -2,7 +2,7 @@
   "results": [
     {
       "slug": "legalisasi-indonesia",
-      "id": 14,
+      "id": 15,
       "title": "Legalisasi Indonesia",
       "overview": "Legalisasi Indonesia is a Jakarta-based legal consultancy specializing in LLC (PT) creation, business licensing, virtual office, and compliance services for startups, SMEs, and international investors entering the Indonesian market. I was the UI designer and web developer, in a team with a project manager and a copywriter, tasked to revamp their existing website.",
       "role": [
@@ -37,7 +37,7 @@
           "name": "WordPress CMS"
         },
         {
-          "name": "information Architecture"
+          "name": "Information Architecture"
         },
         {
           "name": "UI Prototyping"
@@ -48,7 +48,7 @@
       ],
       "link": "https://legalisasi.com/",
       "link_text": "See it Live",
-      "thumbnail_path": "/legalisasi-home-about-services.jpg",
+      "thumbnail_path": "/legalisasi-thumb.jpg",
       "article": [
         {
           "type": "h4",
@@ -179,8 +179,20 @@
         },
         {
           "type": "image-large",
-          "content": "/legalisasi-home-about-services.jpg",
-          "alt": "Home, About, and Services",
+          "content": "/legalisasi-home.jpg",
+          "alt": "Home Page",
+          "label": ""
+        },
+        {
+          "type": "image-large",
+          "content": "/legalisasi-about.jpg",
+          "alt": "About Page",
+          "label": ""
+        },
+        {
+          "type": "image-large",
+          "content": "/legalisasi-services.jpg",
+          "alt": "Services Page",
           "label": ""
         },
         {
@@ -233,6 +245,266 @@
               "content": "Lead generation process via WhatsApp text."
             }
           ]
+        }
+      ]
+    },
+    {
+      "slug": "ard-design",
+      "id": 16,
+      "title": "ARD Design",
+      "overview": "ARD Design is an Indonesian architecture consultancy specializing in residential, commercial, and institutional projects. Their work is renowned for blending modern functionality with natural and cultural contexts. They approached me to redesign their company profile website to showcase their portfolio better, highlight their design philosophy, and make it easier for potential clients to connect with them.",
+      "role": [
+        {
+          "name": "UI Design"
+        },
+        {
+          "name": "Front-end Development"
+        },
+        {
+          "name": "WordPress Development"
+        },
+        {
+          "name": "Copywriting"
+        }
+      ],
+      "type": "Website",
+      "tools": [
+        {
+          "name": "Figma"
+        },
+        {
+          "name": "FigJam"
+        },
+        {
+          "name": "HTML5"
+        },
+        {
+          "name": "LESS/CSS3"
+        },
+        {
+          "name": "JavaScript"
+        },
+        {
+          "name": "WordPress CMS"
+        },
+        {
+          "name": "Information Architecture"
+        },
+        {
+          "name": "UI Prototyping"
+        },
+        {
+          "name": "Usability Testing"
+        }
+      ],
+      "link": "https://ard-design.co.id/",
+      "link_text": "See it Live",
+      "thumbnail_path": "/ard3-home.jpg",
+      "article": [
+        {
+          "type": "h4",
+          "content": "Project Overview"
+        },
+        {
+          "type": "paragraph",
+          "content": "ARD Design is an Indonesian architecture consultancy specializing in residential, commercial, and institutional projects. Their work is renowned for blending modern functionality with natural and cultural contexts. They approached me to redesign their company profile website to showcase their portfolio better, highlight their design philosophy, and make it easier for potential clients to connect with them."
+        },
+        {
+          "type": "h4",
+          "content": "Problem Statement"
+        },
+        {
+          "type": "image-small",
+          "content": "/ard3-previous.jpg",
+          "alt": "Previous ARD Design Website",
+          "label": "Previous ARD Design Website"
+        },
+        {
+          "type": "paragraph",
+          "content": "The old website, while having a modern, visual-heavy look already, was lacking meaningful content. There were unused parts of the website and some portfolios were left with no story behind them. The website failed to represent the sophistication and creativity of their work, which hurt credibility with potential clients."
+        },
+        {
+          "type": "ul",
+          "content": "Design goals:",
+          "list": [
+            {
+              "content": "Create a modern, professional look aligned with the firm’s brand."
+            },
+            {
+              "content": "Showcase projects in a visually compelling way."
+            },
+            {
+              "content": "Simplify navigation and information hierarchy."
+            },
+            {
+              "content": "Strengthen brand storytelling through design and content."
+            }
+          ]
+        },
+        {
+          "type": "h4",
+          "content": "Research & Discovery"
+        },
+        {
+          "type": "ol",
+          "content": "I began with stakeholder interviews to understand the firm’s identity and values. Their main audiences and clientele were:",
+          "list": [
+            {
+              "content": "Property developers."
+            },
+            {
+              "content": "Corporate clients."
+            },
+            {
+              "content": "State-owned enterprises."
+            },
+            {
+              "content": "Individual homeowners seeking bespoke design."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "I also conducted a competitor review of other architecture firms."
+        },
+        {
+          "type": "image-small",
+          "content": "/ard3-references.jpg",
+          "alt": "",
+          "label": ""
+        },
+        {
+          "type": "ul",
+          "content": "Key insights:",
+          "list": [
+            {
+              "content": "Strong visuals (project photography and artifacts) are essential."
+            },
+            {
+              "content": "Clear service breakdown builds client trust."
+            },
+            {
+              "content": "Easy contact access drives inquiries."
+            }
+          ]
+        },
+        {
+          "type": "h4",
+          "content": "Design Strategy"
+        },
+        {
+          "type": "ol",
+          "content": "I built the design around three core principles:",
+          "list": [
+            {
+              "content": "Visual storytelling: large imagery and curated project showcases."
+            },
+            {
+              "content": "Clarity: simplified navigation with a focus on “Home,” “Works,” and “About Us.”"
+            },
+            {
+              "content": "Professional credibility: minimalist layouts, refined typography, and balanced white space."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "The brand’s color palette (black and brown with orange accents) reinforced closeness with nature. Typography was chosen for readability and elegance, pairing a condensed sans serif with a modern sans serif."
+        },
+        {
+          "type": "h4",
+          "content": "Information Architecture & Wireframes"
+        },
+        {
+          "type": "image-small",
+          "content": "/ard3-website-structure.jpg",
+          "alt": "Website Structure",
+          "label": "Website Structure"
+        },
+        {
+          "type": "paragraph",
+          "content": "Wireframes focused on prioritizing imagery and guiding users toward key CTAs such as “Explore Works” and “Contact Us.”"
+        },
+        {
+          "type": "image-large",
+          "content": "/ard3-wireframe.jpg",
+          "alt": "ARD Design Wireframes",
+          "label": "ARD Design Wireframes"
+        },
+        {
+          "type": "h4",
+          "content": "Final Designs"
+        },
+        {
+          "type": "paragraph",
+          "content": "Here are the final designs for all the pages. I use the Bulma Design System for a quick and easy design layout process."
+        },
+        {
+          "type": "image-large",
+          "content": "/ard3-home.jpg",
+          "alt": "Home Page",
+          "label": ""
+        },
+        {
+          "type": "image-large",
+          "content": "/ard3-works.jpg",
+          "alt": "Works & Work Page",
+          "label": ""
+        },
+        {
+          "type": "image-large",
+          "content": "/ard3-about.jpg",
+          "alt": "About Page",
+          "label": ""
+        },
+        {
+          "type": "image-large",
+          "content": "/ard3-culture-contact.jpg",
+          "alt": "Culture & Contact Page",
+          "label": ""
+        },
+        {
+          "type": "h4",
+          "content": "Development & Implementation"
+        },
+        {
+          "type": "paragraph",
+          "content": "The site was built on WordPress CMS with a custom-made theme for easy updates by the client. I use Bulma CSS Framework to ensure compatibility and seamless transition from the final design. Responsive design ensured seamless viewing across desktop, tablet, and mobile. Accessibility was addressed through proper contrast ratios, alt text for images, and keyboard-friendly navigation."
+        },
+        {
+          "type": "paragraph",
+          "content": "The website is fully responsive for desktop, tablet, and mobile."
+        },
+        {
+          "type": "paragraph",
+          "content": "<a href='https://ard-design.co.id/' target='_blank'>Click to see the live website.</a>"
+        },
+        {
+          "type": "h4",
+          "content": "Final Outcome"
+        },
+        {
+          "type": "paragraph",
+          "content": "The redesigned website positioned ARD Design as a modern, credible, and client-focused consultant."
+        },
+        {
+          "type": "ul",
+          "content": "Key changes:",
+          "list": [
+            {
+              "content": "A visually engaging project portfolio."
+            },
+            {
+              "content": "Clearer service presentation."
+            },
+            {
+              "content": "Stronger brand storytelling."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "The client appreciated how the website now reflected the quality of their work, making it easier to attract new clients."
         }
       ]
     },
@@ -941,148 +1213,6 @@
         {
           "type": "highlight",
           "content": "DISCLAIMER: I don’t work for Riot Games or have any affiliation with Riot Games at all. The main goal of this case study is to blend my passion for VALORANT with everything I have learned as a UX/UI Designer."
-        }
-      ]
-    },
-    {
-      "slug": "ramayana",
-      "id": 8,
-      "title": "Ramayana",
-      "overview": "Ramayana is one of the most prominent department store in Indonesia, seeking to cater the needs of middle-income to lower-income Indonesian market.",
-      "role": [
-        {
-          "name": "Front-end Development"
-        }
-      ],
-      "type": "Website",
-      "tools": [
-        {
-          "name": "HTML5"
-        },
-        {
-          "name": "CSS3"
-        },
-        {
-          "name": "jQuery"
-        }
-      ],
-      "link": "http://ramayana.co.id",
-      "link_text": "See It Live",
-      "thumbnail_path": "/ramayana-thumb.jpg",
-      "article": [
-        {
-          "type": "h3",
-          "content": "A Little Background"
-        },
-        {
-          "type": "paragraph",
-          "content": "Ramayana is one of the most prominent department store in Indonesia, seeking to cater the needs of middle-income to lower-income Indonesian market."
-        },
-        {
-          "type": "h3",
-          "content": "Front End"
-        },
-        {
-          "type": "paragraph",
-          "content": "My role was to wrote the front-end code for this project. Here’s the result:"
-        },
-        {
-          "type": "h4",
-          "content": "Home"
-        },
-        {
-          "type": "paragraph",
-          "content": "The front page of the website. It shows current promotions from Ramayana as well as their new collections."
-        },
-        {
-          "type": "image-large",
-          "content": "/ramayana-image-homepage.jpg",
-          "alt": "Homepage",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Products"
-        },
-        {
-          "type": "paragraph",
-          "content": "This page shows many of their available products, depends on what category that users seek."
-        },
-        {
-          "type": "image-large",
-          "content": "/ramayana-image-products.jpg",
-          "alt": "Products",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Product Detail"
-        },
-        {
-          "type": "paragraph",
-          "content": "The details of a product. Users can like products through this page as well as checking the specifications."
-        },
-        {
-          "type": "image-large",
-          "content": "/ramayana-image-product.jpg",
-          "alt": "Product detail",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Login & Register"
-        },
-        {
-          "type": "paragraph",
-          "content": "Users must login before they can use their wishlist."
-        },
-        {
-          "type": "image-large",
-          "content": "/ramayana-image-loginregister.jpg",
-          "alt": "Login register",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Profile"
-        },
-        {
-          "type": "paragraph",
-          "content": "Users can update their credentials and access their wishlist here."
-        },
-        {
-          "type": "image-large",
-          "content": "/ramayana-image-profile.jpg",
-          "alt": "Profile",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Wishlist"
-        },
-        {
-          "type": "paragraph",
-          "content": "Where users can keep their favourites."
-        },
-        {
-          "type": "image-large",
-          "content": "/ramayana-image-wishlist.jpg",
-          "alt": "Wishlist",
-          "label": "-"
-        },
-        {
-          "type": "h4",
-          "content": "Page"
-        },
-        {
-          "type": "paragraph",
-          "content": "Ramayana can generate a page for any content, like a video page."
-        },
-        {
-          "type": "image-large",
-          "content": "/ramayana-image-page.jpg",
-          "alt": "Page",
-          "label": "-"
         }
       ]
     },

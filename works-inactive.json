@@ -1508,6 +1508,148 @@
       ]
     },
     {
+      "slug": "ramayana",
+      "id": 8,
+      "title": "Ramayana",
+      "overview": "Ramayana is one of the most prominent department store in Indonesia, seeking to cater the needs of middle-income to lower-income Indonesian market.",
+      "role": [
+        {
+          "name": "Front-end Development"
+        }
+      ],
+      "type": "Website",
+      "tools": [
+        {
+          "name": "HTML5"
+        },
+        {
+          "name": "CSS3"
+        },
+        {
+          "name": "jQuery"
+        }
+      ],
+      "link": "http://ramayana.co.id",
+      "link_text": "See It Live",
+      "thumbnail_path": "/ramayana-thumb.jpg",
+      "article": [
+        {
+          "type": "h3",
+          "content": "A Little Background"
+        },
+        {
+          "type": "paragraph",
+          "content": "Ramayana is one of the most prominent department store in Indonesia, seeking to cater the needs of middle-income to lower-income Indonesian market."
+        },
+        {
+          "type": "h3",
+          "content": "Front End"
+        },
+        {
+          "type": "paragraph",
+          "content": "My role was to wrote the front-end code for this project. Here’s the result:"
+        },
+        {
+          "type": "h4",
+          "content": "Home"
+        },
+        {
+          "type": "paragraph",
+          "content": "The front page of the website. It shows current promotions from Ramayana as well as their new collections."
+        },
+        {
+          "type": "image-large",
+          "content": "/ramayana-image-homepage.jpg",
+          "alt": "Homepage",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Products"
+        },
+        {
+          "type": "paragraph",
+          "content": "This page shows many of their available products, depends on what category that users seek."
+        },
+        {
+          "type": "image-large",
+          "content": "/ramayana-image-products.jpg",
+          "alt": "Products",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Product Detail"
+        },
+        {
+          "type": "paragraph",
+          "content": "The details of a product. Users can like products through this page as well as checking the specifications."
+        },
+        {
+          "type": "image-large",
+          "content": "/ramayana-image-product.jpg",
+          "alt": "Product detail",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Login & Register"
+        },
+        {
+          "type": "paragraph",
+          "content": "Users must login before they can use their wishlist."
+        },
+        {
+          "type": "image-large",
+          "content": "/ramayana-image-loginregister.jpg",
+          "alt": "Login register",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Profile"
+        },
+        {
+          "type": "paragraph",
+          "content": "Users can update their credentials and access their wishlist here."
+        },
+        {
+          "type": "image-large",
+          "content": "/ramayana-image-profile.jpg",
+          "alt": "Profile",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Wishlist"
+        },
+        {
+          "type": "paragraph",
+          "content": "Where users can keep their favourites."
+        },
+        {
+          "type": "image-large",
+          "content": "/ramayana-image-wishlist.jpg",
+          "alt": "Wishlist",
+          "label": "-"
+        },
+        {
+          "type": "h4",
+          "content": "Page"
+        },
+        {
+          "type": "paragraph",
+          "content": "Ramayana can generate a page for any content, like a video page."
+        },
+        {
+          "type": "image-large",
+          "content": "/ramayana-image-page.jpg",
+          "alt": "Page",
+          "label": "-"
+        }
+      ]
+    },
+    {
       "slug": "metakom",
       "id": 4,
       "title": "Metakom",
