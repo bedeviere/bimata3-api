@@ -469,7 +469,7 @@
         },
         {
           "type": "paragraph",
-          "content": "The site was built on WordPress CMS with a custom-made theme for easy updates by the client. I use Bulma CSS Framework to ensure compatibility and seamless transition from the final design. Responsive design ensured seamless viewing across desktop, tablet, and mobile. Accessibility was addressed through proper contrast ratios, alt text for images, and keyboard-friendly navigation."
+          "content": "The site was built on WordPress CMS with a custom-made theme for easy updates by the client. I use Bulma CSS Framework to ensure compatibility and seamless transition from the final design. Responsive design ensured seamless viewing across desktop, tablet, and mobile. Accessibility was addressed through proper contrast ratios and alt text for images."
         },
         {
           "type": "paragraph",
