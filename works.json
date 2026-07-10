@@ -1,250 +1,218 @@
 {
   "results": [
     {
-      "slug": "legalisasi-indonesia",
-      "id": 15,
-      "title": "Legalisasi Indonesia",
-      "overview": "Legalisasi Indonesia is a Jakarta-based legal consultancy specializing in LLC (PT) creation, business licensing, virtual office, and compliance services for startups, SMEs, and international investors entering the Indonesian market. I was the UI designer and web developer, in a team with a project manager and a copywriter, tasked to revamp their existing website.",
+      "slug": "kuelap-design-system",
+      "id": 13,
+      "title": "Kuelap Design System",
+      "overview": "Built and evolved Kuelap’s reusable design system that leads to:<ul class='list-bullet'><li>Accelerated feature delivery through reusable UI components.</li><li>Reduced inconsistencies between design and implementation by standardizing components.</li><li>Improved visual consistency across multiple products and platforms.</li>",
       "role": [
         {
           "name": "UI Design"
         },
         {
-          "name": "Front-end Development"
-        },
-        {
-          "name": "WordPress Development"
+          "name": "UI Components Design"
         }
       ],
-      "type": "Website",
+      "type": "Design System",
       "tools": [
         {
           "name": "Figma"
         },
         {
-          "name": "FigJam"
-        },
-        {
-          "name": "HTML5"
-        },
-        {
-          "name": "LESS/CSS3"
-        },
-        {
-          "name": "JavaScript"
-        },
-        {
-          "name": "WordPress CMS"
-        },
-        {
-          "name": "Information Architecture"
-        },
-        {
-          "name": "UI Prototyping"
-        },
-        {
-          "name": "Usability Testing"
+          "name": "Desk Research"
         }
       ],
-      "link": "https://legalisasi.com/",
-      "link_text": "See it Live",
-      "thumbnail_path": "/legalisasi-thumb.jpg",
+      "link": "",
+      "link_text": "",
+      "thumbnail_path": "/kuelap-design-system.jpg",
       "article": [
         {
+          "type": "paragraph",
+          "content": "Kuelap provides tech banking solutions mainly for micro, small, and medium enterprises. As their platforms grew, it became clear that design inconsistencies across different products were negatively impacting the user experience and making it difficult for new designers and developers to quickly integrate and contribute to the team."
+        },
+        {
           "type": "h4",
-          "content": "Project Overview"
+          "content": "Background"
+        },
+        {
+          "type": "ol",
+          "content": "When I joined Kuelap, the company was already managing three distinct platforms, each with unique functionality and designed for different devices:",
+          "list": [
+            {
+              "content": "Core Banking System (CBS), on desktop browser, to manage co-op banking system."
+            },
+            {
+              "content": "Member Service Application (MSA), on tablet, for co-op members administration."
+            },
+            {
+              "content": "Octo Mobile, on mobile, for self-service banking by co-op members."
+            }
+          ]
         },
         {
           "type": "paragraph",
-          "content": "Legalisasi Indonesia is a Jakarta-based legal consultancy specializing in LLC (PT) creation, business licensing, virtual office, and compliance services for startups, SMEs, and international investors entering the Indonesian market. I was the UI designer and web developer, in a team with a project manager and a copywriter, tasked to revamp their existing website."
-        },
-        {
-          "type": "paragraph",
-          "content": "Their previous website was outdated, lacked clarity in service offerings, and failed to communicate trustworthiness, which is critical in the legal industry. The goal was to design a modern, professional, and accessible company profile website that builds client confidence and generates leads."
+          "content": "Each of these three platforms also have their own style and color scheme. I was tasked with contributing to a scalable and consistent design system to streamline the design between existing and future platforms, ensuring brand consistency and improving collaboration between design and development teams."
         },
         {
           "type": "h4",
           "content": "Problem Statement"
         },
         {
-          "type": "image-small",
-          "content": "/legalisasi-old.jpg",
-          "alt": "Previous Legalisasi Website",
-          "label": "Previous Legalisasi Website"
-        },
-        {
           "type": "ul",
-          "content": "The old website had several shortcomings:",
+          "content": "The lack of a unified design system led to inconsistencies across the product interface. Each designer and developer often recreated similar components, which resulted in:",
           "list": [
             {
-              "content": "Complex navigation that confused potential clients."
+              "content": "Inconsistent UI elements across various parts of the product."
             },
             {
-              "content": "The layout lacks hierarchy and consistency, which makes navigation and content consumption difficult for users."
-            },
-            {
-              "content": "Generic design that failed to convey authority and trust."
+              "content": "Redundant design efforts and code duplication."
             }
           ]
-        },
-        {
-          "type": "ul",
-          "content": "Design goals:",
-          "list": [
-            {
-              "content": "Simplify navigation and content structure."
-            },
-            {
-              "content": "Establish a professional and trustworthy visual identity."
-            },
-            {
-              "content": "Highlight the firm’s expertise in LLC creation and compliance."
-            },
-            {
-              "content": "Drive conversions with clear calls-to-action (texting via WhatsApp)"
-            }
-          ]
-        },
-        {
-          "type": "h4",
-          "content": "Research & Discovery"
-        },
-        {
-          "type": "paragraph",
-          "content": "We analyzed competitor websites (regional and international legal consultancies)."
         },
         {
           "type": "image-small",
-          "content": "/legalisasi-references.jpg",
-          "alt": "",
+          "content": "/kuelap-old-designs.png",
+          "alt": "Old Designs",
           "label": ""
         },
         {
-          "type": "ul",
-          "content": "Key insights:",
-          "list": [
-            {
-              "content": "Users expect clarity, credibility, and reassurance when choosing a legal service provider."
-            },
-            {
-              "content": "Simple language, trust badges (certifications, testimonials), and structured service breakdowns improve conversion."
-            },
-            {
-              "content": "Clear call to actions to connect are critical."
-            }
-          ]
+          "type": "h4",
+          "content": "Audit & Research"
         },
         {
           "type": "ul",
-          "content": "Stakeholder interviews also revealed their target audience:",
+          "content": "The first step was to conduct an extensive audit of the existing UI components and patterns. This included:",
           "list": [
             {
-              "content": "Entrepreneurs & SMEs needing fast LLC setup."
+              "content": "Reviewing all screens to identify common components like buttons, form elements, modals, etc."
             },
             {
-              "content": "Foreign investors requiring guidance on regulations."
+              "content": "Understanding variations in typography, spacing, color schemes, and grid structures."
             },
             {
-              "content": "Established companies seeking compliance and licensing support."
+              "content": "Analyzing how these elements behaved across different platforms and devices."
             }
           ]
         },
         {
           "type": "h4",
-          "content": "Information Architecture & Wireframes"
+          "content": "Style Guide"
+        },
+        {
+          "type": "ul",
+          "content": "To ensure cross-team collaboration, we created a detailed style guide that included:",
+          "list": [
+            {
+              "content": "Color Palette: Primary, secondary, and neutral colors, along with accessibility considerations for contrast. With Kuelap orange as the primary brand color."
+            },
+            {
+              "content": "Typography: Font styles, sizes, and spacing guidelines for various use cases."
+            },
+            {
+              "content": "Icons: A unified iconography set with consistent sizing, line weights, and alignment."
+            }
+          ]
+        },
+        {
+          "type": "image-large",
+          "content": "/kuelap-style.jpg",
+          "alt": "Kuelap Style Guide",
+          "label": ""
+        },
+        {
+          "type": "h4",
+          "content": "Component Library"
+        },
+        {
+          "type": "paragraph",
+          "content": "Next, we designed a modular and flexible set of UI components. Each component was crafted with scalability and adaptability in mind."
         },
         {
           "type": "image-small",
-          "content": "/legalisasi-website-structure.jpg",
-          "alt": "Website Structure",
-          "label": "Website Structure"
-        },
-        {
-          "type": "paragraph",
-          "content": "The website structure is focused on the services provided, trust-building elements (logos of partners, testimonials, legal credentials), and conversion opportunities on every page. Once the structure is established, I started designing the low-fidelity wireframes of the 3 main pages (Home, About Us, Services) using FigJam for stakeholder approval."
-        },
-        {
-          "type": "image-large",
-          "content": "/legalisasi-wireframe.jpg",
-          "alt": "Legalisasi Wireframes",
-          "label": "Legalisasi Wireframes"
-        },
-        {
-          "type": "h4",
-          "content": "Final Designs"
-        },
-        {
-          "type": "paragraph",
-          "content": "Here are the final designs for all the pages. I use the <a href='https://bulma.io/' target='_blank'>Bulma Design System</a> for a quick and easy design layout process."
-        },
-        {
-          "type": "image-large",
-          "content": "/legalisasi-home.jpg",
-          "alt": "Home Page",
-          "label": ""
-        },
-        {
-          "type": "image-large",
-          "content": "/legalisasi-about.jpg",
-          "alt": "About Page",
-          "label": ""
-        },
-        {
-          "type": "image-large",
-          "content": "/legalisasi-services.jpg",
-          "alt": "Services Page",
-          "label": ""
-        },
-        {
-          "type": "image-large",
-          "content": "/legalisasi-insight.jpg",
-          "alt": "Insight Pages",
-          "label": ""
-        },
-        {
-          "type": "image-large",
-          "content": "/legalisasi-testimonials-faqs.jpg",
-          "alt": "Testimonials and FAQs",
+          "content": "/kuelap-components.jpg",
+          "alt": "Kuelap Components",
           "label": ""
         },
         {
           "type": "h4",
-          "content": "Development & Implementation"
-        },
-        {
-          "type": "paragraph",
-          "content": "I built a custom-made WordPress theme from scratch using <a href='https://bulma.io/' target='_blank'>Bulma CSS Framework</a>. The theme was designed to allow the client to update all the website content with ease. Also, since the final design was built with Bulma as its design system, moving on to the development phase ensured a seamless transition."
-        },
-        {
-          "type": "paragraph",
-          "content": "The website is fully responsive for desktop, tablet, and mobile."
-        },
-        {
-          "type": "paragraph",
-          "content": "<a href='https://legalisasi.com/' target='_blank'>Click to see the live website.</a>"
-        },
-        {
-          "type": "h4",
-          "content": "Outcome"
-        },
-        {
-          "type": "paragraph",
-          "content": "The redesigned website positioned Legalisasi Indonesia as a credible, modern, and client-focused legal partner."
+          "content": "Documentation"
         },
         {
           "type": "ul",
-          "content": "Key outcomes:",
+          "content": "To ensure the design system was adopted by all team members, we created comprehensive documentation that covered:",
           "list": [
             {
-              "content": "Clearer navigation and content structure."
+              "content": "Guidelines on how to use components."
             },
             {
-              "content": "Improved visual branding reflecting authority and trust."
+              "content": "List of available variants for each components."
             },
             {
-              "content": "Lead generation process via WhatsApp text."
+              "content": "Examples for guiding team members."
             }
           ]
+        },
+        {
+          "type": "image-large",
+          "content": "/kuelap-documentation.jpg",
+          "alt": "Design System Documentation",
+          "label": ""
+        },
+        {
+          "type": "h4",
+          "content": "Challenges"
+        },
+        {
+          "type": "ol",
+          "content": "",
+          "list": [
+            {
+              "content": "<strong>Conflicting priorities:</strong> It can be difficult to find time to focus on the design system, as other features and design initiatives often take precedence and demand higher priority."
+            },
+            {
+              "content": "<strong>Balancing consistency and flexibility:</strong> Striking the right balance between consistency and flexibility in the design system proved to be a challenge. It wasn’t easy to ensure the system was adaptable enough to support various products and use cases while still maintaining a cohesive and consistent design throughout."
+            },
+            {
+              "content": "<strong>Integrating legacy designs:</strong> We faced the challenge of integrating legacy designs and components that had built up over time, and aligning them with the new design system was a difficult process."
+            },
+            {
+              "content": "<strong>Handling fear of change:</strong> Implementing a new design system can disrupt teams that are accustomed to established workflows. Managing the transition and offering sufficient support and resources to help teams adjust to the new system is key to overcome this challenge."
+            }
+          ]
+        },
+        {
+          "type": "h4",
+          "content": "Implementation"
+        },
+        {
+          "type": "paragraph",
+          "content": "With the design system ready, we implemented the styles and components to our platforms with various phases to ensure smooth transition to the new designs. Eventually, we will implement the styles and components to all of Kuelap's platforms."
+        },
+        {
+          "type": "image-large",
+          "content": "/kuelap-new-cbs.jpg",
+          "alt": "Core Banking System",
+          "label": "Core Banking System, styles and components implemented"
+        },
+        {
+          "type": "image-large",
+          "content": "/kuelap-new-msa.jpg",
+          "alt": "Member Service Application",
+          "label": "Member Service Application, styles implemented"
+        },
+        {
+          "type": "image-large",
+          "content": "/kuelap-new-octo.jpg",
+          "alt": "Octo Mobile",
+          "label": "Octo Mobile, styles and components implemented"
+        },
+        {
+          "type": "h4",
+          "content": "Onwards"
+        },
+        {
+          "type": "paragraph",
+          "content": "As Kuelap evolves with more platforms, the design system will be continuously improved to ensure it remains relevant and effective."
         }
       ]
     },
@@ -252,7 +220,7 @@
       "slug": "ard-design",
       "id": 16,
       "title": "ARD Design",
-      "overview": "ARD Design is an Indonesian architecture consultancy specializing in residential, commercial, and institutional projects. Their work is renowned for blending modern functionality with natural and cultural contexts. They approached me to redesign their company profile website to showcase their portfolio better, highlight their design philosophy, and make it easier for potential clients to connect with them.",
+      "overview": "Redesigned and rebuilt ARD Design website in WordPress, with:<ul class='list-bullet'><li>Stronger brand storytelling.</li><li>Clearer presentation on portfolios and services.</li>",
       "role": [
         {
           "name": "UI Design"
@@ -509,217 +477,422 @@
       ]
     },
     {
-      "slug": "kuelap-design-system",
-      "id": 13,
-      "title": "Kuelap Design System",
-      "overview": "Kuelap provides tech banking solutions mainly for micro, small, and medium enterprises. As their platforms grew, it became clear that design inconsistencies across different products were negatively impacting the user experience and making it difficult for new designers and developers to quickly integrate and contribute to the team.",
+      "slug": "legalisasi-indonesia",
+      "id": 15,
+      "title": "Legalisasi Indonesia",
+      "overview": "Redesigned and rebuilt Legalisasi Indonesia website in WordPress, reducing dependency on developers for content updates.<ul class='list-bullet'><li>Clearer navigation and content structure.</li><li>Improved visual branding reflecting authority and trust.</li><li>Streamlined customer inquiries through a WhatsApp-first lead generation flow.</li>",
       "role": [
         {
           "name": "UI Design"
         },
         {
-          "name": "UI Components Design"
+          "name": "Front-end Development"
+        },
+        {
+          "name": "WordPress Development"
         }
       ],
-      "type": "Design System",
+      "type": "Website",
       "tools": [
         {
           "name": "Figma"
         },
         {
-          "name": "Desk Research"
+          "name": "FigJam"
+        },
+        {
+          "name": "HTML5"
+        },
+        {
+          "name": "LESS/CSS3"
+        },
+        {
+          "name": "JavaScript"
+        },
+        {
+          "name": "WordPress CMS"
+        },
+        {
+          "name": "Information Architecture"
+        },
+        {
+          "name": "UI Prototyping"
+        },
+        {
+          "name": "Usability Testing"
         }
       ],
       "link": "",
-      "link_text": "",
-      "thumbnail_path": "/kuelap-design-system.jpg",
+      "link_text": "See it Live",
+      "thumbnail_path": "/legalisasi-thumb.jpg",
       "article": [
         {
           "type": "h4",
-          "content": "Background"
-        },
-        {
-          "type": "ol",
-          "content": "When I joined Kuelap, the company was already managing three distinct platforms, each with unique functionality and designed for different devices:",
-          "list": [
-            {
-              "content": "Core Banking System (CBS), on desktop browser, to manage co-op banking system."
-            },
-            {
-              "content": "Member Service Application (MSA), on tablet, for co-op members administration."
-            },
-            {
-              "content": "Octo Mobile, on mobile, for self-service banking by co-op members."
-            }
-          ]
+          "content": "Project Overview"
         },
         {
           "type": "paragraph",
-          "content": "Each of these three platforms also have their own style and color scheme. I was tasked with contributing to a scalable and consistent design system to streamline the design between existing and future platforms, ensuring brand consistency and improving collaboration between design and development teams."
+          "content": "Legalisasi Indonesia is a Jakarta-based legal consultancy specializing in LLC (PT) creation, business licensing, virtual office, and compliance services for startups, SMEs, and international investors entering the Indonesian market. I was the UI designer and web developer, in a team with a project manager and a copywriter, tasked to revamp their existing website."
+        },
+        {
+          "type": "paragraph",
+          "content": "Their previous website was outdated, lacked clarity in service offerings, and failed to communicate trustworthiness, which is critical in the legal industry. The goal was to design a modern, professional, and accessible company profile website that builds client confidence and generates leads."
         },
         {
           "type": "h4",
           "content": "Problem Statement"
         },
         {
+          "type": "image-small",
+          "content": "/legalisasi-old.jpg",
+          "alt": "Previous Legalisasi Website",
+          "label": "Previous Legalisasi Website"
+        },
+        {
           "type": "ul",
-          "content": "The lack of a unified design system led to inconsistencies across the product interface. Each designer and developer often recreated similar components, which resulted in:",
+          "content": "The old website had several shortcomings:",
           "list": [
             {
-              "content": "Inconsistent UI elements across various parts of the product."
+              "content": "Complex navigation that confused potential clients."
             },
             {
-              "content": "Redundant design efforts and code duplication."
+              "content": "The layout lacks hierarchy and consistency, which makes navigation and content consumption difficult for users."
+            },
+            {
+              "content": "Generic design that failed to convey authority and trust."
             }
           ]
+        },
+        {
+          "type": "ul",
+          "content": "Design goals:",
+          "list": [
+            {
+              "content": "Simplify navigation and content structure."
+            },
+            {
+              "content": "Establish a professional and trustworthy visual identity."
+            },
+            {
+              "content": "Highlight the firm’s expertise in LLC creation and compliance."
+            },
+            {
+              "content": "Drive conversions with clear calls-to-action (texting via WhatsApp)"
+            }
+          ]
+        },
+        {
+          "type": "h4",
+          "content": "Research & Discovery"
+        },
+        {
+          "type": "paragraph",
+          "content": "We analyzed competitor websites (regional and international legal consultancies)."
         },
         {
           "type": "image-small",
-          "content": "/kuelap-old-designs.png",
-          "alt": "Old Designs",
+          "content": "/legalisasi-references.jpg",
+          "alt": "",
           "label": ""
         },
         {
-          "type": "h4",
-          "content": "Audit & Research"
+          "type": "ul",
+          "content": "Key insights:",
+          "list": [
+            {
+              "content": "Users expect clarity, credibility, and reassurance when choosing a legal service provider."
+            },
+            {
+              "content": "Simple language, trust badges (certifications, testimonials), and structured service breakdowns improve conversion."
+            },
+            {
+              "content": "Clear call to actions to connect are critical."
+            }
+          ]
         },
         {
           "type": "ul",
-          "content": "The first step was to conduct an extensive audit of the existing UI components and patterns. This included:",
+          "content": "Stakeholder interviews also revealed their target audience:",
           "list": [
             {
-              "content": "Reviewing all screens to identify common components like buttons, form elements, modals, etc."
+              "content": "Entrepreneurs & SMEs needing fast LLC setup."
             },
             {
-              "content": "Understanding variations in typography, spacing, color schemes, and grid structures."
+              "content": "Foreign investors requiring guidance on regulations."
             },
             {
-              "content": "Analyzing how these elements behaved across different platforms and devices."
+              "content": "Established companies seeking compliance and licensing support."
             }
           ]
         },
         {
           "type": "h4",
-          "content": "Style Guide"
-        },
-        {
-          "type": "ul",
-          "content": "To ensure cross-team collaboration, we created a detailed style guide that included:",
-          "list": [
-            {
-              "content": "Color Palette: Primary, secondary, and neutral colors, along with accessibility considerations for contrast. With Kuelap orange as the primary brand color."
-            },
-            {
-              "content": "Typography: Font styles, sizes, and spacing guidelines for various use cases."
-            },
-            {
-              "content": "Icons: A unified iconography set with consistent sizing, line weights, and alignment."
-            }
-          ]
-        },
-        {
-          "type": "image-large",
-          "content": "/kuelap-style.jpg",
-          "alt": "Kuelap Style Guide",
-          "label": ""
-        },
-        {
-          "type": "h4",
-          "content": "Component Library"
-        },
-        {
-          "type": "paragraph",
-          "content": "Next, we designed a modular and flexible set of UI components. Each component was crafted with scalability and adaptability in mind."
+          "content": "Information Architecture & Wireframes"
         },
         {
           "type": "image-small",
-          "content": "/kuelap-components.jpg",
-          "alt": "Kuelap Components",
+          "content": "/legalisasi-website-structure.jpg",
+          "alt": "Website Structure",
+          "label": "Website Structure"
+        },
+        {
+          "type": "paragraph",
+          "content": "The website structure is focused on the services provided, trust-building elements (logos of partners, testimonials, legal credentials), and conversion opportunities on every page. Once the structure is established, I started designing the low-fidelity wireframes of the 3 main pages (Home, About Us, Services) using FigJam for stakeholder approval."
+        },
+        {
+          "type": "image-large",
+          "content": "/legalisasi-wireframe.jpg",
+          "alt": "Legalisasi Wireframes",
+          "label": "Legalisasi Wireframes"
+        },
+        {
+          "type": "h4",
+          "content": "Final Designs"
+        },
+        {
+          "type": "paragraph",
+          "content": "Here are the final designs for all the pages. I use the <a href='https://bulma.io/' target='_blank'>Bulma Design System</a> for a quick and easy design layout process."
+        },
+        {
+          "type": "image-large",
+          "content": "/legalisasi-home.jpg",
+          "alt": "Home Page",
+          "label": ""
+        },
+        {
+          "type": "image-large",
+          "content": "/legalisasi-about.jpg",
+          "alt": "About Page",
+          "label": ""
+        },
+        {
+          "type": "image-large",
+          "content": "/legalisasi-services.jpg",
+          "alt": "Services Page",
+          "label": ""
+        },
+        {
+          "type": "image-large",
+          "content": "/legalisasi-insight.jpg",
+          "alt": "Insight Pages",
+          "label": ""
+        },
+        {
+          "type": "image-large",
+          "content": "/legalisasi-testimonials-faqs.jpg",
+          "alt": "Testimonials and FAQs",
           "label": ""
         },
         {
           "type": "h4",
-          "content": "Documentation"
+          "content": "Development & Implementation"
+        },
+        {
+          "type": "paragraph",
+          "content": "I built a custom-made WordPress theme from scratch using <a href='https://bulma.io/' target='_blank'>Bulma CSS Framework</a>. The theme was designed to allow the client to update all the website content with ease. Also, since the final design was built with Bulma as its design system, moving on to the development phase ensured a seamless transition."
+        },
+        {
+          "type": "paragraph",
+          "content": "The website is fully responsive for desktop, tablet, and mobile."
+        },
+        {
+          "type": "paragraph",
+          "content": "<a href='https://legalisasi.com/' target='_blank'>Click to see the live website.</a>"
+        },
+        {
+          "type": "h4",
+          "content": "Outcome"
+        },
+        {
+          "type": "paragraph",
+          "content": "The redesigned website positioned Legalisasi Indonesia as a credible, modern, and client-focused legal partner."
         },
         {
           "type": "ul",
-          "content": "To ensure the design system was adopted by all team members, we created comprehensive documentation that covered:",
+          "content": "Key outcomes:",
           "list": [
             {
-              "content": "Guidelines on how to use components."
+              "content": "Clearer navigation and content structure."
             },
             {
-              "content": "List of available variants for each components."
+              "content": "Improved visual branding reflecting authority and trust."
             },
             {
-              "content": "Examples for guiding team members."
+              "content": "Streamlined customer inquiries through a WhatsApp-first lead generation flow."
             }
           ]
-        },
-        {
-          "type": "image-large",
-          "content": "/kuelap-documentation.jpg",
-          "alt": "Design System Documentation",
-          "label": ""
-        },
-        {
-          "type": "h4",
-          "content": "Challenges"
-        },
-        {
-          "type": "ol",
-          "content": "",
-          "list": [
-            {
-              "content": "<strong>Conflicting priorities:</strong> It can be difficult to find time to focus on the design system, as other features and design initiatives often take precedence and demand higher priority."
-            },
-            {
-              "content": "<strong>Balancing consistency and flexibility:</strong> Striking the right balance between consistency and flexibility in the design system proved to be a challenge. It wasn’t easy to ensure the system was adaptable enough to support various products and use cases while still maintaining a cohesive and consistent design throughout."
-            },
-            {
-              "content": "<strong>Integrating legacy designs:</strong> We faced the challenge of integrating legacy designs and components that had built up over time, and aligning them with the new design system was a difficult process."
-            },
-            {
-              "content": "<strong>Handling fear of change:</strong> Implementing a new design system can disrupt teams that are accustomed to established workflows. Managing the transition and offering sufficient support and resources to help teams adjust to the new system is key to overcome this challenge."
-            }
-          ]
-        },
-        {
-          "type": "h4",
-          "content": "Implementation"
-        },
-        {
-          "type": "paragraph",
-          "content": "With the design system ready, we implemented the styles and components to our platforms with various phases to ensure smooth transition to the new designs. Eventually, we will implement the styles and components to all of Kuelap's platforms."
-        },
-        {
-          "type": "image-large",
-          "content": "/kuelap-new-cbs.jpg",
-          "alt": "Core Banking System",
-          "label": "Core Banking System, styles and components implemented"
-        },
-        {
-          "type": "image-large",
-          "content": "/kuelap-new-msa.jpg",
-          "alt": "Member Service Application",
-          "label": "Member Service Application, styles implemented"
-        },
-        {
-          "type": "image-large",
-          "content": "/kuelap-new-octo.jpg",
-          "alt": "Octo Mobile",
-          "label": "Octo Mobile, styles and components implemented"
-        },
-        {
-          "type": "h4",
-          "content": "Onwards"
-        },
-        {
-          "type": "paragraph",
-          "content": "As Kuelap evolves with more platforms, the design system will be continuously improved to ensure it remains relevant and effective."
         }
       ]
     },
+    {
+      "slug": "ramayana",
+      "id": 8,
+      "title": "Ramayana",
+      "overview": "Ramayana is one of the most prominent department store in Indonesia, seeking to cater the needs of middle-income to lower-income Indonesian market.",
+      "role": [
+        {
+          "name": "Front-end Development"
+        }
+      ],
+      "type": "Website",
+      "tools": [
+        {
+          "name": "HTML5"
+        },
+        {
+          "name": "CSS3"
+        },
+        {
+          "name": "jQuery"
+        }
+      ],
+      "link": "http://ramayana.co.id",
+      "link_text": "See It Live",
+      "thumbnail_path": "/ramayana-thumb.jpg",
+      "article": [
+        {
+          "type": "paragraph",
+          "content": "Ramayana is one of the most prominent department store in Indonesia, seeking to cater the needs of middle-income to lower-income Indonesian market."
+        },
+        {
+          "type": "paragraph",
+          "content": "My role was to wrote the front-end code for this project."
+        },
+        {
+          "type": "image-large",
+          "content": "/ramayana-image-homepage.jpg",
+          "alt": "Homepage",
+          "label": "-"
+        },
+        {
+          "type": "image-large",
+          "content": "/ramayana-image-products.jpg",
+          "alt": "Products",
+          "label": "-"
+        },
+        {
+          "type": "image-large",
+          "content": "/ramayana-image-product.jpg",
+          "alt": "Product detail",
+          "label": "-"
+        },
+        {
+          "type": "image-large",
+          "content": "/ramayana-image-loginregister.jpg",
+          "alt": "Login register",
+          "label": "-"
+        },
+        {
+          "type": "image-large",
+          "content": "/ramayana-image-profile.jpg",
+          "alt": "Profile",
+          "label": "-"
+        },
+        {
+          "type": "image-large",
+          "content": "/ramayana-image-wishlist.jpg",
+          "alt": "Wishlist",
+          "label": "-"
+        },
+        {
+          "type": "image-large",
+          "content": "/ramayana-image-page.jpg",
+          "alt": "Page",
+          "label": "-"
+        }
+      ]
+    },
+    {
+      "slug": "adelle-jewellery",
+      "id": 6,
+      "title": "Adelle Jewellery",
+      "overview": "Adelle is a jewellery e-store with their brand inspired by Kaizen, an ancient japanese wisdom. Itʼs a philosophy that fuels their passion for constant and never-ending improvement in everything they do for excellence.",
+      "role": [
+        {
+          "name": "Front-end Development"
+        }
+      ],
+      "type": "Website",
+      "tools": [
+        {
+          "name": "HTML5"
+        },
+        {
+          "name": "CSS3"
+        },
+        {
+          "name": "jQuery"
+        }
+      ],
+      "link": "",
+      "link_text": "See It Live",
+      "thumbnail_path": "/adelle-thumb.jpg",
+      "article": [
+        {
+          "type": "paragraph",
+          "content": "Adelle is a jewellery e-store with their brand inspired by Kaizen, an ancient japanese wisdom. Itʼs a philosophy that fuels their passion for constant and never-ending improvement in everything they do for excellence. Over the years, Adelle Jewellery has tried itʼs best to bring people the perfection of timeless natural diamond beauty within itʼs pieces."
+        },
+        {
+          "type": "paragraph",
+          "content": "My role was to wrote the front-end code for this project."
+        },
+        {
+          "type": "image-large",
+          "content": "/adelle-image-homepage.jpg",
+          "alt": "Homepage",
+          "label": "-"
+        },
+        {
+          "type": "image-large",
+          "content": "/adelle-image-products.jpg",
+          "alt": "Products",
+          "label": "-"
+        },
+        {
+          "type": "image-large",
+          "content": "/adelle-image-product.jpg",
+          "alt": "Product detail",
+          "label": "-"
+        },
+        {
+          "type": "image-large",
+          "content": "/adelle-image-loginregister.jpg",
+          "alt": "Login register",
+          "label": "-"
+        },
+        {
+          "type": "image-large",
+          "content": "/adelle-image-wishlist.jpg",
+          "alt": "Wishlist",
+          "label": "-"
+        },
+        {
+          "type": "image-large",
+          "content": "/adelle-image-page.jpg",
+          "alt": "Page",
+          "label": "-"
+        },
+        {
+          "type": "image-large",
+          "content": "/adelle-image-blog.jpg",
+          "alt": "Blog",
+          "label": "-"
+        },
+        {
+          "type": "image-large",
+          "content": "/adelle-image-blogdetail.jpg",
+          "alt": "Blog detail",
+          "label": "-"
+        },
+        {
+          "type": "image-large",
+          "content": "/adelle-image-guide.jpg",
+          "alt": "Guides",
+          "label": "-"
+        }
+      ]
+    },
+    
     {
       "slug": "valorant-app",
       "id": 12,
